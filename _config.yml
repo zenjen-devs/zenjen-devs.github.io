@@ -1,11 +1,13 @@
-title: John Doe # your name (or website title) here
-logo: "/images/BBCDB27D-4D2E-482E-BD9B-7DEC7558CEA7.JPG?raw=true" # your photo (or logo) here
+title: Jen Arriaza # your name (or website title) here
+logo: "/images/photo.HEIC?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   First description 
   <br><br>
   Second description 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/jarriaza/">Connect via LinkedIn</a> 
+  <br>
+    <a href="https://instagram.com/zenjen.io">Follow @zenjen.io on Instagram</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
