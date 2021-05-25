@@ -1,9 +1,9 @@
 title: Jen Arriaza # your name (or website title) here
 logo: "/images/mainphoto.jpg?raw=true" # your photo (or logo) here
-description: # your text below (remove <br> elements if you don't need line breaks)
-  [description here] 
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  First description 
   <br><br>
-  [description here] 
+  Second description 
   <br><br>
   <a href="https://www.linkedin.com/in/jarriaza/"><b>Connect via LinkedIn</a> 
   <br>
@@ -11,3 +11,4 @@ description: # your text below (remove <br> elements if you don't need line brea
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+
