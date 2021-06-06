@@ -1,18 +1,18 @@
-## @zenjen-devs
+# Jen's Portfolio
 
 ---
-### Most Recent Projects 
+## Most Recent Projects 
 
-[Analyzing NYC Health Inspection Data: Building an ML model to predict restauraunt scores by type & location (Python\scikit-learn)](/timesseriesproject)
+### [Analyzing NYC Health Inspection Data: Building an ML model to predict restauraunt scores by type & location (Python\scikit-learn)](/timesseriesproject)
 <img src="images/healthinspectiondatabanner.png?raw=true"/>
 
 ---
 
-[Mixed-Effects Models in SAS Studio: Predicting treatmeant outcomes using wide-format data](/pdf/sample_presentation.pdf)
+### [Mixed-Effects Models in SAS Studio: Predicting treatmeant outcomes using wide-format data](/pdf/sample_presentation.pdf)
 <img src="images/sasstudio1.JPG?raw=true"/>
 
 ---
-[Waste in NYC: A time-series analysis to predict waste/refuse traffic in the boroughs (Python\numpy)](http://example.com/)
+### [Waste in NYC: A time-series analysis to predict waste/refuse traffic in the boroughs (Python\numpy)](http://example.com/)
 <img src="images/washingtonsquare.JPG?raw=true"/>
 
 ---
