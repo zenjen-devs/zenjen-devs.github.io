@@ -12,7 +12,7 @@
 <img src="images/sasstudio1.JPG?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Waste in NYC: A time-series analysis to predict waste/refuse traffic in the boroughs (Python\numpy)](http://example.com/)
 <img src="images/washingtonsquare.JPG?raw=true"/>
 
 ---
