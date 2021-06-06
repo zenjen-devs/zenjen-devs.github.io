@@ -3,7 +3,7 @@
 ---
 ### Most Recent Projects 
 
-[Analyzing NYC Health Inspection Data: A machine learning model to predict restauraunt's scores by type and location](/timesseriesproject)
+[Analyzing NYC Health Inspection Data: Building an ML model to predict restauraunt scores by type & location (Python\scikit-learn)](/timesseriesproject)
 <img src="images/healthinspectiondatabanner.png?raw=true"/>
 
 ---
