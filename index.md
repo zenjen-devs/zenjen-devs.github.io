@@ -4,9 +4,10 @@
 ### Most Recent Projects 
 
 [Analyzing NYC Health Inspection Data: A machine learning model to predict restauraunt's scores by type and location](/timesseriesproject)
-<img align="center" src="images/healthinspectiondatabanner.png?raw=true" height="30" width"60"/>
+<img src="images/healthinspectiondatabanner.png?raw=true"/>
 
 ---
+
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
