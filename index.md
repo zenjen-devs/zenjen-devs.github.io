@@ -1,10 +1,9 @@
 ## @zenjen-devs
 
 ---
+### Most Recent Projects 
 
-### Category Name 1 
-
-[Project 1 Title](/timesseriesproject)
+[Analyzing NYC Health Inspection Data: A machine learning model to predict restauraunt's scores by type and location](/timesseriesproject)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
