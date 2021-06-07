@@ -13,7 +13,7 @@
 
 ---
 ### [Waste in NYC: A time-series analysis to predict waste/refuse traffic in the boroughs (Python\numpy)](http://example.com/)
-<img src="images/washingtonsquare.JPG?raw=true"/>
+<img src="images/washingtonsquare-nyu.png?raw=true"/>
 
 ---
 
