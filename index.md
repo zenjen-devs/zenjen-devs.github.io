@@ -9,7 +9,7 @@
 ---
 
 ### [Mixed-Effects Models in SAS Studio: Predicting treatmeant outcomes using wide-format data](/pdf/sample_presentation.pdf)
-<img src="images/sasstudio1.JPG?raw=true"/>
+<img src="images/data-science-fos-header.jpg?raw=true"/>
 
 ---
 ### [Waste in NYC: A time-series analysis to predict waste/refuse traffic in the boroughs (Python\numpy)](http://example.com/)
