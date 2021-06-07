@@ -3,7 +3,7 @@
 ---
 ## Most Recent Projects 
 
-### [Analyzing NYC Health Inspection Data: Building an ML model to predict restauraunt scores by type & location (Python\scikit-learn)](/nyc-health-inspections-predictingscores)
+### [Analyzing NYC Health Inspection Data: Building an ML model to predict restaurant scores (Python\scikit-learn)](/nyc-health-inspections-predictingscores)
 <img src="images/healthinspectiondatabanner.png?raw=true"/>
 
 ---
