@@ -8,7 +8,7 @@
 
 ---
 
-### [Mixed-Effects/Multi-Level Models in SAS: Predicting treatmeant outcomes using wide-format data](/pdf/sample_presentation.pdf)
+### [Mixed-Effects/Multi-Level Models in SAS: Predicting treatmeant outcomes with clustered data](/pdf/sample_presentation.pdf)
 <img src="images/multi-levelmodel.png?raw=true"/>
 
 ---
@@ -19,7 +19,7 @@
 
 ## Past Projects
 
-### Please check back here soon——follow me on [Instagram](http://instagram.com/zenjen.io) for updates! <p align="right">
+### Please check back here soon—follow me on [Instagram](http://instagram.com/zenjen.io) for updates! <p align="right">
 <img align="center" src="https://image.flaticon.com/icons/png/128/174/174855.png" alt="IG:zenjen.io" height="20" width="20" /></p>
 
 ---
