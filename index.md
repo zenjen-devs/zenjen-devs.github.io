@@ -17,13 +17,10 @@
 
 ---
 
-### Category Name 2
+## Past Projects
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+### Please check back here soon--follow me on [Instagram] for updates! (http://instagram.com/zenjen.io) <p align="right">
+<img align="center" src="https://image.flaticon.com/icons/png/128/174/174855.png" alt="IG:zenjen.io" height="20" width="20" /></p>
 
 ---
 
