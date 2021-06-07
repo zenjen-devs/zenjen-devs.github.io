@@ -8,13 +8,12 @@ Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolor
 
 ```sas
 proc mixed data=unidata method=ml;
-class subject TreatmentGroup time;
-model outcome= TreatmentGroup time  time*TreatmentGroup/solution;
-repeated time /subject=subject type=un r rcorr;
-lsmeans time*TreatmentGroup/diffs;
-ods output diffs=TreatmentGroupdiffs lsmeans=groupcdlsmeans;
+ class subject TrtGroup time;
+ model outcome= TrtGroup time  time*TrtGroup/solution;
+ repeated time /subject=subject type=un r rcorr;
+ lsmeans time*TrtGroup/diffs;
+ods output diffs=TrtGroupdiffs lsmeans=TrtGrouplsmeans;
 title 'repeated measures modelling treatment outcome'; 
-
 run;
 ```
 
