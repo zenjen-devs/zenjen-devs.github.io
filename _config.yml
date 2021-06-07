@@ -20,7 +20,7 @@ description: > # text below
   <img src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="15" width="15" />
     <a href="mailto:jen.arriaza@nyu.edu"><b> jen.arriaza@nyu.edu</b></a> 
   <br>
-    <img src="https://cdn.iconscout.com/icon/free/png-256/github-113-438180.png" height="15" width="15" />
+    <img src="https://cdn.iconscout.com/icon/free/png-256/github-113-438180.png" height="20" width="20" />
     <a href="https://github.com/jenarriaz">View on Github</b></a>
   
 theme: jekyll-theme-minimal
