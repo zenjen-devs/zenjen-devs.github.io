@@ -8,12 +8,13 @@ Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolor
 
 ```sas
 proc mixed data=unidata method=ml;
-  class subject TreatmentGroup time;
-  model outcome= TreatmentGroup time  time*TreatmentGroup/solution;
-  repeated time /subject=subject type=un r rcorr;
-  lsmeans time*TreatmentGroup/diffs;
-  ods output diffs=TreatmentGroupdiffs lsmeans=groupcdlsmeans;
-  title 'repeated measures modelling treatment outcome'; 
+class subject TreatmentGroup time;
+model outcome= TreatmentGroup time  time*TreatmentGroup/solution;
+repeated time /subject=subject type=un r rcorr;
+lsmeans time*TreatmentGroup/diffs;
+ods output diffs=TreatmentGroupdiffs lsmeans=groupcdlsmeans;
+title 'repeated measures modelling treatment outcome'; 
+
 run;
 ```
 
@@ -33,4 +34,4 @@ if (isAwesome){
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
