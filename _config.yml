@@ -1,13 +1,19 @@
 title: zenjen-devs # your name (or website title) here
 logo: "/images/mainphoto.JPG?raw=true" # your photo (or logo) here
+plugins:
+  - jemoji
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Hello! I'm Jen, programmer & BSc. data science senior at NYU. 
-  <br><br>
-  This site showcases my data science projects. Please explore and contact me with any questions. 
-  <br><br>
-  <a href="https://www.linkedin.com/in/jarriaza/"><b>Connect via LinkedIn</a> 
+  Hello! I'm Jen :seedling:
   <br>
-    <a href="https://instagram.com/zenjen.io">Follow @zenjen.io on Instagram</b></a> 
+  <b>Programmer & BSc. Data Science Senior at NYU</b> 
+  <br><br>
+  This site showcases my data science projects.
+  <br>
+  Please explore and contact me with any questions. 
+  <br><br>
+  <a href="https://www.linkedin.com/in/jarriaza/"><b>Connect via LinkedIn</b></a> 
+  <br>
+    <a href="https://instagram.com/zenjen.io">Follow on Instagram</b></a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
