@@ -8,7 +8,7 @@
 
 ---
 
-### [Mixed-Effects/Multi-Level Models in SAS: Predicting treatmeant outcomes with clustered data](/pdf/sample_presentation.pdf)
+### [Mixed-Effects/Multi-Level Models in SAS: Predicting treatment outcomes with clustered data](/pdf/sample_presentation.pdf)
 <img src="images/multi-levelmodel.png?raw=true"/>
 
 ---
