@@ -19,8 +19,7 @@
 
 ## Past Projects
 
-### Coming soon—follow me on [Instagram](http://instagram.com/zenjen.io) for updates!
-<img align="right" src="https://image.flaticon.com/icons/png/128/174/174855.png" alt="IG:zenjen.io" height="20" width="20" />
+### Coming soon—follow me on [Instagram](http://instagram.com/zenjen.io) for updates! <img src="https://image.flaticon.com/icons/png/128/174/174855.png" alt="IG:zenjen.io" height="20" width="20" />
 
 ---
 
