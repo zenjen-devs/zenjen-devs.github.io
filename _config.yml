@@ -2,7 +2,7 @@ title: zenjen-devs # your name (or website title) here
 logo: "/images/mainphoto.JPG?raw=true" # your photo (or logo) here
 plugins:
   - jemoji
-description: > # your text below (remove <br> elements if you don't need line breaks)
+description: > # text below
   Hello! I'm Jen :seedling:
   <br>
   <b>Programmer & BSc. Data Science Senior at NYU ('22)</b> 
