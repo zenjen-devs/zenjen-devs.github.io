@@ -1,7 +1,7 @@
-# Jen's Portfolio
+#   Hello! I'm Jen :seedling:
 
 ---
-## Most Recent Projects 
+## Portfolio
 
 ### [Analyzing NYC Health Inspection Data: Building an ML model to predict restaurant scores (Python\scikit-learn)](/nyc-health-inspections-predictingscores)
 <img src="images/healthinspectiondatabanner.png?raw=true"/>
