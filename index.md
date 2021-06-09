@@ -39,8 +39,9 @@ Training a model to find the cleanest eateries and predict restaurant scores.
 <br>
 <br>
 <a href="/pdf/sample_presentation.pdf"><img src="images/healthinspectiondatabanner.png?raw=true"/></a>
----
 
+
+---
 ### Past Projects
 <br>
 Coming soon—follow my [Instagram](http://instagram.com/zenjen.io) for updates! <img src="https://image.flaticon.com/icons/png/128/174/174855.png" alt="IG:zenjen.io" height="15" width="15" />
