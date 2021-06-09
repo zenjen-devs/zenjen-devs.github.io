@@ -13,7 +13,7 @@
 Modeling treatment outcomes with repeated measures data.
 <br>
 <br>
-<a href="http://zenjen-devs.github.io/statisticaldataanalysis.md"><img src="images/dataprofessionals.JPG?raw=true"/></a>
+<a href="https://zenjen-devs.github.io/statisticaldataanalysis"><img src="images/dataprofessionals.JPG?raw=true"/></a>
 
 ---
 ### [Predictive Analytics](http://example.com/)
