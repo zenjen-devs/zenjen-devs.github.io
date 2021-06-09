@@ -7,28 +7,33 @@
 
 ---
 
-### [Statisical Data Analysis](/pdf/sample_presentation.pdf)
+### [Statisical Data Analysis](statisticaldataanalysis.md)
 <b>Current Project</b>: Hierarchical linear models/Mixed-effects (SAS Studio)
 <br><i>Modeling treatment outcomes with repeated measures data</i>
 <br>
 <a href="statisticaldataanalysis.md"><img src="images/dataprofessionals.JPG?raw=true"/></a>
 
 ---
-### [Analytics Engineering](http://example.com/)
-<b>Time-series analysis (Python\SQL): </b><i>Analyzing NYC OpenData for historical waste & recycling trends</i>
+### [Predictive Analytics](http://example.com/)
+<b>Current Project</b>: Time-series analysis with NYC OpenData (Python\SQL)</b>
 <br>
-<img src="images/civilizationfiction.jpg?raw=true"/>
+><i>Analyzing historical waste and recycling trends in NYC</i>
+<br>
+<a href="predictiveanalytics.md"><img src="images/civilizationfiction.jpg?raw=true"/></a>
 
 ---
 
-### [Academic Projects](/nyc-health-inspections-predictingscores)
-  <b>Featured: NYC OpenData Health Inspection Citations (Python\scikit-learn)</b>—<i>analyzing data to find the cleanest NYC eateries, building an ML model to predict restaurant scores</i>
-<a href="nyc-health-inspections-predictingscores.md"><img src="images/healthinspectiondatabanner.png?raw=true"/></a>
+### [Academic Projects](/pdf/sample_presentation.pdf)
+<b>Current Project</b>: Exploring NYC Health Inspection Outcomes with Logistic Regression (Python\scikit-learn)
+<br>
+<i>Analyzing citations data to find the cleanest NYC eateries, building an ML model to predict restaurant scores</i>
+<br>
+<a href="/pdf/sample_presentation.pdf"><img src="images/healthinspectiondatabanner.png?raw=true"/></a>
 ---
 
 ### Past Projects
 
-Coming soon—follow me on [Instagram](http://instagram.com/zenjen.io) for updates! <img src="https://image.flaticon.com/icons/png/128/174/174855.png" alt="IG:zenjen.io" height="15" width="15" />
+Coming soon—follow my [Instagram](http://instagram.com/zenjen.io) for updates! <img src="https://image.flaticon.com/icons/png/128/174/174855.png" alt="IG:zenjen.io" height="15" width="15" />
 
 ---
 
