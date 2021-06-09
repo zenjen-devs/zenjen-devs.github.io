@@ -8,7 +8,7 @@
 ---
 
 ### [Statisical Data Analysis](/pdf/sample_presentation.pdf)
-<b>Hierarchical linear models in SAS Studio:</b> <i>Predicting outcomes with repeated measures data</i>
+<b>Hierarchical linear models/Mixed-effects (SAS Studio):</b> <i>Modeling treatment outcomes with repeated measures data</i>
 <br>
 <a href="statisticaldataanalysis.md"><img src="images/dataprofessionals.JPG?raw=true"/></a>
 
@@ -25,9 +25,9 @@
 <a href="nyc-health-inspections-predictingscores.md"><img src="images/healthinspectiondatabanner.png?raw=true"/></a>
 ---
 
-## Past Projects
+### Past Projects
 
-# Coming soon—follow me on [Instagram](http://instagram.com/zenjen.io) for updates! <img src="https://image.flaticon.com/icons/png/128/174/174855.png" alt="IG:zenjen.io" height="15" width="15" />
+Coming soon—follow me on [Instagram](http://instagram.com/zenjen.io) for updates! <img src="https://image.flaticon.com/icons/png/128/174/174855.png" alt="IG:zenjen.io" height="15" width="15" />
 
 ---
 
