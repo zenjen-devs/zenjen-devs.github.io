@@ -1,14 +1,15 @@
-## Portfolio
+## *Portfolio*
 
 ---
-### Recent Projects
+### Ongoing & Completed Data Science Projects
 
 
 
 ---
 
 ### [Statisical Data Analysis](/pdf/sample_presentation.pdf)
-<b>Hierarchical linear models/Mixed-effects (SAS Studio):</b> <i>Modeling treatment outcomes with repeated measures data</i>
+<b>Current Project</b>: Hierarchical linear models/Mixed-effects (SAS Studio)
+<br><i>Modeling treatment outcomes with repeated measures data</i>
 <br>
 <a href="statisticaldataanalysis.md"><img src="images/dataprofessionals.JPG?raw=true"/></a>
 
