@@ -14,7 +14,7 @@
 
 ---
 ### [Analytics Engineering](http://example.com/)
-<b><Time-series analysis (Python\SQL):</b><i>Analyzing NYC OpenData for historical waste & recycling trends</i>
+<b>Time-series analysis (Python\SQL):</b><i>Analyzing NYC OpenData for historical waste & recycling trends</i>
 <br>
 <img src="images/civilizationfiction.jpg?raw=true"/>
 
