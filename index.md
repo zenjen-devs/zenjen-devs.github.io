@@ -1,11 +1,11 @@
+[Bio](/bio)  |  [Resume](/pdf/JenArriaza_Resume.pdf)    |  [Contact](mailto:jenarriaza@nyu.edu)
+---
+
+
 ## *Portfolio*
 
 ---
 ### Ongoing & Completed Data Science Projects
-
-
-
----
 
 ### [Statisical Data Analysis](/statisticaldataanalysis)
 <i>Current Project</i>: Hierarchical linear models/Mixed-effects (SAS Studio)
