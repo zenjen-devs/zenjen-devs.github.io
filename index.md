@@ -8,26 +8,26 @@
 ---
 
 ### [Statisical Data Analysis](statisticaldataanalysis.md)
-<b>Current Project</b>: Hierarchical linear models/Mixed-effects (SAS Studio)
+<i>Current Project</i>: Hierarchical linear models/Mixed-effects (SAS Studio)
 <br>
-<i>Modeling treatment outcomes with repeated measures data</i>
+Modeling treatment outcomes with repeated measures data.
 <br>
 <a href="statisticaldataanalysis.md"><img src="images/dataprofessionals.JPG?raw=true"/></a>
 
 ---
 ### [Predictive Analytics](http://example.com/)
-<b>Current Project</b>: Time-series analysis with NYC OpenData (Python\SQL)</b>
+<i>Current Project</i>: Time-series Analysis with NYC OpenData (Python\SQL)
 <br>
-><i>Analyzing historical waste and recycling trends in NYC</i>
+Analyzing historical waste and recycling trends in NYC.
 <br>
 <a href="predictiveanalytics.md"><img src="images/civilizationfiction.jpg?raw=true"/></a>
 
 ---
 
 ### [Academic Projects](/pdf/sample_presentation.pdf)
-<b>Current Project</b>: Exploring NYC Health Inspection Outcomes with Logistic Regression (Python\scikit-learn)
+<i>Current Project</i>: Exploring NYC Health Inspection Outcomes with Logistic Regression (Python\scikit-learn)
 <br>
-<i>Analyzing citations data to find the cleanest NYC eateries, building an ML model to predict restaurant scores</i>
+Analyzing citations data to find the cleanest NYC eateries and predict restaurant scores.
 <br>
 <a href="/pdf/sample_presentation.pdf"><img src="images/healthinspectiondatabanner.png?raw=true"/></a>
 ---
