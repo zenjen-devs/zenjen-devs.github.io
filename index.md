@@ -6,10 +6,9 @@
   </p>
 
 
-## *Portfolio*
+### Projects
 
 ---
-### Ongoing & Completed Data Science Projects
 
 ### [Statisical Data Analysis](/statisticaldataanalysis)
 <i>Current Project</i>: Hierarchical linear models/Mixed-effects (SAS Studio)
@@ -30,11 +29,13 @@ Analyzing historical waste and recycling trends in NYC.
 
 ---
 
-### [Academic Projects](/pdf/sample_presentation.pdf)
+### Academic Projects
 
 Exploring NYC Health Inspection Outcomes (Python\scikit-learn)
 <br>
 Training a model to find the cleanest eateries and predict restaurant scores.
+<br>
+[View Presentation](/pdf/sample_presentation.pdf)
 <br>
 <br>
 <a href="/pdf/sample_presentation.pdf"><img src="images/healthinspectiondatabanner.png?raw=true"/></a>
