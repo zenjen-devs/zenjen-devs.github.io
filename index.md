@@ -1,4 +1,4 @@
-[Bio](/bio)  |  [Resume](/pdf/JenArriaza_Resume.pdf)    |  [Contact](mailto:jenarriaza@nyu.edu)
+##### [Bio](/bio)  |  [Resume](/pdf/JenArriaza_Resume.pdf)    |  [Contact](mailto:jenarriaza@nyu.edu)
 ---
 
 
