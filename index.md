@@ -9,7 +9,8 @@
 
 ### [Statisical Data Analysis](statisticaldataanalysis.md)
 <b>Current Project</b>: Hierarchical linear models/Mixed-effects (SAS Studio)
-<br><i>Modeling treatment outcomes with repeated measures data</i>
+<br>
+<i>Modeling treatment outcomes with repeated measures data</i>
 <br>
 <a href="statisticaldataanalysis.md"><img src="images/dataprofessionals.JPG?raw=true"/></a>
 
