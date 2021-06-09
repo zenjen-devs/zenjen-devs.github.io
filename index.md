@@ -25,9 +25,9 @@ Analyzing historical waste and recycling trends in NYC.
 ---
 
 ### [Academic Projects](/pdf/sample_presentation.pdf)
-<i>Current Project</i>: Exploring NYC Health Inspection Outcomes with Regression (Python\scikit-learn)
+<i>Current Project</i>: Exploring NYC Health Inspection Outcomes (Python\scikit-learn)
 <br>
-Analyzing citations data to find the cleanest eateries and predict restaurant scores.
+Analyzing citations data to find the cleanest eateries, use an ML model to predict restaurant scores.
 <br>
 <a href="/pdf/sample_presentation.pdf"><img src="images/healthinspectiondatabanner.png?raw=true"/></a>
 ---
