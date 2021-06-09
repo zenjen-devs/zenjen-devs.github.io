@@ -8,28 +8,26 @@
 ---
 
 ### [Statisical Data Analysis](/pdf/sample_presentation.pdf)
-Mixed-Effects/Hierarchical linear models: <i>Predicting treatment outcomes with clustered data (SAS Studio)</i>
+<b>Hierarchical linear models in SAS Studio:</b> <i>Predicting outcomes with repeated measures data</i>
 <br>
 <a href="statisticaldataanalysis.md"><img src="images/dataprofessionals.JPG?raw=true"/></a>
 
 ---
 ### [Analytics Engineering](http://example.com/)
-Waste in NYC: <i>A time-series analysis to predict waste and recycling traffic in the boroughs (SQL\Python)</i>
+<b><Time-series analysis (Python\SQL):</b><i>Analyzing NYC OpenData for historical waste & recycling trends</i>
 <br>
 <img src="images/civilizationfiction.jpg?raw=true"/>
 
 ---
 
 ### [Academic Projects](/nyc-health-inspections-predictingscores)
-Featured: NYC OpenData Health Inspection Citations
-<br>
-<i> Analyzing historical data to find the cleanest NYC eateries, building an ML model to predict restaurant scores</i>--(Python\scikit-learn)
+  <b>Featured: NYC OpenData Health Inspection Citations (Python\scikit-learn)</b>—<i>analyzing data to find the cleanest NYC eateries, building an ML model to predict restaurant scores</i>
 <a href="nyc-health-inspections-predictingscores.md"><img src="images/healthinspectiondatabanner.png?raw=true"/></a>
 ---
 
 ## Past Projects
 
-### Coming soon—follow me on [Instagram](http://instagram.com/zenjen.io) for updates! <img src="https://image.flaticon.com/icons/png/128/174/174855.png" alt="IG:zenjen.io" height="15" width="15" />
+# Coming soon—follow me on [Instagram](http://instagram.com/zenjen.io) for updates! <img src="https://image.flaticon.com/icons/png/128/174/174855.png" alt="IG:zenjen.io" height="15" width="15" />
 
 ---
 
