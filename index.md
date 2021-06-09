@@ -20,14 +20,17 @@ Modeling treatment outcomes with repeated measures data.
 <br>
 Analyzing historical waste and recycling trends in NYC.
 <br>
+<br>
 <a href="predictiveanalytics.md"><img src="images/civilizationfiction.jpg?raw=true"/></a>
 
 ---
 
 ### [Academic Projects](/pdf/sample_presentation.pdf)
+
 Exploring NYC Health Inspection Outcomes (Python\scikit-learn)
 <br>
-Analyzing citations data to find the cleanest eateries, utilize ML to predict restaurant scores.
+Training a model to find the cleanest eateries and predict restaurant scores.
+<br>
 <br>
 <a href="/pdf/sample_presentation.pdf"><img src="images/healthinspectiondatabanner.png?raw=true"/></a>
 ---
