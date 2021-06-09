@@ -25,15 +25,15 @@ Analyzing historical waste and recycling trends in NYC.
 ---
 
 ### [Academic Projects](/pdf/sample_presentation.pdf)
-<i>Current Project</i>: Exploring NYC Health Inspection Outcomes with Logistic Regression (Python\scikit-learn)
+<i>Current Project</i>: Exploring NYC Health Inspection Outcomes with Regression (Python\scikit-learn)
 <br>
-Analyzing citations data to find the cleanest NYC eateries and predict restaurant scores.
+Analyzing citations data to find the cleanest eateries and predict restaurant scores.
 <br>
 <a href="/pdf/sample_presentation.pdf"><img src="images/healthinspectiondatabanner.png?raw=true"/></a>
 ---
 
 ### Past Projects
-
+<br>
 Coming soon—follow my [Instagram](http://instagram.com/zenjen.io) for updates! <img src="https://image.flaticon.com/icons/png/128/174/174855.png" alt="IG:zenjen.io" height="15" width="15" />
 
 ---
