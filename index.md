@@ -8,13 +8,13 @@
 ---
 
 ### [Statisical Data Analysis](/pdf/sample_presentation.pdf)
-Mixed-Effects/Multi-Level models in SAS Studio: <i>Predicting treatment outcomes with clustered data</i>
+Mixed-Effects/Hierarchical linear models: <i>Predicting treatment outcomes with clustered data (SAS Studio)</i>
 <br>
 <a href="statisticaldataanalysis.md"><img src="images/dataprofessionals.JPG?raw=true"/></a>
 
 ---
 ### [Analytics Engineering](http://example.com/)
-Waste in NYC: <i>A time-series analysis to predict waste/refuse traffic in the boroughs (Python\numpy)</i>
+Waste in NYC: <i>A time-series analysis to predict waste/refuse traffic in the boroughs (SQL\Python)</i>
 <br>
 <img src="images/washingtonsquare-nyu.png?raw=true"/>
 
