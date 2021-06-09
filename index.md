@@ -12,6 +12,7 @@
 <br>
 Modeling treatment outcomes with repeated measures data.
 <br>
+<br>
 <a href="statisticaldataanalysis.md"><img src="images/dataprofessionals.JPG?raw=true"/></a>
 
 ---
