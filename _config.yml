@@ -2,11 +2,11 @@ title: Jen Arriaza # your name (or website title) here
 logo: "/images/profilephoto2.JPG?raw=true" # your photo (or logo) here
 plugins:
   - jemoji
-description: > # text below
-@zenjen-devs               
+  description: > # text below
+  @zenjen-devs
   <br>
   <br>
-  <b><h2>Hello! I'm Jen :seedling:</b></h2>
+ <b><h2>Hello! I'm Jen :seedling:</b></h2>
   <p>I analyze, visualize, & interpret data to decipher problems, make informed decisions, and explore outcomes.<br>
   <i>A bit of wizardy</i> :crystal_ball:
   <br>
