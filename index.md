@@ -7,13 +7,13 @@
 
 ---
 
-### [Statisical Data Analysis](statisticaldataanalysis.md)
+### [Statisical Data Analysis](/statisticaldataanalysis)
 <i>Current Project</i>: Hierarchical linear models/Mixed-effects (SAS Studio)
 <br>
 Modeling treatment outcomes with repeated measures data.
 <br>
 <br>
-<a href="statisticaldataanalysis.md"><img src="images/dataprofessionals.JPG?raw=true"/></a>
+<a href="http://zenjen-devs.github.io/statisticaldataanalysis.md"><img src="images/dataprofessionals.JPG?raw=true"/></a>
 
 ---
 ### [Predictive Analytics](http://example.com/)
