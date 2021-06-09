@@ -1,5 +1,9 @@
-##### [Bio](/bio)  |  [Resume](/pdf/JenArriaza_Resume.pdf)    |  [Contact](mailto:jenarriaza@nyu.edu)
----
+<p align="right">
+  <a href="https://zenjen-devs.github.io/bio">Bio</a> |
+  <a href="https://zenjen-devs.github.io/pdfs/JenArriaza_Resume.pdf">Resume</a> |
+  <a href="mailto:jen.arriaza@nyu.edu">Contact</a>
+  
+  </p>
 
 
 ## *Portfolio*
