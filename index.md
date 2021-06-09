@@ -10,7 +10,7 @@
 ### [Statisical Data Analysis](/pdf/sample_presentation.pdf)
 Mixed-Effects/Multi-Level models in SAS Studio: <i>Predicting treatment outcomes with clustered data</i>
 <br>
-<a href="statisticaldataanalysis.md"><img src="images/multi-levelmodel.png?raw=true"/></a>
+<a href="statisticaldataanalysis.md"><img src="images/dataprofessionals.JPG?raw=true"/></a>
 
 ---
 ### [Analytics Engineering](http://example.com/)
