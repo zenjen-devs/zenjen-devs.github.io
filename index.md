@@ -14,7 +14,7 @@ Mixed-Effects/Hierarchical linear models: <i>Predicting treatment outcomes with 
 
 ---
 ### [Analytics Engineering](http://example.com/)
-Waste in NYC: <i>A time-series analysis to predict waste/refuse traffic in the boroughs (SQL\Python)</i>
+Waste in NYC: <i>A time-series analysis to predict waste and recycling traffic in the boroughs (SQL\Python)</i>
 <br>
 <img src="images/civilizationfiction.jpg?raw=true"/>
 
