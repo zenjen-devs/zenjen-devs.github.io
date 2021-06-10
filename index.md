@@ -14,25 +14,29 @@
 
 <br>
 <a href="https://zenjen-devs.github.io/statisticaldataanalysis"><img src="images/dataprofessionals.JPG?raw=true"/></a>
+<br>
 <i>Current Project</i>: Hierarchical linear models/Mixed-effects (SAS Studio)
 <br>
 Modeling treatment outcomes with repeated measures data.
 <br>
+
 ---
-<br>
+
 ### [Predictive Analytics](http://example.com/)
 <br>
 <a href="predictiveanalytics.md"><img src="images/civilizationfiction.jpg?raw=true"/></a>
+<br>
 <i>Current Project</i>: Time-series Analysis with NYC OpenData (Python\SQL)
 <br>
 Analyzing historical waste and recycling trends in NYC.
 <br>
 
 ---
-<br>
-### Academic Projects
+
+<h3> Academic Projects</h3>
 <br>
 <a href="/pdf/sample_presentation.pdf"><img src="images/healthinspectiondatabanner.png?raw=true"/></a>
+<br>
 Exploring NYC Health Inspection Outcomes (Python\scikit-learn)
 <br>
 Training a model to find the cleanest eateries and predict restaurant scores.
