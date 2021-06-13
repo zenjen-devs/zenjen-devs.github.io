@@ -12,9 +12,9 @@
 
 ### [Internship 2021: BMWNA's Autonomous Driver Team](/internship2021)
 
-<a href="https://zenjen-devs.github.io/internship2021"><img src="images/BMW-Intel.jpg?raw=true"/></a>
+<p><a href="https://zenjen-devs.github.io/internship2021"><img src="images/BMW-Intel.jpg?raw=true"/></a>
 <br>
-<span style="float:right; color: gray;"><sup>Source: Body Shop Business</sup></span>
+<span style="float:right; color: gray;"><sup>Source: Body Shop Business</sup></span></p>
 <br>
 <i>Coming Soon</i>
 <br>
