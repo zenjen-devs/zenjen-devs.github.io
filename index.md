@@ -31,7 +31,7 @@ Analyzing historical waste and recycling trends in NYC.
 ---
 
 <h3> Academic Projects</h3>
-<a href="/pdf/sample_presentation.pdf"><img src="images/analytics-apple.png?raw=true"/></a>
+<a href="/pdf/sample_presentation.pdf"><img src="images/analytics-apple2.png?raw=true"/></a>
 <p align="right"><span style="color:gray; font-size:8pt;">Source: Dribble/Zelenika</span></p>
 <br>
 Exploring NYC Health Inspection Outcomes (Python\scikit-learn)
