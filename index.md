@@ -62,9 +62,9 @@ Training a model to find the cleanest eateries and predict restaurant scores.
 ---
 
 
-### Past Projects
+### Archive
 <br>
-Coming soon—follow my [Instagram](https://www.instagram.com/zenjen.io) for updates!
+Follow my [Instagram](https://www.instagram.com/zenjen.io) for updates!
 
 
 
