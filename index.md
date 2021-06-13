@@ -12,8 +12,8 @@
 
 ### [Statisical Data Analysis](/statisticaldataanalysis)
 
-<a href="https://zenjen-devs.github.io/statisticaldataanalysis"><img src="images/dataprofessionals.JPG?raw=true"/></a><p align="right"><span style="color:gray; font-size:8pt;">Source: SAS</span></p>
-
+<a href="https://zenjen-devs.github.io/statisticaldataanalysis"><img src="images/dataprofessionals.JPG?raw=true"/></a>
+<p align="right"><span style="color:gray; font-size:8pt;">Source: SAS</span></p>
 <i>Current Project</i>: Hierarchical linear models/Mixed-effects (SAS Studio)
 <br>
 Modeling treatment outcomes with repeated measures data.
@@ -22,8 +22,9 @@ Modeling treatment outcomes with repeated measures data.
 ---
 
 ### [Predictive Analytics](http://example.com/)
-<a href="predictiveanalytics.md"><img src="images/civilizationfiction.jpg?raw=true"/></a><p align="right"><span style="color:gray; font-size:8pt;">Source: Cyberpunk 2077</span></p>
- 
+<a href="predictiveanalytics.md"><img src="images/civilizationfiction.jpg?raw=true"/></a>
+<p align="right"><span style="color:gray; font-size:8pt;">Source: Cyberpunk 2077</span></p>
+
 <i>Current Project</i>: Time-series Analysis with NYC OpenData (Python\SQL)
 <br>
 Analyzing historical waste and recycling trends in NYC.
