@@ -1,6 +1,6 @@
 <p align="right">
-  <a href="https://zenjen-devs.github.io/bio"><b><sup>Bio</sup></b></a> |
-  <a href="https://zenjen-devs.github.io/pdfs/JenArriaza_Resume.pdf"><b><sup>Resume</sup></b></a> |
+  <a href="https://zenjen-devs.github.io/bio"><b><sup>Bio</sup></b></a><sup> |</sup>
+  <a href="https://zenjen-devs.github.io/pdfs/JenArriaza_Resume.pdf"><b><sup>Resume</sup></b></a> <sup>|</sup>
   <a href="mailto:jen.arriaza@nyu.edu"><b><sup>Contact</sup></b></a>
   
   </p>
@@ -25,6 +25,7 @@
 ### [Statisical Data Analysis](/statisticaldataanalysis)
 
 <a href="https://zenjen-devs.github.io/statisticaldataanalysis"><img src="images/dataprofessionals.JPG?raw=true"/></a>
+<br>
 <span style="float:right; color: gray;"><sup>Source: SAS</sup></span>
 <br>
 <i>Current Project</i>: Hierarchical linear models/Mixed-effects (SAS Studio)
@@ -36,6 +37,7 @@ Modeling treatment outcomes with repeated measures data.
 
 ### [Predictive Analytics](http://example.com/)
 <a href="predictiveanalytics.md"><img src="images/civilizationfiction.jpg?raw=true"/></a>
+<br>
 <span style="float:right; color: gray;"><sup>Source: Cyberpunk 2077</sup></span>
 <br>
 <i>Current Project</i>: Time-series Analysis with NYC OpenData (Python\SQL)
@@ -47,9 +49,9 @@ Analyzing historical waste and recycling trends in NYC.
 
 <h3> Academic Projects</h3>
 <a href="/pdf/sample_presentation.pdf"><img src="images/analytics-apple2.png?raw=true"/></a>
+<br>
 <span style="float:right; color: gray;"><sup>Source: Dribble\Zelenika</sup></span>
 <br>
-
 Exploring NYC Health Inspection Outcomes (Python\scikit-learn)
 <br>
 Training a model to find the cleanest eateries and predict restaurant scores.
