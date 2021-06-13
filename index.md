@@ -23,7 +23,9 @@ Modeling treatment outcomes with repeated measures data.
 
 ### [Predictive Analytics](http://example.com/)
 <a href="predictiveanalytics.md"><img src="images/civilizationfiction.jpg?raw=true"/></a>
-<br>
+<p align="right"><span style="color:gray; font-size:8pt;">Source: Cyberpunk 2020</span></p>
+  
+<br>  
 <i>Current Project</i>: Time-series Analysis with NYC OpenData (Python\SQL)
 <br>
 Analyzing historical waste and recycling trends in NYC.
