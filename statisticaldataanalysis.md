@@ -142,4 +142,5 @@ Conclusively, both programs achieve the same results--there may be some evidence
 ---
 
 #### Current Project: (Submitted Manuscript) Sulforaphane Effects in Patients with Autism
+#### [Statistical Data Analysis Synopsis](/biomedicalresearchdataanalysis)
 Authors: Smith, R., Davis, J., Arriaza, J, et al
