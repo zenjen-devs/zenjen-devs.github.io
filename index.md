@@ -15,7 +15,6 @@
 <p><a href="https://zenjen-devs.github.io/internship2021"><img src="images/BMW-Intel.jpg?raw=true"/></a>
 <br>
 <span style="float:right; color: gray;"><sup>Source: Body Shop Business</sup></span></p>
-<br>
 <i>Coming Soon</i>
 <br>
 
@@ -24,9 +23,9 @@
 
 ### [Statisical Data Analysis](/statisticaldataanalysis)
 
-<a href="https://zenjen-devs.github.io/statisticaldataanalysis"><img src="images/dataprofessionals.JPG?raw=true"/></a>
+<p><a href="https://zenjen-devs.github.io/statisticaldataanalysis"><img src="images/dataprofessionals.JPG?raw=true"/></a>
 <br>
-<span style="float:right; color: gray;"><sup>Source: SAS</sup></span>
+<span style="float:right; color: gray;"><sup>Source: SAS</sup></span></p>
 <br>
 <i>Current Project</i>: Hierarchical linear models/Mixed-effects (SAS Studio)
 <br>
