@@ -15,7 +15,6 @@
 <p><a href="https://zenjen-devs.github.io/internship2021"><img src="images/BMW-Intel.jpg?raw=true"/></a>
 <br>
 <span style="float:right; color: gray;"><sup>Source: Body Shop Business</sup></span></p>
-<i><sup>Coming Soon!</sup></i>
 <br>
 
 
