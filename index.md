@@ -13,7 +13,7 @@
 ### [Statisical Data Analysis](/statisticaldataanalysis)
 
 <a href="https://zenjen-devs.github.io/statisticaldataanalysis"><img src="images/dataprofessionals.JPG?raw=true"/></a>
-<p align="right"><span style="color:gray; font-size:8pt;">Source: SAS</span></p>
+<p align="right"><span style="color:gray;"><sup>Source: SAS</sup></span></p>
 <i>Current Project</i>: Hierarchical linear models/Mixed-effects (SAS Studio)
 <br>
 Modeling treatment outcomes with repeated measures data.
@@ -23,7 +23,7 @@ Modeling treatment outcomes with repeated measures data.
 
 ### [Predictive Analytics](http://example.com/)
 <a href="predictiveanalytics.md"><img src="images/civilizationfiction.jpg?raw=true"/></a>
-<p align="right"><span style="color:gray; font-size:8pt;">Source: Cyberpunk 2077</span></p>
+<p align="right"><span style="color:gray;"><sup>Source: Cyberpunk 2077</sup></span></p>
 
 <i>Current Project</i>: Time-series Analysis with NYC OpenData (Python\SQL)
 <br>
@@ -34,7 +34,7 @@ Analyzing historical waste and recycling trends in NYC.
 
 <h3> Academic Projects</h3>
 <a href="/pdf/sample_presentation.pdf"><img src="images/analytics-apple2.png?raw=true"/></a>
-<p align="right"><span style="color:gray; font-size:8pt;">Source: Dribble/Zelenika</span></p>
+<p align="right"><span style="color:gray;"><sup>Source: Dribble/Zelenika</sup></span></p>
 
 Exploring NYC Health Inspection Outcomes (Python\scikit-learn)
 <br>
