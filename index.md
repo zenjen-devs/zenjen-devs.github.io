@@ -26,9 +26,9 @@
 <br>
 <span style="float:right; color: gray;"><sup>Source: SAS</sup></span></p>
 <br>
-<i>Current Project</i>: Hierarchical linear models/Mixed-effects (SAS Studio)
+<i>Current Project</i>: Mixed-Effects Models/General Linear & Non-Linear Models (SAS Studio)
 <br>
-Modeling treatment outcomes with repeated measures data.
+Modeling outcomes with repeated measures data.
 <br>
 
 ---
