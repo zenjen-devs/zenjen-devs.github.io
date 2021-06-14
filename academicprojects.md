@@ -4,7 +4,7 @@
 #### NYC OpenData Health Inspections & Citations Project
 
 **Concept:** In this study we looked at NYC restaurant's citations and health inspection esults, which is released by the NYC Department of Health and Mental Hygiene. The inspection data ranges from the past three (3) years to present and is updated on a daily basis. The paper examines the differences in health scores and correlating grades that were received by restaurants throughout the 5 boroughs. 
-  The paper studies the trends in the different types of cuisines and what factors and violations may have influenced their received health scores, grades, the grades of restaurants by location and borough as well as patterns of restaurants that have been closed by the New York City Department of Health and Mental Hygiene. The paper also studies what types of restaurants are more popular in which areas and which restaurants seem to be the least apparent.
+  The paper studies the trends in the different types of cuisines and what factors and violations may have influenced their received health scores, grades, the grades of restaurants by location and borough as well as patterns of restaurants that have been closed by the city. The paper also studies what types of restaurants are more popular in which areas and which restaurants seem to be the least apparent.
 
 <p align="center">
 <img align="center" src="images/nychealthinspectiondata1.png?raw=true" height="275" width="375"/>
