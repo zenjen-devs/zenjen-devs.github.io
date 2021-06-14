@@ -2,4 +2,4 @@
 
 ### Internship 2021: BMWNA's Autonomous Driver Team
 
-**Coming Soon!** Follow my [Instagram](https://instagram.com/zenjen.io) for updates 🏎️ 🤖
+**More to come Summer/Fall 2021:** Follow my [Instagram](https://instagram.com/zenjen.io) for updates 🏎️ 🤖
