@@ -1,7 +1,6 @@
 <p align="right">
-  <a href="https://zenjen-devs.github.io/bio"><b><sup>Bio</sup></b></a><sup> |</sup>
-  <a href="https://zenjen-devs.github.io/pdfs/JenArriaza_Resume.pdf"><b><sup>Resume</sup></b></a> <sup>|</sup>
-  <a href="mailto:jen.arriaza@nyu.edu"><b><sup>Contact</sup></b></a>
+  <a href="https://zenjen-devs.github.io/bio"><b><sup>ABOUT</sup></b></a><sup> |</sup>
+  <a href="mailto:jen.arriaza@nyu.edu"><b><sup>CONTACT</sup></b></a>
   
   </p>
 
