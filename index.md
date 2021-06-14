@@ -33,9 +33,9 @@ Modeling outcomes with repeated measures data.
 
 ---
 
-### [Predictive Analytics](http://example.com/)
+### [Analytics Engineering](/analytics-python)
 <p><a href="predictiveanalytics.md"><img src="images/civilizationfiction.jpg?raw=true"/></a>
-<br>
+
 <span style="float:right; color: gray;"><sup>Source: Cyberpunk 2077</sup></span></p>
 <br>
 <i>Current Project</i>: Time-series Analysis with NYC OpenData (Python\SQL)
