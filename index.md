@@ -9,7 +9,7 @@
 
 ---
 
-### [Internship Summer/Fall 2021: BMWNA's Autonomous Driver Team](/internship2021)
+### [Internship 2021: BMWNA's Autonomous Driver Team](/internship2021)
 
 <p><a href="https://zenjen-devs.github.io/internship2021"><img src="images/BMW-Intel.jpg?raw=true"/></a>
 <br>
