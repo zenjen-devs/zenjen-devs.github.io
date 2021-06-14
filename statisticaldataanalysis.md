@@ -1,41 +1,10 @@
 [Back](https://zenjen-devs.github.io)
 
-### Statistical Data Analysis
-
-### Co-Authorship on Academic Papers for Publication
-
-#### Efficacy Of Sulforaphane In Treatment Of Children With Autism Spectrum Disorder With and Without Severe Cognitive Impairment: A Randomized Double-Blind Placebo-Controlled Multi-Center Trial - *Manuscript Submitted* 
-
-##### Synopsis of Statistical Data Analysis Methods
-This study included a number of observations within individual subjects, so that each indivudal is a cluster. We utilized mixed model analysis using SAS `proc mixed` to handle missing data, from drop-outs or other causes, in the analysis. If variables deviated markedly from the normal distribution, transformations (log, square root) were attempted before analysis to achieve a better approximation to normal distribution. The main analysis included baseline scores as covariate. Effect size for the overall mixed model treatment effect was computed for variables with statistically significant treatment effects or strong trends, using additionally developed SAS syntax based on the suggestions of [Tippey & Longnecker](http://www.scsug.org/wp-content/uPBOads/2016/11/Ad-Hoc-Method-for-Computing-Effect-Size-for-Mixed-Models_PROCEEDINGS-UPDATE-1.pdf). Corrected significance levels across scales or subscales for a specific variable was assessed by Benjamini-Hochberg (BH) protected significance level (at α=.05). Effect size output used with ŋ 2 which we translated into Cohen’s *d* (through [Psychometrica](http://www.psychometrica.de/effectsize). Effect size at individual time points was analyzed by computation in an Excel program for treatment and control groups with Cohen’s *d* and Hedges correction.
-
-<br>
-<sup>
-Authors: <br>
-JianJun Ou M.D., Ph.D, Robert C. Smith M.D. Ph.D, Russel Tobe M.D., Jingjing Lin M.M, Jen Arriaza, et al.
-</sup>
-<br>
+# Statistical Data Analysis
 
 ---
 
-<br>
-
-#### Sulforaphane Effects on Cognition and Symptoms in First-Episode Schizophrenia: A Randomized Double-Blind Trial - *Manuscript Submitted* 
-
-##### Synopsis of Statistical Data Analysis Methods:</b>
-The analysis of symptom and cognitive variables used mixed model analysis using SAS `proc mixed` proecdure to handle missing data, from drop-outs or other causes, in the analysis. If variables deviated markedly from the normal distribution, transformations (log, square root) were attempted before analysis to achieve a better approximation to normal distribution; where distributions were still very skewed, we developed syntax for mixed model with non-normal distributions using `proc glimmix` and appropriate transformations.
-
-<br>
-<sup>
-Authors:<br> 
-Renrong Wu M.D. Ph.D, Robert C. Smith M.D. Ph.D, Gangrui Hei M.D., Ranran Li M.D. Ph.D，
-Jianjun Ou, M.D. Ph.D, Xueqing Song M.D. Ph.D, Yinjun Zheng M.D. Ph.D，Yiqun He M.D. Ph.D，Jen Arriaza, et al.
-</sup>
-<br>
-
----
-
-### Project: Modeling outcomes with wide-fornat or clustered data (common violation of heteroskedasticity for linear regression) - *SAS* and *R*
+### Project: Modeling outcomes with wide-format or clustered data (common violation of heteroskedasticity for linear regression) - *SAS* and *R*
 
 Mixed-effects models offer a solution for modeling outcomes when faced with the common violation of the assumptions needed for linear regression--heteroskedasticity by group membership. Both **SAS** and **R** can accomodate this setting with `proc mixed` and `nlme` library, respectively.
 
@@ -171,7 +140,38 @@ mod      2  8       0.0523
 Conclusively, both programs achieve the same results--there may be some evidence that the juice suppliers are different. 
 
 [View Programs in Github](https//github.com/jenarriaz/mixed-models)
-
----
 ###### Credits: [Ben Bolker/Rpubs](https://rpubs.com/bbolker/66298), [Ken Kleinmen/SASandR](https://www.amazon.com/gp/product/1466584491/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1466584491&linkCode=as2&tag=sasandrblog-20)
 
+---
+
+## Co-Authorship on Academic Papers for Publication
+
+### Efficacy Of Sulforaphane In Treatment Of Children With Autism Spectrum Disorder With and Without Severe Cognitive Impairment: A Randomized Double-Blind Placebo-Controlled Multi-Center Trial *(Manuscript Submitted)* 
+
+#### Synopsis of Statistical Data Analysis Methods
+This study included a number of observations within individual subjects, so that each indivudal is a cluster. We utilized mixed model analysis using SAS `proc mixed` to handle missing data, from drop-outs or other causes, in the analysis. The main analysis included baseline scores as covariate. Effect size for the overall mixed model treatment effect was computed for variables with statistically significant treatment effects or strong trends, using additionally developed SAS syntax based on the suggestions of [Tippey & Longnecker](http://www.scsug.org/wp-content/uPBOads/2016/11/Ad-Hoc-Method-for-Computing-Effect-Size-for-Mixed-Models_PROCEEDINGS-UPDATE-1.pdf). Corrected significance levels across scales or subscales for a specific variable was assessed by Benjamini-Hochberg (BH) protected significance level (at α=.05). Effect size at individual time points were analyzed by computation in an Excel program for treatment and control groups with Cohen’s *d* and Hedges correction.
+<br>
+<sup>
+Authors: <br>
+JianJun Ou M.D., Ph.D, Robert C. Smith M.D. Ph.D, Russel Tobe M.D., Jingjing Lin M.M, Jen Arriaza, et al.
+</sup>
+<br>
+
+---
+
+<br>
+
+### Sulforaphane Effects on Cognition and Symptoms in First-Episode Schizophrenia: A Randomized Double-Blind Trial *(Manuscript Submitted)* 
+
+#### Synopsis of Statistical Data Analysis Methods:
+The analysis of symptom and cognitive variables used mixed model analysis using SAS `proc mixed` proecdure to handle missing data, from drop-outs or other causes, in the analysis. If variables deviated markedly from the normal distribution, transformations (log, square root) were attempted before analysis to achieve a better approximation to normal distribution; where distributions were still very skewed, we developed syntax for mixed model with non-normal distributions using `proc glimmix` and appropriate transformations.
+
+<br>
+<sup>
+Authors:<br> 
+Renrong Wu M.D. Ph.D, Robert C. Smith M.D. Ph.D, Gangrui Hei M.D., Ranran Li M.D. Ph.D，
+Jianjun Ou, M.D. Ph.D, Xueqing Song M.D. Ph.D, Yinjun Zheng M.D. Ph.D，Yiqun He M.D. Ph.D，Jen Arriaza, et al.
+</sup>
+<br>
+
+---
