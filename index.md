@@ -37,7 +37,7 @@ Modeling outcomes with wide-format data and repeated measures.
 
 <span style="float:right; color: gray;"><sup>Source: Cyberpunk 2077</sup></span></p>
 
-<i>Current Project</i>: Time-series Analysis with NYC OpenData <sup>(Python)</sup>
+<i>Current Project</i>: Trend Analysis with NYC OpenData <sup>(Python)</sup>
 <br>
 Analyzing historical waste and recycling trends in NYC.
 <br>
