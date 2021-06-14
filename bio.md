@@ -1,6 +1,6 @@
 [Back](https://zenjen-devs.github.io)
 
-### About Me
+### Bio
 
 <p align="center">
 Jen is motivated by the belief that data can be used to solve critical problems and make better decisions. She strives to demystify code and make it easier for people to understand data. Jen primarily uses Python and SAS Studio.
