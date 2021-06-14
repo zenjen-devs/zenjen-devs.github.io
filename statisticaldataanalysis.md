@@ -12,15 +12,7 @@ This study included a number of observations within individual subjects, so that
 <br>
 <sup>
 Authors: <br>
-JianJun Ou M.D., Ph.D, Robert C. Smith M.D. Ph.D, Russel Tobe M.D., Jingjing Lin M.M, Jen Arriaza,
-Jed W. Fahey Sc.D, Ruitin Liu M.M, Ying Zeng M.M, Yanan Liu M.M, Lian Huang M.M, Yidong Shen M.D. Ph.D, 
-Brian Cornblatt Ph.D, John M. Davis M.D., Jingping Zhao M.D. Ph.D, Renrong Wu M.D. Ph.D, Hua Jin M.D.<br>
-Affiliations: <br>
-National Clinical Research Center for Mental Disorders-Department of Psychiatry; The Second
-Xiangya Hospital of Central South University; Hunan Medical Center for Mental Health; China
-National Technology Institute on Mental Disorders; Hunan Key Laboratory of Psychiatry and Mental
-Health, Changsha, Hunan 410011, Nathan S. Kline Institute for Psychiatric Research, Orangeburg, New York, USA 
-Department of Psychiatry, New York University School of Medicine, New York, NY, USA
+JianJun Ou M.D., Ph.D, Robert C. Smith M.D. Ph.D, Russel Tobe M.D., Jingjing Lin M.M, Jen Arriaza, et al.
 </sup>
 <br>
 
@@ -37,24 +29,15 @@ The analysis of symptom and cognitive variables used mixed model analysis using 
 <sup>
 Authors:<br> 
 Renrong Wu M.D. Ph.D, Robert C. Smith M.D. Ph.D, Gangrui Hei M.D., Ranran Li M.D. Ph.D，
-Jianjun Ou, M.D. Ph.D, Xueqing Song M.D. Ph.D, Yinjun Zheng M.D. Ph.D，Yiqun He M.D. Ph.D，Jen Arriaza,
-Jed W. Fahey Ph.D., Brian Cornblatt Ph.D, Dongyu Kang M.D., Ye Yang M.D., Jing Huang M.D. Ph.D,
-Xiaoyi Wang M.D., Kristin Cadenhead M.D., John M. Davis M.D., Hua Jin M.D., Jingping Zhao M.D. Ph.D<br>
-Affiliations:<br> 
-Psychiatry Department and Mental Health Institute of the Second Xiangya Hospital, Central South
-University; China, National Clinical Research Center for Mental Disorders-Department of Psychiatry; China
-National Technology Institute on Mental Disorders; Hunan Key Laboratory of Psychiatry and Mental Health,
-Changsha, Hunan 410011, Shanghai Institutes for Biological Sciences, Chinese Academy of Sciences, Shanghai
-Nathan S. Kline Institute for Psychiatric Research, Orangeburg, New York, USA, 
-Department of Psychiatry, New York University School of Medicine, New York, NY, USA
+Jianjun Ou, M.D. Ph.D, Xueqing Song M.D. Ph.D, Yinjun Zheng M.D. Ph.D，Yiqun He M.D. Ph.D，Jen Arriaza, et al.
 </sup>
 <br>
 
 ---
 
-#### Current Project: Mixed-Effects Models
+### Project: Modeling outcomes with wide-fornat or clustered data (common violation of heteroskedasticity for linear regression) - *SAS* and *R*
 
-Mixed-effects models offer a solution for modeling outcomes when faced with the common violation of the assumptions needed for linear regression--heterscedasticity by group membership. Both **SAS** and **R** can accomodate this setting with `proc mixed` and `nlme` library, respectively.
+Mixed-effects models offer a solution for modeling outcomes when faced with the common violation of the assumptions needed for linear regression--heteroskedasticity by group membership. Both **SAS** and **R** can accomodate this setting with `proc mixed` and `nlme` library, respectively.
 
 This data comes from a real-based example of vitamin D supplementation of juice. Four suppliers claimed that their juice provided 100 IU of vitamin B. The null hypothesis is that the suppliers deliver this accurately, but there is a question as to whether the variance was the same between the juice suppliers. Hence, we need to explore allowing different variances by group.
 
