@@ -22,7 +22,9 @@ Health, Changsha, Hunan 410011, Nathan S. Kline Institute for Psychiatric Resear
 Department of Psychiatry, New York University School of Medicine, New York, NY, USA
 </h>
 <br>
+
 ---
+
 <br>
 
 * Sulforaphane Effects on Cognition and Symptoms in First-Episode Schizophrenia: A Randomized Double-Blind Trial - *Manuscript Submitted* 
