@@ -25,9 +25,9 @@
 <br>
 <span style="float:right; color: gray;"><sup>Source: SAS</sup></span></p>
 
-<i>Current Project</i>: Linear Mixed Models <sup>(SAS Studio)</sup>
+<i>Current Project</i>: Linear Mixed Models
 <br>
-Modeling outcomes with wide-format data and repeated measures.
+Modeling outcomes with wide-format data and repeated measures. <sup>(SAS Studio)</sup>
 <br>
 
 ---
@@ -49,9 +49,9 @@ Analyzing historical waste and recycling trends in NYC.
 <br>
 <span style="float:right; color: gray;"><sup>Source: Dribble\Zelenika</sup></span></p>
 
-Exploring NYC Health Inspection Outcomes <sup>(Python)</sup>
+Exploring NYC Health Inspection Outcomes
 <br>
-Training a model to find the cleanest eateries and predict restaurant scores.
+Training a model to find the cleanest eateries and predict restaurant scores. <sup>(Python)</sup>
 
 <br>
 
