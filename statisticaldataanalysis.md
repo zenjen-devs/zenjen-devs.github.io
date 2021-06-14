@@ -1,8 +1,55 @@
 [Back](https://zenjen-devs.github.io)
 
 ### Statistical Data Analysis
-#### Current Project: Mixed-Effects Models
 
+### Co-Authorship on Academic Papers for Publication
+
+* Efficacy Of Sulforaphane In Treatment Of Children With Autism Spectrum Disorder With and Without Severe Cognitive Impairment: A Randomized Double-Blind Placebo-Controlled Multi-Center Trial - *Manuscript Submitted* 
+  * <b>Synopsis of Statistical Data Analysis Methods:</b>
+<h5>This study included a number of observations within individual subjects, so that each indivudal is a cluster. We utilized mixed model analysis using SAS `proc mixed` to handle missing data, from drop-outs or other causes, in the analysis. If variables deviated markedly from the normal distribution, transformations (log, square root) were attempted before analysis to achieve a better approximation to normal distribution. The main analysis included baseline scores as covariate. Effect size for the overall mixed model treatment effect was computed for variables with statistically significant treatment effects or strong trends, using additionally developed SAS syntax based on the suggestions of [Tippey & Longnecker](http://www.scsug.org/wp-content/uPBOads/2016/11/Ad-Hoc-Method-for-Computing-Effect-Size-for-Mixed-Models_PROCEEDINGS-UPDATE-1.pdf). Corrected significance levels across scales or subscales for a specific variable was assessed by Benjamini-Hochberg (BH) protected significance level (at α=.05). Effect size output used with ŋ 2 which we translated into Cohen’s *d* (through [Psychometrica](http://www.psychometrica.de/effectsize). Effect size at individual time points was analyzed by computation in an Excel program for treatment and control groups with Cohen’s *d* and Hedges correction.
+</h>
+<br>
+<h6>
+Authors: <br>
+JianJun Ou M.D., Ph.D, Robert C. Smith M.D. Ph.D, Russel Tobe M.D., Jingjing Lin M.M, Jen Arriaza,
+Jed W. Fahey Sc.D, Ruitin Liu M.M, Ying Zeng M.M, Yanan Liu M.M, Lian Huang M.M, Yidong Shen M.D. Ph.D, 
+Brian Cornblatt Ph.D, John M. Davis M.D., Jingping Zhao M.D. Ph.D, Renrong Wu M.D. Ph.D, Hua Jin M.D.<br>
+Affiliations: <br>
+National Clinical Research Center for Mental Disorders-Department of Psychiatry; The Second
+Xiangya Hospital of Central South University; Hunan Medical Center for Mental Health; China
+National Technology Institute on Mental Disorders; Hunan Key Laboratory of Psychiatry and Mental
+Health, Changsha, Hunan 410011, Nathan S. Kline Institute for Psychiatric Research, Orangeburg, New York, USA 
+Department of Psychiatry, New York University School of Medicine, New York, NY, USA
+</h>
+<br>
+---
+<br>
+
+* Sulforaphane Effects on Cognition and Symptoms in First-Episode Schizophrenia: A Randomized Double-Blind Trial - *Manuscript Submitted* 
+  * <b>Synopsis of Statistical Data Analysis Methods:</b>
+<h5>
+The analysis of symptom and cognitive variables used mixed model analysis using SAS `proc mixed` proecdure to handle missing data, from drop-outs or other causes, in the analysis. If variables deviated markedly from the normal distribution, transformations (log, square root) were attempted before analysis to achieve a better approximation to normal distribution; where distributions were still very skewed, we developed syntax for mixed model with non-normal distributions using `proc glimmix` and appropriate transformations.
+</h>
+
+<br>
+<h6>
+Authors:<br> 
+Renrong Wu M.D. Ph.D, Robert C. Smith M.D. Ph.D, Gangrui Hei M.D., Ranran Li M.D. Ph.D，
+Jianjun Ou, M.D. Ph.D, Xueqing Song M.D. Ph.D, Yinjun Zheng M.D. Ph.D，Yiqun He M.D. Ph.D，Jen Arriaza,
+Jed W. Fahey Ph.D., Brian Cornblatt Ph.D, Dongyu Kang M.D., Ye Yang M.D., Jing Huang M.D. Ph.D,
+Xiaoyi Wang M.D., Kristin Cadenhead M.D., John M. Davis M.D., Hua Jin M.D., Jingping Zhao M.D. Ph.D<br>
+Affiliations:<br> 
+Psychiatry Department and Mental Health Institute of the Second Xiangya Hospital, Central South
+University; China, National Clinical Research Center for Mental Disorders-Department of Psychiatry; China
+National Technology Institute on Mental Disorders; Hunan Key Laboratory of Psychiatry and Mental Health,
+Changsha, Hunan 410011, Shanghai Institutes for Biological Sciences, Chinese Academy of Sciences, Shanghai
+Nathan S. Kline Institute for Psychiatric Research, Orangeburg, New York, USA, 
+Department of Psychiatry, New York University School of Medicine, New York, NY, USA
+</h>
+
+---
+
+#### Current Project: Mixed-Effects Models
 
 Mixed-effects models offer a solution for modeling outcomes when faced with the common violation of the assumptions needed for linear regression--heterscedasticity by group membership. Both **SAS** and **R** can accomodate this setting with `proc mixed` and `nlme` library, respectively.
 
@@ -142,45 +189,3 @@ Conclusively, both programs achieve the same results--there may be some evidence
 ---
 ###### Credits: [Ben Bolker/Rpubs](https://rpubs.com/bbolker/66298), [Ken Kleinmen/SASandR](https://www.amazon.com/gp/product/1466584491/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1466584491&linkCode=as2&tag=sasandrblog-20)
 
----
-
-### Co-Authorship on Academic Papers for Publication
-
-* Efficacy Of Sulforaphane In Treatment Of Children With Autism Spectrum Disorder With and Without Severe Cognitive Impairment: A Randomized Double-Blind Placebo-Controlled Multi-Center Trial - *Manuscript Submitted* 
-  * <b>Synopsis of Statistical Data Analysis Methods:</b>
-<br>
-This study included a number of observations within individual subjects, so that each indivudal is a cluster. We utilized mixed model analysis using SAS `proc mixed` to handle missing data, from drop-outs or other causes, in the analysis. If variables deviated markedly from the normal distribution, transformations (log, square root) were attempted before analysis to achieve a better approximation to normal distribution. The main analysis included baseline scores as covariate. Effect size for the overall mixed model treatment effect was computed for variables with statistically significant treatment effects or strong trends, using additionally developed SAS syntax based on the suggestions of [Tippey & Longnecker](http://www.scsug.org/wp-content/uPBOads/2016/11/Ad-Hoc-Method-for-Computing-Effect-Size-for-Mixed-Models_PROCEEDINGS-UPDATE-1.pdf). Corrected significance levels across scales or subscales for a specific variable was assessed by Benjamini-Hochberg (BH) protected significance level (at α=.05). Effect size output used with ŋ 2 which we translated into Cohen’s *d* (through [Psychometrica](http://www.psychometrica.de/effectsize). Effect size at individual time points was analyzed by computation in an Excel program for treatment and control groups with Cohen’s *d* and Hedges correction.
-
-``` 
-Authors: 
-JianJun Ou M.D., Ph.D, Robert C. Smith M.D. Ph.D, Russel Tobe M.D., Jingjing Lin M.M, Jen Arriaza,
-Jed W. Fahey Sc.D, Ruitin Liu M.M, Ying Zeng M.M, Yanan Liu M.M, Lian Huang M.M, Yidong Shen M.D. Ph.D, 
-Brian Cornblatt Ph.D, John M. Davis M.D., Jingping Zhao M.D. Ph.D, Renrong Wu M.D. Ph.D, Hua Jin M.D.
-Affiliations: 
-National Clinical Research Center for Mental Disorders-Department of Psychiatry; The Second
-Xiangya Hospital of Central South University; Hunan Medical Center for Mental Health; China
-National Technology Institute on Mental Disorders; Hunan Key Laboratory of Psychiatry and Mental
-Health, Changsha, Hunan 410011, Nathan S. Kline Institute for Psychiatric Research, Orangeburg, New York, USA 
-Department of Psychiatry, New York University School of Medicine, New York, NY, USA
-```
----
-* Sulforaphane Effects on Cognition and Symptoms in First-Episode Schizophrenia: A Randomized Double-Blind Trial - *Manuscript Submitted* 
-  * <b>Synopsis of Statistical Data Analysis Methods:</b>
-<br>
-The analysis of symptom and cognitive variables used mixed model analysis using SAS `proc mixed` proecdure to handle missing data, from drop-outs or other causes, in the analysis. If variables deviated markedly from the normal distribution, transformations (log, square root) were attempted before analysis to achieve a better approximation to normal distribution; where distributions were still very skewed, we developed syntax for mixed model with non-normal distributions using `proc glimmix` and appropriate transformations.
-
-
-``` 
-Authors: 
-Renrong Wu M.D. Ph.D, Robert C. Smith M.D. Ph.D, Gangrui Hei M.D., Ranran Li M.D. Ph.D，
-Jianjun Ou, M.D. Ph.D, Xueqing Song M.D. Ph.D, Yinjun Zheng M.D. Ph.D，Yiqun He M.D. Ph.D，Jen Arriaza,
-Jed W. Fahey Ph.D., Brian Cornblatt Ph.D, Dongyu Kang M.D., Ye Yang M.D., Jing Huang M.D. Ph.D,
-Xiaoyi Wang M.D., Kristin Cadenhead M.D., John M. Davis M.D., Hua Jin M.D., Jingping Zhao M.D. Ph.D
-Affiliations: 
-Psychiatry Department and Mental Health Institute of the Second Xiangya Hospital, Central South
-University; China, National Clinical Research Center for Mental Disorders-Department of Psychiatry; China
-National Technology Institute on Mental Disorders; Hunan Key Laboratory of Psychiatry and Mental Health,
-Changsha, Hunan 410011, Shanghai Institutes for Biological Sciences, Chinese Academy of Sciences, Shanghai
-Nathan S. Kline Institute for Psychiatric Research, Orangeburg, New York, USA, 
-Department of Psychiatry, New York University School of Medicine, New York, NY, USA
-```
