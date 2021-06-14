@@ -25,7 +25,7 @@
 
 ---
 
-<br><br>
+<br>
 [View Presentation](https://github.com/zenjen-devs/zenjen-devs.github.io/blob/master/pdfs/NYCHealthInspectionsProject.pdf)
 <br>
 [View Jupyter Notebook](https://github.com/jenarriaz/predictive-analytics-in-python/blob/master/NYCHealthInspections.ipynb)
