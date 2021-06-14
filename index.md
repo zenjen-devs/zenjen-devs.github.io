@@ -24,10 +24,10 @@
 <p><a href="https://zenjen-devs.github.io/statisticaldataanalysis"><img src="images/dataprofessionals.JPG?raw=true"/></a>
 <br>
 <span style="float:right; color: gray;"><sup>Source: SAS</sup></span></p>
+
+<i>Current Project</i>: Mixed-Effects Models & Linear & Non-Linear Models <sup>(SAS Studio)</sup>
 <br>
-<i>Current Project</i>: Mixed-Effects Models + Linear & Non-Linear Models <sup>(SAS Studio)</sup>
-<br>
-Modeling outcomes with repeated measures data.
+Modeling outcomes with wide-format data and repeated measures.
 <br>
 
 ---
@@ -36,7 +36,7 @@ Modeling outcomes with repeated measures data.
 <p><a href="https://zenjen-devs.github.io/analytics-python"><img src="images/civilizationfiction.jpg?raw=true"/></a>
 
 <span style="float:right; color: gray;"><sup>Source: Cyberpunk 2077</sup></span></p>
-<br>
+
 <i>Current Project</i>: Time-series Analysis with NYC OpenData <sup>(Python)</sup>
 <br>
 Analyzing historical waste and recycling trends in NYC.
@@ -48,13 +48,11 @@ Analyzing historical waste and recycling trends in NYC.
 <p><a href="https://zenjen-devs.github.io/academicprojects"><img src="images/analytics-apple2.png?raw=true"/></a>
 <br>
 <span style="float:right; color: gray;"><sup>Source: Dribble\Zelenika</sup></span></p>
-<br>
+
 Exploring NYC Health Inspection Outcomes <sup>(Python)</sup>
 <br>
 Training a model to find the cleanest eateries and predict restaurant scores.
-<br>
-[View Presentation](/pdf/sample_presentation.pdf)
-<br>
+
 <br>
 
 ---
