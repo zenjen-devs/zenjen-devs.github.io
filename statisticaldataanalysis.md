@@ -2,12 +2,14 @@
 
 # Statistical Data Analysis
 <br>
-Navigate to: <a href="#publications">Publications</a>
+<b>Navigate to:</b> <a href="#publications">Publications</a>
 
 ---
 
 <h2 id="currentprojects">Current Projects</h2>
-#### Modeling outcomes with wide-format or clustered data (common violation of heteroskedasticity for linear regression) - *SAS* and *R*
+
+
+#### Working with *SAS* and *R*: Modeling outcomes with wide-format or clustered data (common violation of heteroskedasticity for linear regression)
 
 Mixed-effects models offer a solution for modeling outcomes when faced with the common violation of the assumptions needed for linear regression--heteroskedasticity by group membership. Both **SAS** and **R** can accomodate this setting with `proc mixed` and `nlme` library, respectively.
 
@@ -144,6 +146,10 @@ Conclusively, both programs achieve the same results--there may be some evidence
 
 [View Programs in Github](https//github.com/jenarriaz/mixed-models)
 ###### Credits: [Ben Bolker/Rpubs](https://rpubs.com/bbolker/66298), [Ken Kleinmen/SASandR](https://www.amazon.com/gp/product/1466584491/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1466584491&linkCode=as2&tag=sasandrblog-20)
+
+<br>
+<b>Navigate back to:</b> <a href="#currentprojects">Current Projects</a> ⤴️
+<br>
 
 ---
 
