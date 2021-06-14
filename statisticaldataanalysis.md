@@ -1,10 +1,13 @@
 [Back](https://zenjen-devs.github.io)
 
 # Statistical Data Analysis
+<br>
+Navigate to: <a href="#publications">Publications</a>
 
 ---
 
-### Project: Modeling outcomes with wide-format or clustered data (common violation of heteroskedasticity for linear regression) - *SAS* and *R*
+<h2 id="currentprojects">Current Projects</h2>
+#### Modeling outcomes with wide-format or clustered data (common violation of heteroskedasticity for linear regression) - *SAS* and *R*
 
 Mixed-effects models offer a solution for modeling outcomes when faced with the common violation of the assumptions needed for linear regression--heteroskedasticity by group membership. Both **SAS** and **R** can accomodate this setting with `proc mixed` and `nlme` library, respectively.
 
@@ -144,7 +147,7 @@ Conclusively, both programs achieve the same results--there may be some evidence
 
 ---
 
-## Co-Authorship on Academic Papers for Publication
+<h2 id="publications">Co-Authorship on Academic Papers for Publication</h2>
 
 ### Efficacy Of Sulforaphane In Treatment Of Children With Autism Spectrum Disorder With and Without Severe Cognitive Impairment: A Randomized Double-Blind Placebo-Controlled Multi-Center Trial *(Manuscript Submitted)* 
 
