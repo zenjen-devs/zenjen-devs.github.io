@@ -25,7 +25,7 @@
 <br>
 <span style="float:right; color: gray;"><sup>Source: SAS</sup></span></p>
 <br>
-<i>Current Project</i>: Mixed-Effects Models + Linear & Non-Linear Models <sub>(SAS Studio)</sub>
+<i>Current Project</i>: Mixed-Effects Models + Linear & Non-Linear Models <sup>(SAS Studio)</sup>
 <br>
 Modeling outcomes with repeated measures data.
 <br>
@@ -37,7 +37,7 @@ Modeling outcomes with repeated measures data.
 
 <span style="float:right; color: gray;"><sup>Source: Cyberpunk 2077</sup></span></p>
 <br>
-<i>Current Project</i>: Time-series Analysis with NYC OpenData <sub>(Python)</sub>
+<i>Current Project</i>: Time-series Analysis with NYC OpenData <sup>(Python)</sup>
 <br>
 Analyzing historical waste and recycling trends in NYC.
 <br>
@@ -49,7 +49,7 @@ Analyzing historical waste and recycling trends in NYC.
 <br>
 <span style="float:right; color: gray;"><sup>Source: Dribble\Zelenika</sup></span></p>
 <br>
-Exploring NYC Health Inspection Outcomes <sub>(Python)</sub>
+Exploring NYC Health Inspection Outcomes <sup>(Python)</sup>
 <br>
 Training a model to find the cleanest eateries and predict restaurant scores.
 <br>
