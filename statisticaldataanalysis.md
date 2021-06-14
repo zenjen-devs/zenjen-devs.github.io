@@ -159,9 +159,9 @@ Conclusively, both programs achieve the same results--there may be some evidence
 
 #### Synopsis of Statistical Data Analysis Methods
 This study included a number of observations within individual subjects, so that each indivudal is a cluster. We utilized mixed model analysis using SAS `proc mixed` to handle missing data, from drop-outs or other causes, in the analysis. The main analysis included baseline scores as covariate. Effect size for the overall mixed model treatment effect was computed for variables with statistically significant treatment effects or strong trends, using additionally developed SAS syntax based on the suggestions of [Tippey & Longnecker](http://www.scsug.org/wp-content/uPBOads/2016/11/Ad-Hoc-Method-for-Computing-Effect-Size-for-Mixed-Models_PROCEEDINGS-UPDATE-1.pdf). Corrected significance levels across scales or subscales for a specific variable was assessed by Benjamini-Hochberg (BH) protected significance level (at α=.05). Effect size at individual time points were analyzed by computation in an Excel program for treatment and control groups with Cohen’s *d* and Hedges correction.
-<br>
+<br><br>
 <sup>
-Authors: <br>
+  <b>Authors:</b> <br>
 JianJun Ou M.D., Ph.D, Robert C. Smith M.D. Ph.D, Russel Tobe M.D., Jingjing Lin M.M, Jen Arriaza, et al.
 </sup>
 <br>
@@ -177,7 +177,7 @@ The analysis of symptom and cognitive variables used mixed model analysis using 
 
 <br>
 <sup>
-Authors:<br> 
+  <b>Authors:</b><br> 
 Renrong Wu M.D. Ph.D, Robert C. Smith M.D. Ph.D, Gangrui Hei M.D., Ranran Li M.D. Ph.D，
 Jianjun Ou, M.D. Ph.D, Xueqing Song M.D. Ph.D, Yinjun Zheng M.D. Ph.D，Yiqun He M.D. Ph.D，Jen Arriaza, et al.
 </sup>
