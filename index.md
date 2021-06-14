@@ -44,7 +44,7 @@ Analyzing historical waste & recycling trends in NYC. <sup>(Python)</sup>
 
 ---
 
-<h3> Academic Projects</h3>
+### [Academic Projects](/academicprojects)
 <p><a href="https://zenjen-devs.github.io/academicprojects"><img src="images/analytics-apple2.png?raw=true"/></a>
 <br>
 <span style="float:right; color: gray;"><sup>Source: Dribble\Zelenika</sup></span></p>
@@ -59,7 +59,7 @@ Finding the cleanest eateries and predicting restaurant scores. <sup>(Python)</s
 
 
 ### Archive
-<br>
+
 Follow my [Instagram](https://www.instagram.com/zenjen.io) for updates 🔮
 
 
