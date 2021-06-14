@@ -144,7 +144,7 @@ Conclusively, both programs achieve the same results--there may be some evidence
 
 ---
 
-#### Statistical Data Analysis: Co-Authorship on Academic Papers for Publication
+### Co-Authorship on Academic Papers for Publication
 
 * Efficacy Of Sulforaphane In Treatment Of Children With Autism Spectrum Disorder With and Without Severe Cognitive Impairment: A Randomized Double-Blind Placebo-Controlled Multi-Center Trial - *Manuscript Submitted* 
 
@@ -174,7 +174,7 @@ Xiaoyi Wang M.D., Kristin Cadenhead M.D., John M. Davis M.D., Hua Jin M.D., Jing
 * Affiliations: Psychiatry Department and Mental Health Institute of the Second Xiangya Hospital, Central South
 University; China, National Clinical Research Center for Mental Disorders-Department of Psychiatry; China
 National Technology Institute on Mental Disorders; Hunan Key Laboratory of Psychiatry and Mental Health,
-Changsha, Hunan 410011, Shanghai Institutes for Biological Sciences, Chinese Academy of Sciences, Shanghai 200031, China
+Changsha, Hunan 410011, Shanghai Institutes for Biological Sciences, Chinese Academy of Sciences, Shanghai
 Nathan S. Kline Institute for Psychiatric Research, Orangeburg, New York, USA, 
 Department of Psychiatry, New York University School of Medicine, New York, NY, USA
 ```
