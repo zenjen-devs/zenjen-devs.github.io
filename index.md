@@ -45,7 +45,7 @@ Analyzing historical waste and recycling trends in NYC.
 ---
 
 <h3> Academic Projects</h3>
-<p><a href="/pdf/sample_presentation.pdf"><img src="images/analytics-apple2.png?raw=true"/></a>
+<p><a href="https://zenjen-devs.github.io/academicprojects"><img src="images/analytics-apple2.png?raw=true"/></a>
 <br>
 <span style="float:right; color: gray;"><sup>Source: Dribble\Zelenika</sup></span></p>
 <br>
