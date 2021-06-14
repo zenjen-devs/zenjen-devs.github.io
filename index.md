@@ -25,7 +25,7 @@
 <br>
 <span style="float:right; color: gray;"><sup>Source: SAS</sup></span></p>
 
-<i>Current Project</i>: Mixed-Effects Models & Linear & Non-Linear Models <sup>(SAS Studio)</sup>
+<i>Current Project</i>: Linear Mixed Models <sup>(SAS Studio)</sup>
 <br>
 Modeling outcomes with wide-format data and repeated measures.
 <br>
