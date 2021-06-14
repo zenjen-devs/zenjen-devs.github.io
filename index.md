@@ -37,9 +37,9 @@ Modeling outcomes with wide-format data and repeated measures. <sup>(SAS Studio)
 
 <span style="float:right; color: gray;"><sup>Source: Cyberpunk 2077</sup></span></p>
 
-<i>Current Project</i>: Trend Analysis with NYC OpenData
+<i>Current Project</i>: Trend Analysis
 <br>
-Analyzing historical waste and recycling trends in NYC.  <sup>(Python)</sup>
+Analyzing historical waste & recycling trends in NYC. <sup>(Python)</sup>
 <br>
 
 ---
@@ -51,7 +51,7 @@ Analyzing historical waste and recycling trends in NYC.  <sup>(Python)</sup>
 
 Exploring NYC Health Inspection Outcomes
 <br>
-Training a model to find the cleanest eateries and predict restaurant scores. <sup>(Python)</sup>
+Finding the cleanest eateries and predicting restaurant scores. <sup>(Python)</sup>
 
 <br>
 
