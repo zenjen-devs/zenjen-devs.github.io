@@ -33,7 +33,7 @@ Modeling outcomes with repeated measures data.
 ---
 
 ### [Analytics Engineering](/analytics-python)
-<p><a href="analytics-python.md"><img src="images/civilizationfiction.jpg?raw=true"/></a>
+<p><a href="https://zenjen-devs.github.io/analytics-python"><img src="images/civilizationfiction.jpg?raw=true"/></a>
 
 <span style="float:right; color: gray;"><sup>Source: Cyberpunk 2077</sup></span></p>
 <br>
