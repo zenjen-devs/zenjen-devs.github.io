@@ -9,7 +9,7 @@
 
 ---
 
-### [Internship 2021: BMWNA's Autonomous Driver Team](/internship2021)
+### [Internship Summer/Fall 2021: BMWNA's Autonomous Driver Team](/internship2021)
 
 <p><a href="https://zenjen-devs.github.io/internship2021"><img src="images/BMW-Intel.jpg?raw=true"/></a>
 <br>
@@ -25,7 +25,7 @@
 <br>
 <span style="float:right; color: gray;"><sup>Source: SAS</sup></span></p>
 <br>
-<i>Current Project</i>: Mixed-Effects Models/General Linear & Non-Linear Models (SAS Studio)
+<i>Current Project</i>: Mixed-Effects Models + Linear & Non-Linear Models <sub>(SAS Studio)</sub>
 <br>
 Modeling outcomes with repeated measures data.
 <br>
@@ -37,7 +37,7 @@ Modeling outcomes with repeated measures data.
 
 <span style="float:right; color: gray;"><sup>Source: Cyberpunk 2077</sup></span></p>
 <br>
-<i>Current Project</i>: Time-series Analysis with NYC OpenData (Python\SQL)
+<i>Current Project</i>: Time-series Analysis with NYC OpenData <sub>(Python)</sub>
 <br>
 Analyzing historical waste and recycling trends in NYC.
 <br>
@@ -49,7 +49,7 @@ Analyzing historical waste and recycling trends in NYC.
 <br>
 <span style="float:right; color: gray;"><sup>Source: Dribble\Zelenika</sup></span></p>
 <br>
-Exploring NYC Health Inspection Outcomes (Python\scikit-learn)
+Exploring NYC Health Inspection Outcomes <sub>(Python)</sub>
 <br>
 Training a model to find the cleanest eateries and predict restaurant scores.
 <br>
