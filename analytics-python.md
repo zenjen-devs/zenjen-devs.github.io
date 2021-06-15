@@ -3,7 +3,7 @@
 ### Analytics Engineering
 #### Time-series Analysis with NYC OpenData - Waste & Refuse Trends 
 
-**Concept:** In this project, I looked at historical waste and refuse data in NYC from the year 1990 through 2017. The process begins with some exploratory data analysis, then nteractive visualizations. Data-preprocessing was done with Pandas, exploratory data analysis with Scipy, visualizations with Seaborn, and interactive visualizations wtih Plotly.
+**Concept:** In this project, I looked at historical waste and refuse data in NYC from the year 1990 through 2017. The process begins with some exploratory data analysis, then interactive visualizations. Data-preprocessing was done with Pandas, exploratory data analysis with Scipy, visualizations with Seaborn, and interactive visualizations wtih Plotly.
 <br><br>
 
 <p align="center">
