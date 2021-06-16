@@ -13,7 +13,7 @@
 
 <p><a href="https://zenjen-devs.github.io/internship2021"><img src="images/BMW-Intel.jpg?raw=true"/></a>
 <br>
-<span style="color: gray;"><sup>Source: Body Shop Business</sup></span></p>
+<span style="float:right; color: gray;"><sup>Source: Body Shop Business</sup></span></p>
 <i>Coming Soon</i>: (Summer/Fall 2021)
 <br>
 
@@ -24,7 +24,7 @@
 
 <p><a href="https://zenjen-devs.github.io/statisticaldataanalysis"><img src="images/dataprofessionals.JPG?raw=true"/></a>
 <br>
-<span style="color: gray;"><sup>Source: SAS</sup></span></p>
+<span style="float:right; color: gray;"><sup>Source: SAS</sup></span></p>
 
 <i>Current Project</i>: Linear Mixed Models <span style="float:right; color: gray;"><sup>(SAS Studio)</sup></span>
 <br>
@@ -36,9 +36,9 @@ Modeling outcomes of wide-format data and repeated measurements.
 ### [Analytics Engineering](/analytics-python)
 <p><a href="https://zenjen-devs.github.io/analytics-python"><img src="images/civilizationfiction.jpg?raw=true"/></a>
 
-<span style="color: gray;"><sup>Source: Cyberpunk 2077</sup></span></p>
+<span style="float:right; color: gray;"><sup>Source: Cyberpunk 2077</sup></span></p>
 
-<i>Current Project</i>: Trend Analysis <span style="float:right; color: gray;"><sup>(Python)</sup></span>
+<i>Current Project</i>: Trend Analysis <span style="color: gray;"><sup>(Python)</sup></span>
 <br>
 Analyzing historical waste & recycling trends.
 <br>
@@ -50,7 +50,7 @@ Analyzing historical waste & recycling trends.
 <br>
 <span style="float:right; color: gray;"><sup>Source: Dribble\Zelenika</sup></span></p>
 
-Exploring Health Inspection Outcomes <span style="float:right; color: gray;"><sup>(Python)</sup></span>
+Exploring Health Inspection Outcomes <span style="color: gray;"><sup>(Python)</sup></span>
 <br>
 Finding the cleanest eateries and predicting restaurant scores.
 
