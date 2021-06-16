@@ -14,6 +14,7 @@
 <p><a href="https://zenjen-devs.github.io/internship2021"><img src="images/BMW-Intel.jpg?raw=true"/></a>
 <br>
 <span style="float:right; color: gray;"><sup>Source: Body Shop Business</sup></span></p>
+<i>Coming Soon</i>: (Summer/Fall 2021)
 <br>
 
 
@@ -25,9 +26,9 @@
 <br>
 <span style="float:right; color: gray;"><sup>Source: SAS</sup></span></p>
 
-<i>Current Project</i>: Linear Mixed Models
+<i>Current Project</i>: Linear Mixed Models <span style="float:right; color: gray;"><sup>(SAS Studio)</sup></span>
 <br>
-Modeling outcomes with wide-format data and repeated measures. <sup>(SAS Studio)</sup>
+Modeling outcomes of wide-format data and repeated measurements.
 <br>
 
 ---
@@ -37,9 +38,9 @@ Modeling outcomes with wide-format data and repeated measures. <sup>(SAS Studio)
 
 <span style="float:right; color: gray;"><sup>Source: Cyberpunk 2077</sup></span></p>
 
-<i>Current Project</i>: Trend Analysis
+<i>Current Project</i>: Trend Analysis <span style="float:right; color: gray;"><sup>(Python)</sup></span>
 <br>
-Analyzing historical waste & recycling trends in NYC. <sup>(Python)</sup>
+Analyzing historical waste & recycling trends.
 <br>
 
 ---
@@ -49,9 +50,9 @@ Analyzing historical waste & recycling trends in NYC. <sup>(Python)</sup>
 <br>
 <span style="float:right; color: gray;"><sup>Source: Dribble\Zelenika</sup></span></p>
 
-Exploring NYC Health Inspection Outcomes
+Exploring Health Inspection Outcomes <span style="float:right; color: gray;"><sup>(Python)</sup></span>
 <br>
-Finding the cleanest eateries and predicting restaurant scores. <sup>(Python)</sup>
+Finding the cleanest eateries and predicting restaurant scores.
 
 <br>
 
