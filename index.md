@@ -24,9 +24,9 @@
 
 <p><a href="https://zenjen-devs.github.io/statisticaldataanalysis"><img src="images/dataprofessionals.JPG?raw=true"/></a>
 <br>
-<span style="float:right; color: gray;"><sup>Source: SAS</sup></span></p>
+<span style="float: right; color: gray;"><sup>Source: SAS</sup></span></p>
 
-<i>Current Project</i>: Linear Mixed Models <span style="float:right; color: gray;"><sup>(SAS Studio)</sup></span>
+<i>Current Project</i>: Linear Mixed Models <span style="color: gray;"><sup>(SAS Studio)</sup></span>
 <br>
 Modeling outcomes of wide-format data and repeated measurements.
 <br>
