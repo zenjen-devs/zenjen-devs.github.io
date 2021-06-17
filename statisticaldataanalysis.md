@@ -171,7 +171,7 @@ JianJun Ou M.D., Ph.D, Robert C. Smith M.D. Ph.D, Russel Tobe M.D., Jingjing Lin
 <br>
 
 ### Sulforaphane Effects on Cognition and Symptoms in First-Episode Schizophrenia: A Randomized Double-Blind Trial *(Manuscript Submitted)* 
-
+<img align="right" src="images/distributionicon.png?raw=true"/>
 <span style="float: right; color: rebeccapurple;"><h4>Synopsis of Statistical Data Analysis Methods:</span></h4>
 
 The analysis of symptom and cognitive variables used mixed model analysis using SAS `proc mixed` proecdure to handle missing data, from drop-outs or other causes, in the analysis. If variables deviated markedly from the normal distribution, transformations (log, square root) were attempted before analysis to achieve a better approximation to normal distribution; where distributions were still very skewed, we developed syntax for mixed model with non-normal distributions using `proc glimmix` and appropriate transformations.
