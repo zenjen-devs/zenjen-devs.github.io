@@ -156,8 +156,8 @@ Conclusively, both programs achieve the same results--there may be some evidence
 <h2 id="publications">Co-Authorship on Academic Papers for Publication</h2>
 
 ### Efficacy Of Sulforaphane In Treatment Of Children With Autism Spectrum Disorder With and Without Severe Cognitive Impairment: A Randomized Double-Blind Placebo-Controlled Multi-Center Trial *(Manuscript Submitted)* 
-<img align="right" src="images/distributionicon.png?raw=true"/>
-<span style="float: right; color: rebeccapurple;"><b>Synopsis of Statistical Data Analysis Methods:</span></b>
+<img align="right" src="images/distributionicon.png?raw=true"/><br>
+<span style="float: right; color: rebeccapurple;"><b>Synopsis of Statistical Data Analysis Methods:</b></span><br>
 This study included a number of observations within individual subjects, so that each indivudal is a cluster. We utilized mixed model analysis using SAS `proc mixed` to handle missing data, from drop-outs or other causes, in the analysis. The main analysis included baseline scores as covariate. Effect size for the overall mixed model treatment effect was computed for variables with statistically significant treatment effects or strong trends, using additionally developed SAS syntax based on the suggestions of [Tippey & Longnecker](http://www.scsug.org/wp-content/uPBOads/2016/11/Ad-Hoc-Method-for-Computing-Effect-Size-for-Mixed-Models_PROCEEDINGS-UPDATE-1.pdf). Corrected significance levels across scales or subscales for a specific variable was assessed by Benjamini-Hochberg (BH) protected significance level (at α=.05). Effect size at individual time points were analyzed by computation in an Excel program for treatment and control groups with Cohen’s *d* and Hedges correction.
 <br><br>
 <sup>
@@ -172,7 +172,7 @@ JianJun Ou M.D., Ph.D, Robert C. Smith M.D. Ph.D, Russel Tobe M.D., Jingjing Lin
 
 ### Sulforaphane Effects on Cognition and Symptoms in First-Episode Schizophrenia: A Randomized Double-Blind Trial *(Manuscript Submitted)* 
 <img align="right" src="images/distributionicon.png?raw=true"/>
-<span style="float: right; color: rebeccapurple;"><b>Synopsis of Statistical Data Analysis Methods:</span></b>
+<span style="float: right; color: rebeccapurple;"><b>Synopsis of Statistical Data Analysis Methods:</b></span><br>
 
 The analysis of symptom and cognitive variables used mixed model analysis using SAS `proc mixed` proecdure to handle missing data, from drop-outs or other causes, in the analysis. If variables deviated markedly from the normal distribution, transformations (log, square root) were attempted before analysis to achieve a better approximation to normal distribution; where distributions were still very skewed, we developed syntax for mixed model with non-normal distributions using `proc glimmix` and appropriate transformations.
 
