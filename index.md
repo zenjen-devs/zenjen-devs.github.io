@@ -26,7 +26,7 @@
 <br>
 <span style="float: right; color: gray;"><sup>Source: SAS</sup></span></p>
 
-<i>Current Project</i>: Linear Mixed Models <span style="color: gray;"><sup>(SAS Studio)</sup></span>
+<i>Featured</i>: Linear Mixed Models <span style="color: gray;"><sup>(SAS Studio)</sup></span>
 <br>
 Modeling outcomes of wide-format data and repeated measurements.
 <br>
@@ -38,7 +38,7 @@ Modeling outcomes of wide-format data and repeated measurements.
 
 <span style="float:right; color: gray;"><sup>Source: Cyberpunk 2077</sup></span></p>
 
-<i>Current Project</i>: Trend Analysis <span style="color: gray;"><sup>(Python)</sup></span>
+<i>Featured</i>: Trend Analysis <span style="color: gray;"><sup>(Python)</sup></span>
 <br>
 Analyzing historical waste & recycling trends.
 <br>
@@ -50,7 +50,7 @@ Analyzing historical waste & recycling trends.
 <br>
 <span style="float:right; color: gray;"><sup>Source: Dribble\Zelenika</sup></span></p>
 
-Exploring Health Inspection Outcomes <span style="color: gray;"><sup>(Python)</sup></span>
+*Featured*: NYC Health Inspections
 <br>
 Finding the cleanest eateries and predicting restaurant scores.
 
