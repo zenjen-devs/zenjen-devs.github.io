@@ -2,7 +2,7 @@
 
 # Statistical Data Analysis
 <br>
-<b>Navigate to:</b> <a href="#publications">Publications</a>
+<b>Navigate to:</b> <a href="#publications">Publications</a> | <a href="#currentprojects">Current Projects</a>
 
 ---
 
