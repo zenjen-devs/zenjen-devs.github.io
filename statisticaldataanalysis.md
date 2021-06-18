@@ -80,10 +80,10 @@ The output indicates there's little to support difference variances, but the sta
 
 ```sas
 ods select solutionf tests3;
-proc mixed data = milk method = ml;
-class milk_cat;
-model value = milk_cat/solution ddf=8;
-repeated/group=milk_cat type = simple;
+proc mixed data = juice method = ml;
+class juice_cat;
+model value = juice_cat/solution ddf=8;
+repeated/group=juice_cat type = simple;
 run;
 ```
 
@@ -109,7 +109,7 @@ In R, we'll do the same by inputting the data like so and assigning the group la
 ```r
 value = c(78,88,92,89,94,103,124,101,100,89,107,83,97,81,93,88)
 mc = as.factor(rep(1:4, each=4))
-milk= data.frame(value, mc)
+juice= data.frame(value, mc)
 ```
 
 To fit the model with unequal variances as I did previously in SAS, we'll use the `gls()` function in the `nlme` library.
