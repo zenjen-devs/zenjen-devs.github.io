@@ -184,8 +184,7 @@ The analysis of symptom and cognitive variables used mixed model analysis using 
 <br>
 <sup>
   <b>Authors:</b><br> 
-Renrong Wu M.D. Ph.D, Robert C. Smith M.D. Ph.D, Gangrui Hei M.D., Ranran Li M.D. Ph.D，
-Jianjun Ou, M.D. Ph.D, Xueqing Song M.D. Ph.D, Yinjun Zheng M.D. Ph.D，Yiqun He M.D. Ph.D，Jen Arriaza, et al.
+Renrong Wu M.D. Ph.D, Robert C. Smith M.D. Ph.D, Gangrui Hei M.D., Jianjun Ou, M.D. Ph.D, Xueqing Song M.D. Ph.D，Yiqun He M.D. Ph.D，Jen Arriaza, et al.
 </sup>
 <br>
 
