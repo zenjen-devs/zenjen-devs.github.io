@@ -47,10 +47,10 @@ The `group` option in the `repeated` statement in `proc mixed` is specifically d
 
 ```sas
 ods select covparms lrt;
-proc mixed data = juice method = ml;
+proc mixed data=juice method=ml;
 class juice_cat;
 model value = juice_cat/solution;
-repeated/group=juice_cat type = simple;
+repeated/group=juice_cat type =simple;
 title 'Modeling Juice suppliers Vitamin B UI Levels'; 
 run;
 ```
@@ -80,10 +80,10 @@ The output indicates there's little to support difference variances, but the sta
 
 ```sas
 ods select solutionf tests3;
-proc mixed data = juice method = ml;
+proc mixed data=juice method=ml;
 class juice_cat;
 model value = juice_cat/solution ddf=8;
-repeated/group=juice_cat type = simple;
+repeated/group=juice_cat type =simple;
 run;
 ```
 
