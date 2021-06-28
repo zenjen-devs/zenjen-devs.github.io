@@ -45,7 +45,7 @@ Renrong Wu M.D. Ph.D, Robert C. Smith M.D. Ph.D, Gangrui Hei M.D., Jianjun Ou, M
 
 ---
 
-<br>
+
 <h2 id="currentprojects">Current Projects</h2>
 
 
