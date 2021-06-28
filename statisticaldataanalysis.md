@@ -2,10 +2,50 @@
 
 # Statistical Data Analysis
 <br>
-<b>Navigate to:</b> <a href="#publications">Publications</a> | <a href="#currentprojects">Current Projects</a>
+<b>Navigate to:</b> <a href="#currentprojects">Current Projects</a> | <a href="#publications">Publications</a>
 
 ---
 
+
+<h2 id="publications">Co-Authorship on Academic Papers for Publication</h2>
+
+### Efficacy Of Sulforaphane In Treatment Of Children With Autism Spectrum Disorder With and Without Severe Cognitive Impairment: A Randomized Double-Blind Placebo-Controlled Multi-Center Trial *(Manuscript Submitted)* 
+
+<img align="center" src="images/distributionicon.png?raw=true" height="75" width="75"/>
+
+#### Synopsis of Statistical Data Analysis Methods:
+
+This study included a number of observations within individual subjects, so that each indivudal is a cluster. We utilized mixed model analysis using SAS `proc mixed` to handle missing data, from drop-outs or other causes, in the analysis. The main analysis included baseline scores as covariate. Effect size for the overall mixed model treatment effect was computed for variables with statistically significant treatment effects or strong trends, using additionally developed SAS syntax based on the suggestions of [Tippey & Longnecker](http://www.scsug.org/wp-content/uPBOads/2016/11/Ad-Hoc-Method-for-Computing-Effect-Size-for-Mixed-Models_PROCEEDINGS-UPDATE-1.pdf). Corrected significance levels across scales or subscales for a specific variable was assessed by Benjamini-Hochberg (BH) protected significance level (at α=.05). Effect size at individual time points were analyzed by computation in an Excel program for treatment and control groups with Cohen’s *d* and Hedges correction.
+<br><br>
+<sup>
+  <b>Authors:</b> <br>
+JianJun Ou M.D., Ph.D, Robert C. Smith M.D. Ph.D, Russel Tobe M.D., Jingjing Lin M.M, Jen Arriaza, et al.
+</sup>
+<br>
+
+---
+
+<br>
+
+### Sulforaphane Effects on Cognition and Symptoms in First-Episode Schizophrenia: A Randomized Double-Blind Trial *(Manuscript Submitted)* 
+
+<img align="center" src="images/distributionicon.png?raw=true" height="75" width="75"/>
+
+#### Synopsis of Statistical Data Analysis Methods:
+
+The analysis of symptom and cognitive variables used mixed model analysis using SAS `proc mixed` proecdure to handle missing data, from drop-outs or other causes, in the analysis. If variables deviated markedly from the normal distribution, transformations (log, square root) were attempted before analysis to achieve a better approximation to normal distribution; where distributions were still very skewed, we developed syntax for mixed model with non-normal distributions using `proc glimmix` and appropriate transformations.
+
+<br>
+<sup>
+  <b>Authors:</b><br> 
+Renrong Wu M.D. Ph.D, Robert C. Smith M.D. Ph.D, Gangrui Hei M.D., Jianjun Ou, M.D. Ph.D, Xueqing Song M.D. Ph.D，Yiqun He M.D. Ph.D，Jen Arriaza, et al.
+</sup>
+<br>
+
+
+---
+
+<br>
 <h2 id="currentprojects">Current Projects</h2>
 
 
@@ -148,44 +188,8 @@ Conclusively, both programs achieve the same results--there may be some evidence
 ###### Credits: [Ben Bolker/Rpubs](https://rpubs.com/bbolker/66298), [Ken Kleinmen/SASandR](https://www.amazon.com/gp/product/1466584491/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1466584491&linkCode=as2&tag=sasandrblog-20)
 
 <br>
-<b>Navigate back to:</b> <a href="#currentprojects">Current Projects</a> ⤴️
+<b>Navigate back to:</b> <a href="#publications">Publications</a> ⤴️
 <br>
 
 ---
 
-<h2 id="publications">Co-Authorship on Academic Papers for Publication</h2>
-
-### Efficacy Of Sulforaphane In Treatment Of Children With Autism Spectrum Disorder With and Without Severe Cognitive Impairment: A Randomized Double-Blind Placebo-Controlled Multi-Center Trial *(Manuscript Submitted)* 
-
-<img align="center" src="images/distributionicon.png?raw=true" height="75" width="75"/>
-
-#### Synopsis of Statistical Data Analysis Methods:
-
-This study included a number of observations within individual subjects, so that each indivudal is a cluster. We utilized mixed model analysis using SAS `proc mixed` to handle missing data, from drop-outs or other causes, in the analysis. The main analysis included baseline scores as covariate. Effect size for the overall mixed model treatment effect was computed for variables with statistically significant treatment effects or strong trends, using additionally developed SAS syntax based on the suggestions of [Tippey & Longnecker](http://www.scsug.org/wp-content/uPBOads/2016/11/Ad-Hoc-Method-for-Computing-Effect-Size-for-Mixed-Models_PROCEEDINGS-UPDATE-1.pdf). Corrected significance levels across scales or subscales for a specific variable was assessed by Benjamini-Hochberg (BH) protected significance level (at α=.05). Effect size at individual time points were analyzed by computation in an Excel program for treatment and control groups with Cohen’s *d* and Hedges correction.
-<br><br>
-<sup>
-  <b>Authors:</b> <br>
-JianJun Ou M.D., Ph.D, Robert C. Smith M.D. Ph.D, Russel Tobe M.D., Jingjing Lin M.M, Jen Arriaza, et al.
-</sup>
-<br>
-
----
-
-<br>
-
-### Sulforaphane Effects on Cognition and Symptoms in First-Episode Schizophrenia: A Randomized Double-Blind Trial *(Manuscript Submitted)* 
-
-<img align="center" src="images/distributionicon.png?raw=true" height="75" width="75"/>
-
-#### Synopsis of Statistical Data Analysis Methods:
-
-The analysis of symptom and cognitive variables used mixed model analysis using SAS `proc mixed` proecdure to handle missing data, from drop-outs or other causes, in the analysis. If variables deviated markedly from the normal distribution, transformations (log, square root) were attempted before analysis to achieve a better approximation to normal distribution; where distributions were still very skewed, we developed syntax for mixed model with non-normal distributions using `proc glimmix` and appropriate transformations.
-
-<br>
-<sup>
-  <b>Authors:</b><br> 
-Renrong Wu M.D. Ph.D, Robert C. Smith M.D. Ph.D, Gangrui Hei M.D., Jianjun Ou, M.D. Ph.D, Xueqing Song M.D. Ph.D，Yiqun He M.D. Ph.D，Jen Arriaza, et al.
-</sup>
-<br>
-
----
