@@ -9,7 +9,7 @@
 
 <h2 id="publications">Co-Authorship on Academic Papers for Publication</h2>
 
-### Efficacy Of Sulforaphane In Treatment Of Children With Autism Spectrum Disorder With and Without Severe Cognitive Impairment: A Randomized Double-Blind Placebo-Controlled Multi-Center Trial *(Manuscript Submitted)* 
+### I. Efficacy Of Sulforaphane In Treatment Of Children With Autism Spectrum Disorder With and Without Severe Cognitive Impairment: A Randomized Double-Blind Placebo-Controlled Multi-Center Trial *(Manuscript Submitted)* 
 
 <img align="center" src="images/distributionicon.png?raw=true" height="75" width="75"/>
 
@@ -27,7 +27,7 @@ JianJun Ou M.D., Ph.D, Robert C. Smith M.D. Ph.D, Russel Tobe M.D., Jingjing Lin
 
 <br>
 
-### Sulforaphane Effects on Cognition and Symptoms in First-Episode Schizophrenia: A Randomized Double-Blind Trial *(Manuscript Submitted)* 
+### II. Sulforaphane Effects on Cognition and Symptoms in First-Episode Schizophrenia: A Randomized Double-Blind Trial *(Manuscript Submitted)* 
 
 <img align="center" src="images/distributionicon.png?raw=true" height="75" width="75"/>
 
