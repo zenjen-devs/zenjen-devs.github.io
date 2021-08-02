@@ -15,7 +15,7 @@
 <br>
 <span style="float:right; color: gray;"><sup>Source: Body Shop Business</sup></span></p>
 
-Analyzing fleet data of autonomous driving and assistance features.
+Large-scale analysis of autonomous driving features from customer fleet data.
 
 
 ---
