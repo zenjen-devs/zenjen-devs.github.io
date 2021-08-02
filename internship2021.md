@@ -2,4 +2,6 @@
 
 ### Internship 2021: BMWNA's Autonomous Driver Team
 
-**Updating Summer/Fall 2021**
+*Analyses of fleet data concerning autonomous driving and driver assistance features.*
+
+
