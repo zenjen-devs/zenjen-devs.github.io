@@ -9,13 +9,13 @@
 
 ---
 
-### [Internship 2021: BMWNA's Autonomous Driver Team](/internship2021)
+### [Data Science Internship 2021: BMWNA's Autonomous Driver Team](/internship2021)
 
 <p><a href="https://zenjen-devs.github.io/internship2021"><img src="images/BMW-Intel.jpg?raw=true"/></a>
 <br>
 <span style="float:right; color: gray;"><sup>Source: Body Shop Business</sup></span></p>
 
-Large-scale analysis of autonomous driving features from customer fleet data.
+Analyzing autonomous driving features from customer fleet data.
 
 
 ---
