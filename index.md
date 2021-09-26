@@ -61,7 +61,7 @@ Finding the cleanest eateries and predicting restaurant scores.
 
 ### Archive
 
-Follow my [Instagram](https://www.instagram.com/zenjen.io) for updates 🔮
+More updates to come Fall 2021 🔮
 
 
 
