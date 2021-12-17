@@ -9,6 +9,14 @@
 
 ---
 
+### Senior Research Project
+#### [A Study of Autonomous Vehicles: Background, Current Issues, & Outlook of Self-Driving Cars](/JenArriaza_SeniorProject.pdf)
+
+View my senior thesis paper at the above link.
+
+
+---
+
 ### [Data Science Internship 2021: BMW's Autonomous Driver Team](/internship2021)
 
 <p><a href="https://zenjen-devs.github.io/internship2021"><img src="images/BMW-Intel.jpg?raw=true"/></a>
