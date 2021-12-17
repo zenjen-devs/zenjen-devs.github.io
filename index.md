@@ -10,9 +10,10 @@
 ---
 
 ### Senior Research Project
-#### [A Study of Autonomous Vehicles: Background, Current Issues, & Outlook of Self-Driving Cars](/JenArriaza_SeniorProject.pdf)
+#### A Study of Autonomous Vehicles: Background, Current Issues, & Outlook of Self-Driving Cars
 
-View my senior thesis paper at the above link.
+[View Paper](https://github.com/zenjen-devs/zenjen-devs.github.io/blob/master/pdfs/JenArriaza_SeniorProject.pdf)
+
 
 
 ---
