@@ -19,13 +19,13 @@
 
 ---
 
-### [Data Science Internship 2021: BMW's Autonomous Driver Team](/internship2021)
+### [Data Science Internship 2022: BMW's Autonomous Driver Team](/internship2021)
 
 <p><a href="https://zenjen-devs.github.io/internship2021"><img src="images/BMW-Intel.jpg?raw=true"/></a>
 <br>
 <span style="float:right; color: gray;"><sup>Source: Body Shop Business</sup></span></p>
 <br>
-Analyzing autonomous driving features from customer fleet data.
+Data powers feature optimization and verifies requirements in autonomous driving.
 
 
 ---
@@ -38,7 +38,7 @@ Analyzing autonomous driving features from customer fleet data.
 
 <i>Featured</i>: Linear Mixed Models <span style="color: gray;"><sup>(SAS Studio)</sup></span>
 <br>
-Modeling outcomes of wide-format data and repeated measurements.
+Modeling outcomes of wide-format data and repeated observations.
 <br>
 
 ---
@@ -71,7 +71,7 @@ Finding the cleanest eateries and predicting restaurant scores.
 
 ### Archive
 
-More updates to come Fall 2021 🔮
+More updates to come Summer 2022 🔮
 
 
 
