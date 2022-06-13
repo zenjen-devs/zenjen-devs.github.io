@@ -5,11 +5,11 @@
   </p>
 
 
-### Projects
+### Featured Projects
 
 ---
 
-### Senior Research Project
+### [Senior Research Project](pdfs/JenArriaza_SeniorProject.pdf)
 #### A Study of Autonomous Vehicles: Background, Current Issues, & Outlook of Self-Driving Cars
 
 
@@ -30,6 +30,18 @@ Verifying requirements and feature optimization with autonomous driving data.
 
 ---
 
+### [Analytics Engineering](/analytics-python)
+<p><a href="https://zenjen-devs.github.io/analytics-python"><img src="images/civilizationfiction.jpg?raw=true"/></a>
+
+<span style="float:right; color: gray;"><sup>Source: Cyberpunk 2077</sup></span></p>
+
+<i>Featured</i>: Trend Analysis <span style="color: gray;"><sup>(Python)</sup></span>
+<br>
+Analyzing historical waste & recycling trends.
+<br>
+
+---
+
 ### [Statisical Data Analysis](/statisticaldataanalysis)
 
 <p><a href="https://zenjen-devs.github.io/statisticaldataanalysis"><img src="images/dataprofessionals.JPG?raw=true"/></a>
@@ -39,18 +51,6 @@ Verifying requirements and feature optimization with autonomous driving data.
 <i>Featured</i>: Linear Mixed Models <span style="color: gray;"><sup>(SAS Studio)</sup></span>
 <br>
 Modeling outcomes of wide-format data and repeated measurements.
-<br>
-
----
-
-### [Analytics Engineering](/analytics-python)
-<p><a href="https://zenjen-devs.github.io/analytics-python"><img src="images/civilizationfiction.jpg?raw=true"/></a>
-
-<span style="float:right; color: gray;"><sup>Source: Cyberpunk 2077</sup></span></p>
-
-<i>Featured</i>: Trend Analysis <span style="color: gray;"><sup>(Python)</sup></span>
-<br>
-Analyzing historical waste & recycling trends.
 <br>
 
 ---
@@ -69,7 +69,7 @@ Finding the cleanest eateries and predicting restaurant scores.
 ---
 
 
-### Archive
+### [View Past Projects](/archive)
 
 More updates to come Summer 2022 🔮
 
