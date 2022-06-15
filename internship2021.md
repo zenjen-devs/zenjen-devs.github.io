@@ -17,6 +17,7 @@ The main tools in this assignment were PySpark or SQL for large-scale data proce
 <p align="center">
 <img align="center" src="images/bmw-ix-adas.png?raw=true"/>
   </p>
+  <span style="float:right; color: gray;"><sup>Source: BMW Blog</sup></span></p>
 
 
 
