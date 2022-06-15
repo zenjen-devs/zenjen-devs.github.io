@@ -25,7 +25,7 @@
 <br>
 <span style="float:right; color: gray;"><sup>Source: Body Shop Business</sup></span></p>
 <br>
-Verifying requirements and feature optimization with autonomous driving data.
+Large-scale data analysis for improving testing and implementation of autonomous driving features.
 
 
 ---
