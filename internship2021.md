@@ -5,7 +5,7 @@
 Jen completed an internship in BMW's engineering department, which is repsonsible for defining US market requirements, analyzing customer data and carrying out validation and deployment tasks for all areas of digital BMW Group products. She was based out of the Woodcliff Lake, New Jersey office of BMW of North America, working remotely in the home office for most of the assignment. 
 
 <p align="center">
-<img align="center" src="images/bmw-ix-adas.png?raw=true" height="575" width="275"/>
+<img align="center" src="images/bmw-ix-adas.png?raw=true" height="275" width="575"/>
   </p>
 
 Jen was a strong contributor to the overall team with specific focus in the field of large-scale customer data analysis for improving testing and implementation of Advanced Driver Assistance Systems (ADAS). In the course of her internship, her main work results and achievements were:
