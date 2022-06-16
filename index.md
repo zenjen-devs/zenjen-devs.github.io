@@ -13,7 +13,7 @@
 
 Co-author. Contributed statistical data analaysis on published biomedical research study surrounding the effects of a novel low-toxicity drug.
 
-<a href="https://zenjen-devs.github.io/bio](https://academic.oup.com/schizbullopen/article/3/1/sgac024/6543894">View Paper</a>
+<a href="https://academic.oup.com/schizbullopen/article/3/1/sgac024/6543894">View Paper</a>
 
 ### Senior Research Project: A Study of Autonomous Vehicles: Background, Current Issues, & Outlook of Self-Driving Cars
 
