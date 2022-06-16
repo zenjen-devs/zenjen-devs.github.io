@@ -9,9 +9,15 @@
 
 ---
 
-### [Senior Research Project](pdfs/JenArriaza_SeniorProject.pdf)
-#### A Study of Autonomous Vehicles: Background, Current Issues, & Outlook of Self-Driving Cars
+### Published on Oxford Academic: Sulforaphane Effects on Cognition and Symptoms in First and Early Episode Schizophrenia: A Randomized Double-Blind Trial
 
+Co-author. Contributed statistical data analaysis on published biomedical research study surrounding the effects of a novel low-toxicity drug.
+
+<a href="https://zenjen-devs.github.io/bio](https://academic.oup.com/schizbullopen/article/3/1/sgac024/6543894">View Paper</a>
+
+### Senior Research Project: A Study of Autonomous Vehicles: Background, Current Issues, & Outlook of Self-Driving Cars
+
+In-depth research study examining AVs within the automotive/mobility industry.
 
 <a href="pdfs/JenArriaza_SeniorProject.pdf" class="image fit">View Paper</a>
 
