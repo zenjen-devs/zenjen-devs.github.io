@@ -11,7 +11,7 @@
 
 ### Published on Oxford Academic: Sulforaphane Effects on Cognition and Symptoms in First and Early Episode Schizophrenia: A Randomized Double-Blind Trial
 
-Co-author. Contributed statistical data analaysis on published biomedical research study surrounding the effects of a novel low-toxicity drug.
+Co-author. Contributed statistical data analysis on published biomedical research study surrounding the effects of a novel low-toxicity drug.
 
 <a href="https://academic.oup.com/schizbullopen/article/3/1/sgac024/6543894">View Paper</a>
 
