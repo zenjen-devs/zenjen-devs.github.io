@@ -13,7 +13,7 @@
 
 Co-author. Contributed as student data scientist in completion of Structural Equation Modeling course in Spring 2022 at NYU.
 
-<a href="https://doi.org/10.48550/arXiv.2205.14282"><b>View Paper</b></a> <img style="vertical-align:middle" src="https://cdn-icons-png.flaticon.com/512/376/376007.png" height="18" width="18"/>
+<a href="https://doi.org/10.48550/arXiv.2205.14282"><b>View Paper</b> <img style="vertical-align:middle" src="https://cdn-icons-png.flaticon.com/512/376/376007.png" height="10" width="10"/></a>
 
 
 ### <i>Published in Oxford Academic</i>: Sulforaphane Effects on Cognition and Symptoms in Schizophrenia: A Randomized Double-Blind Trial
