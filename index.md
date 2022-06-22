@@ -38,7 +38,7 @@ In-depth research study examining AVs within the automotive/mobility industry.
 <br>
 <span style="float:right; color: gray;"><sup>Source: Body Shop Business</sup></span></p>
 
-Large-scale data analysis and applied machine learning for improving testing and implementation of autonomous driving features.
+Large-scale data analysis and applied ML for improving testing and implementation of autonomous driving features.
 
 
 ---
