@@ -5,7 +5,7 @@
   </p>
 
 
-<h1 style="color:MidnightBlue;">Featured Projects</h1>
+<h2 style="color:MidnightBlue;">Featured Projects</h2>
 
 ---
 
