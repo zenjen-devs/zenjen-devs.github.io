@@ -1,11 +1,11 @@
 <p align="right">
   <a href="https://zenjen-devs.github.io/bio"><b><sup>ABOUT</sup></b></a><sup> |</sup>
-  <a href="mailto:jen.arriaza@nyu.edu"><b><sup>CONTACT</sup></b></a>
+  <a href="mailto:jenarriaz@gmail.com"><b><sup>CONTACT</sup></b></a>
   
   </p>
 
 
-### Featured Projects
+## Featured Projects
 
 ---
 
