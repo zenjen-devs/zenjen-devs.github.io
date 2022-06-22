@@ -9,7 +9,7 @@
 
 ---
 
-### Published on Springer Digital Library: Investigating End-user Acceptance of Last-mile Delivery by Autonomous Vehicles in the United States
+### <i>Published on Springer Digital Library</i>: Investigating End-user Acceptance of Last-mile Delivery by Autonomous Vehicles in the United States
 
 Co-author. Contributed as student data scientist in completion of Structural Equation Modeling course in Spring 2022 at NYU.
 
