@@ -9,6 +9,13 @@
 
 ---
 
+### Published on Springer Digital Library: Investigating End-user Acceptance of Last-mile Delivery by Autonomous Vehicles in the United States
+
+Co-author. Contributed as student data scientist in completion of Structural Equation Modeling course in Spring 2022 at NYU.
+
+<a href="https://doi.org/10.48550/arXiv.2205.14282)">View Paper</a>
+
+
 ### Published on Oxford Academic: Sulforaphane Effects on Cognition and Symptoms in First and Early Episode Schizophrenia: A Randomized Double-Blind Trial
 
 Co-author. Contributed statistical data analysis on published biomedical research study surrounding the effects of a novel low-toxicity drug.
