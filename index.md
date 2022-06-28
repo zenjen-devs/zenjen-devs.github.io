@@ -11,14 +11,14 @@
 
 #### <i>Published</i>: Investigating End-user Acceptance of Last-mile Delivery by Autonomous Vehicles in the United States
 
-Co-author. Contributed as student data scientist in completion of Statistical Modeling course at NYU. Accepted for publication in May 2022 to Human-Computer-Interaction Institute-Late Breaking Work issued in  Springer Digital Library.
+Co-author. Contributed as student data scientist in completion of Statistical Modeling course at NYU. Accepted for publication in May 2022 to HCII-Late Breaking Work issued in Springer Digital Library.
 
 <a href="https://doi.org/10.48550/arXiv.2205.14282"><b>View Publication</b> <img style="vertical-align:middle" src="https://cdn-icons-png.flaticon.com/512/376/376007.png" height="12" width="12"/></a>
 
 
 #### <i>Published</i>: Sulforaphane Effects on Cognition and Symptoms in Schizophrenia: A Randomized Double-Blind Trial
 
-Co-author. Contributed statistical data analysis on published biomedical research study surrounding the effects of a novel low-toxicity drug. Accepted for publication in March 2022 to Oxford Academic.
+Co-author. Contributed statistical data analysis on published biomedical research study surrounding the effects of a novel low-toxicity drug. Accepted for publication March 2022 in Oxford Academic.
 
 <a href="https://academic.oup.com/schizbullopen/article/3/1/sgac024/6543894"><b>View Publication</b> <img style="vertical-align:middle" src="https://cdn-icons-png.flaticon.com/512/376/376007.png" height="12" width="12"/></a>
 
