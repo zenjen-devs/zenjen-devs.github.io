@@ -26,7 +26,7 @@ Co-author. Contributed statistical data analysis on published biomedical researc
 
 In-depth research study examining AVs within the automotive/mobility industry.
 
-<a href="pdfs/JenArriaza_SeniorProject.pdf" class="image fit"><b>View Publication</b> <img style="vertical-align:middle" src="https://cdn-icons-png.flaticon.com/512/376/376007.png" height="12" width="12"/></a>
+<a href="pdfs/JenArriaza_SeniorProject.pdf" class="image fit"><b>View Paper</b> <img style="vertical-align:middle" src="https://cdn-icons-png.flaticon.com/512/376/376007.png" height="12" width="12"/></a>
 
 
 
