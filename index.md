@@ -57,7 +57,7 @@ Finding the cleanest eateries and predicting restaurant scores.
 
 ---
 
-<a href="#featuredprojects">Return to Featured Projects</a> 
+<a href="#currentprojects">Return to Featured Projects</a> 
 
 <h2 id="publications">Publications</h2>
 
