@@ -7,6 +7,8 @@
   </p>
   <span style="float:right; color: gray;"><sup>Source: BMW Blog</sup></span>
 
+<br>
+
 Jen completed an internship within BMW's engineering department, which is repsonsible for defining US market requirements, analyzing customer data and carrying out validation and deployment tasks for all areas of digital BMW Group products. 
 
 She was based out of the Woodcliff Lake, New Jersey office of BMW of North America, working remotely in the home office for most of the assignment. While BMW internships typically last 6 months, Jen accepted an offer to extend her assignment into Summer 2022.
