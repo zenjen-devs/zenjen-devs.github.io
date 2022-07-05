@@ -8,10 +8,14 @@ She was based out of the Woodcliff Lake, New Jersey office of BMW of North Ameri
 
 Jen was a strong contributor to the overall team with specific focus in the field of large-scale customer data analysis for improving testing and implementation of Advanced Driver Assistance Systems (ADAS). In the course of her internship, her main work results and achievements were:
 
+<p style="color:Black;">
+
 - Supervised BMW of North America's migration of the data handling infrastructure to AWS
 - Analyzed customer data to determine activation and duration statistics, and created geolocation maps with implication on the performance of autonomous driving features
 - Validated new feature signals being tested in AWS
 
+ </p>
+ 
 The main tools in this assignment were PySpark or SQL for large-scale data processing, AWS/EMR for data management, and data analysis/statistical packages for Python.
 
 <p align="center">
