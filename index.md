@@ -1,3 +1,17 @@
+# Statistical Data Analysis
+<br>
+<b>Navigate to:</b> <a href="#currentprojects">Current Projects</a> | <a href="#publications">Publications</a>
+
+---
+
+
+<h2 id="publications">Co-Authorship on Academic Papers for Publication</h2>
+
+### I.  Efficacy Of Sulforaphane In Treatment Of Children With Autism Spectrum Disorder With and Without Severe Cognitive Impairment: A Randomized Double-Blind Placebo-Controlled Multi-Center Trial *(Manuscript Submitted)* 
+
+This study included a number of observations within individual subjects, so that each indivudal is a cluster. We utilized mixed model analysis using SAS `proc mixed` to handle missing data,
+
+
 <p align="right">
   <a href="https://zenjen-devs.github.io/bio"><b><sup>ABOUT</sup></b></a><sup> |</sup>
   <a href="mailto:hello@jenarriaza.com"><b><sup>CONTACT</sup></b></a>
@@ -6,30 +20,7 @@
 
 
 <h2 style="color:MidnightBlue;">Featured Projects</h2>
-
----
-
-#### <i>Published</i>: Investigating End-user Acceptance of Last-mile Delivery by Autonomous Vehicles in the United States
-
-Co-author. Contributed as student data scientist in completion of academics at NYU. Accepted for publication in May 2022 to Human-Computer Interaction International 2022, and printed to Springer Digital Library.
-
-<a href="https://doi.org/10.48550/arXiv.2205.14282"><b>View Publication</b> <img style="vertical-align:middle" src="https://cdn-icons-png.flaticon.com/512/376/376007.png" height="12" width="12"/></a>
-
-
-#### <i>Published</i>: Sulforaphane Effects on Cognition and Symptoms in Schizophrenia: A Randomized Double-Blind Trial
-
-Co-author. Contributed statistical data analysis on published biomedical research study surrounding the effects of a novel low-toxicity drug. Accepted for publication March 2022 in Oxford Academic.
-
-<a href="https://academic.oup.com/schizbullopen/article/3/1/sgac024/6543894"><b>View Publication</b> <img style="vertical-align:middle" src="https://cdn-icons-png.flaticon.com/512/376/376007.png" height="12" width="12"/></a>
-
-#### <i>Senior Research Project</i>: A Study of Autonomous Vehicles: Background, Current Issues, & Outlook of Self-Driving Cars
-
-In-depth research study examining AVs within the automotive/mobility industry.
-
-<a href="pdfs/JenArriaza_SeniorProject.pdf" class="image fit"><b>View Paper</b> <img style="vertical-align:middle" src="https://cdn-icons-png.flaticon.com/512/376/376007.png" height="12" width="12"/></a>
-
-
-
+<b>Navigate to:</b> <a href="#publications">Publications</a> | <a href="#currentprojects">Current Projects</a> 
 ---
 
 ### [Data Science Internship 2022: BMW's Autonomous Driver Team](/internship2021)
@@ -81,6 +72,27 @@ Finding the cleanest eateries and predicting restaurant scores.
 
 ---
 
+<h2 id="publications">Publications</h2>
+#### <i>Published</i>: Investigating End-user Acceptance of Last-mile Delivery by Autonomous Vehicles in the United States
+
+Co-author. Contributed as student data scientist in completion of academics at NYU. Accepted for publication in May 2022 to Human-Computer Interaction International 2022, and printed to Springer Digital Library.
+
+<a href="https://doi.org/10.48550/arXiv.2205.14282"><b>View Publication</b> <img style="vertical-align:middle" src="https://cdn-icons-png.flaticon.com/512/376/376007.png" height="12" width="12"/></a>
+
+
+#### <i>Published</i>: Sulforaphane Effects on Cognition and Symptoms in Schizophrenia: A Randomized Double-Blind Trial
+
+Co-author. Contributed statistical data analysis on published biomedical research study surrounding the effects of a novel low-toxicity drug. Accepted for publication March 2022 in Oxford Academic.
+
+<a href="https://academic.oup.com/schizbullopen/article/3/1/sgac024/6543894"><b>View Publication</b> <img style="vertical-align:middle" src="https://cdn-icons-png.flaticon.com/512/376/376007.png" height="12" width="12"/></a>
+
+#### <i>Senior Research Project</i>: A Study of Autonomous Vehicles: Background, Current Issues, & Outlook of Self-Driving Cars
+
+In-depth research study examining AVs within the automotive/mobility industry.
+
+<a href="pdfs/JenArriaza_SeniorProject.pdf" class="image fit"><b>View Paper</b> <img style="vertical-align:middle" src="https://cdn-icons-png.flaticon.com/512/376/376007.png" height="12" width="12"/></a>
+
+---
 
 ### [View Past Projects](/archive)
 
