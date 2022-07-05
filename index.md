@@ -53,6 +53,7 @@ Finding the cleanest eateries and predicting restaurant scores.
 ---
 
 <h2 id="publications">Publications</h2>
+
 #### <i>Published</i>: Investigating End-user Acceptance of Last-mile Delivery by Autonomous Vehicles in the United States
 
 Co-author. Contributed as student data scientist in completion of academics at NYU. Accepted for publication in May 2022 to Human-Computer Interaction International 2022, and printed to Springer Digital Library.
