@@ -15,9 +15,9 @@ Jen was a strong contributor to the overall team with specific focus in the fiel
 
 <p style="color:Black;">
  
- • Supervised BMW of North America's migration of the data handling infrastructure to AWS
- • Analyzed customer data to determine activation and duration statistics, and created geolocation maps with implication on the performance of autonomous driving features
- • Validated new feature signals being tested in AWS
+ • Supervised BMW of North America's migration of the data handling infrastructure to AWS <br>
+ • Analyzed customer data to determine activation and duration statistics, and created geolocation maps with implication on the performance of autonomous driving features <br>
+ • Validated new feature signals being tested in AWS <br>
 
  </p>
  
