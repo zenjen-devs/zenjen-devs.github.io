@@ -2,7 +2,7 @@
 
 ---
 
-<h2 id="currentprojects" style="color:DarkGrey;">Featured Projects</h2>
+<h2 id="currentprojects" style="color:DarkSlateGray;">Featured Projects</h2>
 
 ### [AutoML: Predicting Serious Accidents in NYC](/automl)
 
@@ -10,10 +10,9 @@
 <br>
 <span style="float:right; color: gray;"><sup>Source: Flir</sup></span></p>
 
-Building a predictive model with real-world data to source serious accidents in NYC.
+Predictive modeling with real-world data to source serious accidents.
 
-
-<h2 id="pastprojects" style="color:DarkGrey;">Past Projects</h2>
+<h2 id="pastprojects" style="color:DarkSlateGray;">Past Projects</h2>
 
 ### [Data Science Internship 2022: BMW's Autonomous Driver Team](/internship2021)
 
