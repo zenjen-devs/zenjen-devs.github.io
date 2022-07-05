@@ -1,26 +1,6 @@
-# Statistical Data Analysis
-<br>
-<b>Navigate to:</b> <a href="#currentprojects">Current Projects</a> | <a href="#publications">Publications</a>
-
----
-
-
-<h2 id="publications">Co-Authorship on Academic Papers for Publication</h2>
-
-### I.  Efficacy Of Sulforaphane In Treatment Of Children With Autism Spectrum Disorder With and Without Severe Cognitive Impairment: A Randomized Double-Blind Placebo-Controlled Multi-Center Trial *(Manuscript Submitted)* 
-
-This study included a number of observations within individual subjects, so that each indivudal is a cluster. We utilized mixed model analysis using SAS `proc mixed` to handle missing data,
-
-
-<p align="right">
-  <a href="https://zenjen-devs.github.io/bio"><b><sup>ABOUT</sup></b></a><sup> |</sup>
-  <a href="mailto:hello@jenarriaza.com"><b><sup>CONTACT</sup></b></a>
-  
-  </p>
-
-
 <h2 style="color:MidnightBlue;">Featured Projects</h2>
-<b>Navigate to:</b> <a href="#publications">Publications</a> | <a href="#currentprojects">Current Projects</a> 
+<b>Navigate to:</b> <a href="#publications">Publications</a> | <a href="#currentprojects">Current Projects</a> | <a href="https://zenjen-devs.github.io/bio">Bio</a> | <a href="mailto:hello@jenarriaza.com">Contact</a>
+
 ---
 
 ### [Data Science Internship 2022: BMW's Autonomous Driver Team](/internship2021)
