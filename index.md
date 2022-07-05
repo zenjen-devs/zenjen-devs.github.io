@@ -1,4 +1,4 @@
-<b>Navigate to:</b> <a href="#currentprojects">Current Projects</a> <b>|</b> <a href="#publications">Publications</a> <b>|</b> <a href="#pastprojects">Past Projects</a> <b>|</b> <a href="https://zenjen-devs.github.io/bio">Bio</a> <b>|</b> <a href="mailto:hello@jenarriaza.com">Contact</a>
+<sup> <b>Navigate to:</b> <a href="#currentprojects">Current Projects</a> <b>|</b> <a href="#publications">Publications</a> <b>|</b> <a href="#pastprojects">Past Projects</a> <b>|</b> <a href="https://zenjen-devs.github.io/bio">About</a> <b>|</b> <a href="mailto:hello@jenarriaza.com">Contact</a> </sup>
 
 ---
 
