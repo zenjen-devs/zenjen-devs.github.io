@@ -10,7 +10,7 @@
 <br>
 <span style="float:right; color: gray;"><sup>Source: Flir</sup></span></p>
 
-Building a predictive model with real-world accident data to source serious accidents in NYC.
+Building a predictive model with real-world data to source serious accidents in NYC.
 
 
 <h2 id="pastprojects" style="color:DarkGrey;">Past Projects</h2>
