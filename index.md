@@ -2,11 +2,18 @@
 
 ---
 
-<h2 id="currentprojects" style="color:Black;">Featured Projects</h2>
+<h2 id="currentprojects" style="color:DarkGrey;">Featured Projects</h2>
 
-add new projects here
+### [AutoML: Predicting Serious Accidents in NYC](/automl)
 
-<h2 id="pastprojects" style="color:Black;">Past Projects</h2>
+<p><a href="https://zenjen-devs.github.io/internship2021"><img src="https://www.flir.com/globalassets/industrial/instruments/public-safety/industrial-safety-hero.jpg"/></a>
+<br>
+<span style="float:right; color: gray;"><sup>Source: Flir</sup></span></p>
+
+Building a predictive model with real-world accident data to source serious accidents in NYC.
+
+
+<h2 id="pastprojects" style="color:DarkGrey;">Past Projects</h2>
 
 ### [Data Science Internship 2022: BMW's Autonomous Driver Team](/internship2021)
 
