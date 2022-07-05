@@ -6,7 +6,7 @@
 
 ### [AutoML: Predicting Serious Accidents in NYC](/automl)
 
-<p><a href="https://zenjen-devs.github.io/internship2021"><img src="https://www.flir.com/globalassets/industrial/instruments/public-safety/industrial-safety-hero.jpg"/></a>
+<p><a href="https://zenjen-devs.github.io/automl"><img src="https://www.flir.com/globalassets/industrial/instruments/public-safety/industrial-safety-hero.jpg"/></a>
 <br>
 <span style="float:right; color: gray;"><sup>Source: Flir</sup></span></p>
 
