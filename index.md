@@ -2,11 +2,11 @@
 
 ---
 
-<h2 id="currentprojects" style="color:MidnightBlue;">Featured Projects</h2>
+<h2 id="currentprojects" style="color:Black;">Featured Projects</h2>
 
 add new projects here
 
-<h2 id="pastprojects">Past Projects</h2>
+<h2 id="pastprojects" style="color:Black;">Past Projects</h2>
 
 ### [Data Science Internship 2022: BMW's Autonomous Driver Team](/internship2021)
 
@@ -82,7 +82,7 @@ In-depth research study examining AVs within the automotive/mobility industry.
 
 ---
 
-### [View Past Projects](/archive)
+### [View Archive](/archive)
 
 More updates to come Summer 2022 🔮
 
