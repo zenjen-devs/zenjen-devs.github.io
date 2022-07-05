@@ -1,6 +1,6 @@
 [Back](https://zenjen-devs.github.io)
 
-# Automated Machine Learning: Predicting Where Serious Accidents Happen in NYC
+## Automated Machine Learning: Predicting Where Serious Accidents Happen in NYC
 <br>
 <b>Navigate to:</b> <a href="#currentprojects">Current Projects</a> | <a href="#publications">Publications</a>
 
