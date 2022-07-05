@@ -1,9 +1,8 @@
-<h2 style="color:MidnightBlue;">Featured Projects</h2>
-<sub><b>Navigate to:</sub></b> <a href="#currentprojects">Current Projects</a> <b>|</b> <a href="#publications">Publications</a> <b>|</b> <a href="#pastprojects">Past Projects</a> <b>|</b> <a href="https://zenjen-devs.github.io/bio">Bio</a> <b>|</b> <a href="mailto:hello@jenarriaza.com">Contact</a>
+<b>Navigate to:</b> <a href="#currentprojects">Current Projects</a> <b>|</b> <a href="#publications">Publications</a> <b>|</b> <a href="#pastprojects">Past Projects</a> <b>|</b> <a href="https://zenjen-devs.github.io/bio">Bio</a> <b>|</b> <a href="mailto:hello@jenarriaza.com">Contact</a>
 
 ---
 
-<h2 id="currentprojects">Featured Projects</h2>
+<h2 id="currentprojects" style="color:MidnightBlue;">Featured Projects</h2>
 
 add new projects here
 
