@@ -1,7 +1,13 @@
 <h2 style="color:MidnightBlue;">Featured Projects</h2>
-<b>Navigate to:</b> <a href="#publications">Publications</a> | <a href="#currentprojects">Current Projects</a> | <a href="https://zenjen-devs.github.io/bio">Bio</a> | <a href="mailto:hello@jenarriaza.com">Contact</a>
+<sub><b>Navigate to:</sub></b> <a href="#currentprojects">Current Projects</a> <b>|</b> <a href="#publications">Publications</a> <b>|</b> <a href="#pastprojects">Past Projects</a> <b>|</b> <a href="https://zenjen-devs.github.io/bio">Bio</a> <b>|</b> <a href="mailto:hello@jenarriaza.com">Contact</a>
 
 ---
+
+<h2 id="currentprojects">Featured Projects</h2>
+
+add new projects here
+
+<h2 id="pastprojects">Past Projects</h2>
 
 ### [Data Science Internship 2022: BMW's Autonomous Driver Team](/internship2021)
 
@@ -51,6 +57,8 @@ Finding the cleanest eateries and predicting restaurant scores.
 <br>
 
 ---
+
+<a href="#featuredprojects">Return to Featured Projects</a> 
 
 <h2 id="publications">Publications</h2>
 
