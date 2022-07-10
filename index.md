@@ -4,13 +4,13 @@
 
 <h2 id="currentprojects" style="color:DarkSlateGray;">Featured Projects</h2>
 
-### [AutoML: Predicting Serious Accidents in NYC](/autoML)
+### [Deep-Dive Data Mining: Analyzing Pre & Post-COVID Car Crash Data in NYC](/autoML)
 
 <p><a href="https://zenjen-devs.github.io/autoML"><img src="https://www.flir.com/globalassets/industrial/instruments/public-safety/industrial-safety-hero.jpg"/></a>
 <br>
 <span style="float:right; color: gray;"><sup>Source: Flir</sup></span></p>
 
-Predictive modeling with real-world data to source serious accidents.
+My summary of interesting insights and full report of 2019-2022 NYC accident data.
 
 <h2 id="pastprojects" style="color:DarkSlateGray;">Past Projects</h2>
 
