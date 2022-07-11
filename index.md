@@ -12,7 +12,6 @@
 
 My summary of interesting insights and full report of 2019-2022 NYC accident data.
 
-<h2 id="pastprojects" style="color:DarkSlateGray;">Past Projects</h2>
 
 ### [Data Science Internship 2022: BMW's Autonomous Driver Team](/internship2021)
 
@@ -24,45 +23,7 @@ Large-scale data analysis and applied ML for improving testing and implementatio
 
 
 ---
-
-### [Analytics Engineering](/analytics-python)
-<p><a href="https://zenjen-devs.github.io/analytics-python"><img src="images/civilizationfiction.jpg?raw=true"/></a>
-
-<span style="float:right; color: gray;"><sup>Source: Cyberpunk 2077</sup></span></p>
-
-<i>Featured</i>: Trend Analysis <span style="color: gray;"><sup>(Python)</sup></span>
-<br>
-Analyzing historical waste & recycling trends.
-<br>
-
----
-
-### [Statisical Data Analysis](/statisticaldataanalysis)
-
-<p><a href="https://zenjen-devs.github.io/statisticaldataanalysis"><img src="images/dataprofessionals.JPG?raw=true"/></a>
-<br>
-<span style="float: right; color: gray;"><sup>Source: SAS</sup></span></p>
-
-<i>Featured</i>: Linear Mixed Models <span style="color: gray;"><sup>(SAS Studio)</sup></span>
-<br>
-Modeling outcomes of wide-format data and repeated measurements.
-<br>
-
----
-
-### [Academic Projects](/academicprojects)
-<p><a href="https://zenjen-devs.github.io/academicprojects"><img src="images/analytics-apple2.png?raw=true"/></a>
-<br>
-<span style="float:right; color: gray;"><sup>Source: Dribble\Zelenika</sup></span></p>
-
-*Featured*: NYC Health Inspections
-<br>
-Finding the cleanest eateries and predicting restaurant scores.
-
-<br>
-
----
-
+  
 <a href="#currentprojects">Back</a> 
 
 <h2 id="publications">Publications</h2>
@@ -87,6 +48,41 @@ In-depth research study examining AVs within the automotive/mobility industry.
 <a href="pdfs/JenArriaza_SeniorProject.pdf" class="image fit"><b>View Paper</b> <img style="vertical-align:middle" src="https://cdn-icons-png.flaticon.com/512/376/376007.png" height="12" width="12"/></a>
 
 ---
+  
+<h2 id="pastprojects" style="color:DarkSlateGray;">Past Projects</h2>
+
+### [Analytics Engineering](/analytics-python)
+<p><a href="https://zenjen-devs.github.io/analytics-python"><img src="images/civilizationfiction.jpg?raw=true"/></a>
+
+<span style="float:right; color: gray;"><sup>Source: Cyberpunk 2077</sup></span></p>
+
+Trend Analysis in Python using Plotly visualizations. Analyzing historical waste & recycling trends.
+<br>
+
+---
+
+### [Statisical Data Analysis](/statisticaldataanalysis)
+
+<p><a href="https://zenjen-devs.github.io/statisticaldataanalysis"><img src="images/dataprofessionals.JPG?raw=true"/></a>
+<br>
+<span style="float: right; color: gray;"><sup>Source: SAS</sup></span></p>
+
+Linear Mixed Models in SAS Studio. Modeling outcomes of wide-format data and repeated measurements.
+<br>
+
+---
+
+### [Academic Projects](/academicprojects)
+<p><a href="https://zenjen-devs.github.io/academicprojects"><img src="images/analytics-apple2.png?raw=true"/></a>
+<br>
+<span style="float:right; color: gray;"><sup>Source: Dribble\Zelenika</sup></span></p>
+
+Supervised machine learning in Python to find the cleanest eateries in NYC using health inspection data.
+
+<br>
+
+---
+
 
 ### [View Archive](/archive)
 
