@@ -19,4 +19,4 @@ Further exploration of the data revelead other interesing factors, i.e.; locatio
 
   ![image](https://user-images.githubusercontent.com/84609216/178176439-7813c41a-73d6-4e58-87af-a06cea9cf8df.png)
   
-<i>Coming Soon</i>: Predictive modeling with real-world data to source serious accidents using autoML.
+<i>Next update</i>: Predictive modeling with real-world data to source serious accidents using automated machine learning (autoML).
