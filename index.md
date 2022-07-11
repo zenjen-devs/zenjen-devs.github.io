@@ -23,8 +23,6 @@ Large-scale data analysis and applied ML for improving testing & implementation 
 
 
 ---
-  
-<a href="#currentprojects">Back</a> 
 
 <h2 id="publications">Publications</h2>
 
@@ -48,6 +46,8 @@ In-depth research study examining AVs within the automotive/mobility industry.
 <a href="pdfs/JenArriaza_SeniorProject.pdf" class="image fit"><b>View Paper</b> <img style="vertical-align:middle" src="https://cdn-icons-png.flaticon.com/512/376/376007.png" height="12" width="12"/></a>
 
 ---
+  
+<a href="#currentprojects">Back</a>     
   
 <h2 id="pastprojects" style="color:DarkSlateGray;">Past Projects</h2>
 
