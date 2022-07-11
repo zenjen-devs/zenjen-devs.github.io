@@ -1,10 +1,8 @@
 [Back](https://zenjen-devs.github.io)
 
 ## Deep-Dive Data Mining: Analyzing Pre & Post-COVID Car Crash Data in NYC
-<br>
-The goal of this analysis is to explore the data for any interesting findings through an exploratory analysis. Potential findings from the data may be important insight for drivers, pedestrians, and bicyclists in NYC. This project was completed using mainly Python libraries and Tableau. <br>
 
-The analysis examined the data for patterns and any points of interest pertaining to car accidents in the five boroughs. This data is also useful for infrastructure development, and to inform policies or technologies that can make travel on roads safer. <a href="pdfs/NYC_CrashData_EDA_2019-2022_JenArriaza.pdf" class="image fit"><b>View the full report here </b> <img style="vertical-align:middle" src="https://cdn-icons-png.flaticon.com/512/376/376007.png" height="12" width="12"/></a>
+The analysis examined the data for patterns and any points of interest pertaining to car accidents in the five boroughs. Results are useful for development of technology and to inform programs that can mitigate the ecnonic impacts and loss of life due to traffic accidents. This project was completed using mainly Python libraries and Tableau. <a href="pdfs/NYC_CrashData_EDA_2019-2022_JenArriaza.pdf" class="image fit"><b>View the full report here </b> <img style="vertical-align:middle" src="https://cdn-icons-png.flaticon.com/512/376/376007.png" height="12" width="12"/></a>
 
 #### Insights
 
