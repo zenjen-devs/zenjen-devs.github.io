@@ -10,9 +10,13 @@ The goal of this analysis is to explore the data for any interesting findings th
 
 A times series analysis of data from January 2019 to March 2022 shows that accident numbers fell to about half at the peak of quarantine. But what's more interesting is what numbers <b> did not fall </b>: <br>
 
+![image](https://user-images.githubusercontent.com/84609216/178161094-70986a9c-9036-4115-a868-de93b4fb7321.png)
 
-
-
-
-
+<i>Less accidents, but rising fatalities<i>. Although there are significantly less vehicles on the road during and after the pandemic in NYC—and subsequently less accidents. The number of accident-related fatalities is showing an upward trend in the above graph, potentially due to an increase of pedestrian and cyclists traffic during quarantine. <br>
+  
+Further exploration of the data revelead other interesing factors, i.e.; locations with high fatalities, and sedans vs. SUVs.<b> For the full project report, click here. </br>
+<br>
+  <br>
+  
+  ![image](https://user-images.githubusercontent.com/84609216/178176439-7813c41a-73d6-4e58-87af-a06cea9cf8df.png)  <br>
 <i>Coming Soon</i>: Predictive modeling with real-world data to source serious accidents using autoML.
