@@ -4,13 +4,13 @@
 
 <h2 id="currentprojects" style="color:DarkSlateGray;">Featured Projects</h2>
 
-### [Deep-Dive Data Mining: Analyzing Pre & Post-COVID Car Crash Data in NYC](/autoML)
+### [Deep-Dive Data Mining: Analyzing Pre & Post-COVID Car Crash Data in NYC](/nyc_crash_project)
 
-<p><a href="https://zenjen-devs.github.io/autoML"><img src="https://www.flir.com/globalassets/industrial/instruments/public-safety/industrial-safety-hero.jpg"/></a>
+<p><a href="https://zenjen-devs.github.io/nyc_crash_project"><img src="https://www.flir.com/globalassets/industrial/instruments/public-safety/industrial-safety-hero.jpg"/></a>
 <br>
 <span style="float:right; color: gray;"><sup>Source: Flir</sup></span></p>
 
-My summary of interesting insights and full report of 2019-2022 NYC accident data.
+Interesting insights and full report of NYC accident data analytics.
 
 
 ### [Data Science Internship 2022: BMW's Autonomous Driver Team](/internship2021)
@@ -19,7 +19,7 @@ My summary of interesting insights and full report of 2019-2022 NYC accident dat
 <br>
 <span style="float:right; color: gray;"><sup>Source: Body Shop Business</sup></span></p>
 
-Large-scale data analysis and applied ML for improving testing and implementation of autonomous driving features.
+Large-scale data analysis and applied ML for improving testing & implementation of autonomous driving features.
 
 
 ---
