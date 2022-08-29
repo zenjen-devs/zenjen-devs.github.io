@@ -3,8 +3,7 @@ logo: "/images/pfpupdate2.png?raw=true" # your photo (or logo) here
 plugins:
   - jemoji
 description: > # text below
-  
-  <b><h2>Hello! I'm Jen :seedling:</b></h2>
+  <b><h3>Hello! I'm Jen :seedling:</b></h3>
   <p><b>Welcome to my portfolio.</b><br>
   I use data science to solve problems and build data-powered intelligent systems.<br>
   <br>
