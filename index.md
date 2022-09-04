@@ -13,9 +13,8 @@ Random forest classifier model predicts crash severities in NYC & full report of
 
 ### [Data Science Internship 2022: BMW's Autonomous Driver Team](/internship2021)
 
-<p><a href="https://zenjen-devs.github.io/internship2021"><img src="images/BMW-Intel.jpg?raw=true"/></a>
+<p><a href="https://zenjen-devs.github.io/internship2021"><img src="images/BMW-Intel.jpg?raw=true" title="Source: Body Shop Business"/></a>
 
-<span style="float:right; color: gray;"><sup>Source: Body Shop Business</sup></span></p><br>
 Large-scale data analysis and applied machine learning to improving testing & implementation of autonomous driving features.
 
 
@@ -49,9 +48,8 @@ In-depth research study examining AVs within the automotive/mobility industry.
 <h2 id="pastprojects" style="color:DarkSlateGray;">Past Projects</h2>
 
 ### [Analytics Engineering](/analytics-python)
-<p><a href="https://zenjen-devs.github.io/analytics-python"><img src="images/civilizationfiction.jpg?raw=true"/></a>
+<p><a href="https://zenjen-devs.github.io/analytics-python"><img src="images/civilizationfiction.jpg?raw=true" title="Source: Cyberpunk 2077"/></a>
 
-<span style="float:right; color: gray;"><sup>Source: Cyberpunk 2077</sup></span></p><br>
 
 Trend Analysis in Python using Plotly visualizations. Analyzing historical waste & recycling trends.
 <br>
@@ -60,9 +58,7 @@ Trend Analysis in Python using Plotly visualizations. Analyzing historical waste
 
 ### [Statisical Data Analysis](/statisticaldataanalysis)
 
-<p><a href="https://zenjen-devs.github.io/statisticaldataanalysis"><img src="images/dataprofessionals.JPG?raw=true"/></a>
-<br>
-<span style="float: right; color: gray;"><sup>Source: SAS</sup></span></p><br>
+<p><a href="https://zenjen-devs.github.io/statisticaldataanalysis"><img src="images/dataprofessionals.JPG?raw=true" title="Source: SAS"/></a>
 
 Linear Mixed Models in SAS Studio. Modeling outcomes of wide-format data and repeated measurements.
 <br>
@@ -70,9 +66,7 @@ Linear Mixed Models in SAS Studio. Modeling outcomes of wide-format data and rep
 ---
 
 ### [Academic Projects](/academicprojects)
-<p><a href="https://zenjen-devs.github.io/academicprojects"><img src="images/analytics-apple2.png?raw=true"/></a>
-<br>
-<span style="float:right; color: gray;"><sup>Source: Dribble\Zelenika</sup></span></p><br>
+<p><a href="https://zenjen-devs.github.io/academicprojects"><img src="images/analytics-apple2.png?raw=true" title="Source: Dribble/Zelenika"/></a>
 
 Supervised machine learning in Python to find the cleanest eateries in NYC using health inspection data.
 
