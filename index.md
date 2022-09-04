@@ -4,13 +4,13 @@
 
 <h2 id="currentprojects" style="color:DarkSlateGray;">Featured Projects</h2>
 
-### [Classifiction of Crash Severities in NYC & Pre/Post COVID Analytics](/nyc_crash_project)
+### [Classifiction of Crash Severities & Pre/Post COVID Analytics](/nyc_crash_project)
 
 <p><a href="https://zenjen-devs.github.io/nyc_crash_project"><img src="https://www.flir.com/globalassets/industrial/instruments/public-safety/industrial-safety-hero.jpg"/></a>
 <br>
 <span style="float:right; color: gray;"><sup>Source: Flir</sup></span></p>
 
-Random forest classifier model predicts NYC crash severity & full report of insights from analytics deep-dive.
+Random forest classifier model predicts crash severities in NYC & full report of insights from analytics deep-dive.
 
 
 ### [Data Science Internship 2022: BMW's Autonomous Driver Team](/internship2021)
