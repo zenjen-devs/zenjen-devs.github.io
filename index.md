@@ -4,7 +4,7 @@
 
 <h2 id="currentprojects" style="color:DarkSlateGray;">Featured Projects</h2>
 
-### [Classifiction of Car Crash Severities in NYC & Pre/Post COVID Analytics](/nyc_crash_project)
+### [Classifiction of Crash Severities in NYC & Pre/Post COVID Analytics](/nyc_crash_project)
 
 <p><a href="https://zenjen-devs.github.io/nyc_crash_project"><img src="https://www.flir.com/globalassets/industrial/instruments/public-safety/industrial-safety-hero.jpg"/></a>
 <br>
