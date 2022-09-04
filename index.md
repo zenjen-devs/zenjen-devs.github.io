@@ -6,9 +6,8 @@
 
 ### [Classifiction of Crash Severities & Pre/Post COVID Analytics](/nyc_crash_project)
 
-<p><a href="https://zenjen-devs.github.io/nyc_crash_project"><img src="https://www.flir.com/globalassets/industrial/instruments/public-safety/industrial-safety-hero.jpg"/></a>
+<p><a href="https://zenjen-devs.github.io/nyc_crash_project"><img src="https://www.flir.com/globalassets/industrial/instruments/public-safety/industrial-safety-hero.jpg" title="Source: Flir"/></a>
 
-<span style="float:right; color: gray;"><sup>Source: Flir</sup></span></p><br>
 Random forest classifier model predicts crash severities in NYC & full report of insights from analytics deep-dive.
 
 
