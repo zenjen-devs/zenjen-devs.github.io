@@ -7,18 +7,16 @@
 ### [Classifiction of Crash Severities & Pre/Post COVID Analytics](/nyc_crash_project)
 
 <p><a href="https://zenjen-devs.github.io/nyc_crash_project"><img src="https://www.flir.com/globalassets/industrial/instruments/public-safety/industrial-safety-hero.jpg"/></a>
-<br>
-<span style="float:right; color: gray;"><sup>Source: Flir</sup></span></p><br>
 
+<span style="float:right; color: gray;"><sup>Source: Flir</sup></span></p><br>
 Random forest classifier model predicts crash severities in NYC & full report of insights from analytics deep-dive.
 
 
 ### [Data Science Internship 2022: BMW's Autonomous Driver Team](/internship2021)
 
 <p><a href="https://zenjen-devs.github.io/internship2021"><img src="images/BMW-Intel.jpg?raw=true"/></a>
-<br>
-<span style="float:right; color: gray;"><sup>Source: Body Shop Business</sup></span></p><br>
 
+<span style="float:right; color: gray;"><sup>Source: Body Shop Business</sup></span></p><br>
 Large-scale data analysis and applied machine learning to improving testing & implementation of autonomous driving features.
 
 
