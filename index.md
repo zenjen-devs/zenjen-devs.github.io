@@ -54,7 +54,7 @@ In-depth research study examining AVs within the automotive/mobility industry.
 ### [Analytics Engineering](/analytics-python)
 <p><a href="https://zenjen-devs.github.io/analytics-python"><img src="images/civilizationfiction.jpg?raw=true"/></a>
 
-<span style="float:right; color: gray;"><sup>Source: Cyberpunk 2077</sup></span></p>
+<span style="float:right; color: gray;"><sup>Source: Cyberpunk 2077</sup></span></p><br>
 
 Trend Analysis in Python using Plotly visualizations. Analyzing historical waste & recycling trends.
 <br>
@@ -65,7 +65,7 @@ Trend Analysis in Python using Plotly visualizations. Analyzing historical waste
 
 <p><a href="https://zenjen-devs.github.io/statisticaldataanalysis"><img src="images/dataprofessionals.JPG?raw=true"/></a>
 <br>
-<span style="float: right; color: gray;"><sup>Source: SAS</sup></span></p>
+<span style="float: right; color: gray;"><sup>Source: SAS</sup></span></p><br>
 
 Linear Mixed Models in SAS Studio. Modeling outcomes of wide-format data and repeated measurements.
 <br>
@@ -75,7 +75,7 @@ Linear Mixed Models in SAS Studio. Modeling outcomes of wide-format data and rep
 ### [Academic Projects](/academicprojects)
 <p><a href="https://zenjen-devs.github.io/academicprojects"><img src="images/analytics-apple2.png?raw=true"/></a>
 <br>
-<span style="float:right; color: gray;"><sup>Source: Dribble\Zelenika</sup></span></p>
+<span style="float:right; color: gray;"><sup>Source: Dribble\Zelenika</sup></span></p><br>
 
 Supervised machine learning in Python to find the cleanest eateries in NYC using health inspection data.
 
