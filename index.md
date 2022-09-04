@@ -86,7 +86,7 @@ Supervised machine learning in Python to find the cleanest eateries in NYC using
 
 ### [View Archive](/archive)
 
-More updates to come Summer 2022 🔮
+Follow my [Instagram](/https://instagram.com/zenjen.dev) for updates! 🔮
 
 
 
