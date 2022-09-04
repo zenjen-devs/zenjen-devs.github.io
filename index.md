@@ -86,7 +86,7 @@ Supervised machine learning in Python to find the cleanest eateries in NYC using
 
 ### [View Archive](/archive)
 
-Follow my <a href="[https://www.instagram.com/zenjen.dev)">Instagram</a> for updates! 🔮
+Follow my <a href="https://www.instagram.com/zenjen.dev">Instagram</a> for updates! 🔮
 
 
 
