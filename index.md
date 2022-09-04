@@ -8,14 +8,14 @@
 
 <p><a href="https://zenjen-devs.github.io/nyc_crash_project"><img src="https://www.flir.com/globalassets/industrial/instruments/public-safety/industrial-safety-hero.jpg" title="Source: Flir"/></a>
 
-Random forest classifier model predicts crash severities in NYC & full report of insights from analytics deep-dive.
+Random forest classifier model predicts crash severities in NYC and full report of insights from analytics deep-dive.
 
 
 ### [Data Science Internship 2022: BMW's Autonomous Driver Team](/internship2021)
 
 <p><a href="https://zenjen-devs.github.io/internship2021"><img src="images/BMW-Intel.jpg?raw=true" title="Source: Body Shop Business"/></a>
 
-Large-scale data analysis and applied machine learning to improving testing & implementation of autonomous driving features.
+Large-scale data analysis and applied machine learning to improving testing and implementation of autonomous driving features.
 
 
 ---
@@ -51,7 +51,7 @@ In-depth research study examining AVs within the automotive/mobility industry.
 <p><a href="https://zenjen-devs.github.io/analytics-python"><img src="images/civilizationfiction.jpg?raw=true" title="Source: Cyberpunk 2077"/></a>
 
 
-Trend Analysis in Python using Plotly visualizations. Analyzing historical waste & recycling trends.
+Trend Analysis in Python using Plotly visualizations. Analyzing historical waste/recycling trends.
 <br>
 
 ---
