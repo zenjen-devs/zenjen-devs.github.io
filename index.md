@@ -47,10 +47,10 @@ In-depth research study examining AVs within the automotive/mobility industry.
 <h2 id="pastprojects" style="color:DarkSlateGray;">Past Projects</h2>
 
 ### [Analytics Engineering](/analytics-python)
-<p><a href="https://zenjen-devs.github.io/analytics-python"><img src="images/civilizationfiction.jpg?raw=true" title="Source: Cyberpunk 2077"/></a>
-
+<p><a href="https://zenjen-devs.github.io/analytics-python"><img src="images/civilizationfiction.jpg?raw=true" title="Source: Cyberpunk 2077"/></a></p>
 
 Trend Analysis in Python using Plotly visualizations. Analyzing historical waste/recycling trends.
+  
 <br>
 
 ---
