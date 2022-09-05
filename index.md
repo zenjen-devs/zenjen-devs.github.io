@@ -55,24 +55,24 @@ Trend Analysis in Python using Plotly visualizations. Analyzing historical waste
 
 ---
 
+  
 ### [Statisical Data Analysis](/statisticaldataanalysis)
 
-<p><a href="https://zenjen-devs.github.io/statisticaldataanalysis"><img src="images/dataprofessionals.JPG?raw=true" title="Source: SAS"/></a>
+<p><a href="https://zenjen-devs.github.io/statisticaldataanalysis"><img src="images/dataprofessionals.JPG?raw=true" title="Source: SAS"/></a></p>
 
 Linear Mixed Models in SAS Studio. Modeling outcomes of wide-format data and repeated measurements.
 <br>
 
 ---
 
+  
 ### [Academic Projects](/academicprojects)
-<p><a href="https://zenjen-devs.github.io/academicprojects"><img src="images/analytics-apple2.png?raw=true" title="Source: Dribble/Zelenika"/></a>
+<p><a href="https://zenjen-devs.github.io/academicprojects"><img src="images/analytics-apple2.png?raw=true" title="Source: Dribble/Zelenika"/></a></p>
 
 Supervised machine learning in Python to find the cleanest eateries in NYC using health inspection data.
 
-<br>
 
 ---
-
 
 ### [View Archive](/archive)
 
