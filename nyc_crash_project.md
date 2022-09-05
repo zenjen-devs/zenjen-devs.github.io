@@ -11,7 +11,9 @@ The dataset contains approximately 1.2 million records, each representing a moto
 
 ### Classification Summary & Model Performance 
 
-Analysis of the model performance revealed that the *contributing factors* and *type of vehicles* invovled in the crash are the most important features with regard to predicting severity classification, respectively. This is consistent with previous studies concluding that point of impact and/or vehicle size are highly relevant factors in accident severities. Moreover, model performance results indicated that off-streets and hour of day in which an accident occurred also have relatively higher importance in predicting severity.
+Analysis of the model performance revealed that the *contributing factors* and *type of vehicles* invovled in the crash are the most important features with regard to predicting severity classification, respectively. This is consistent with previous studies concluding that point of impact and/or vehicle size are highly relevant factors in accident severities. 
+
+Moreover, model performance results indicated that off-streets and hour of day in which an accident occurred also have relatively higher importance in predicting severity.
 
 For model selection, I employed VotingClassifier to assess various classification algorithms. The below visualizations depict the performance results macro averages. The Random Forest Classifier returned the best model performance metrics.
 
@@ -50,5 +52,3 @@ Further exploration of the data revelead other interesing factors, i.e.; locatio
   
 
   ![image](https://user-images.githubusercontent.com/84609216/178176439-7813c41a-73d6-4e58-87af-a06cea9cf8df.png)
-  
-<i>Next update</i>: Predictive modeling with real-world data to source serious accidents using automated machine learning (autoML).
