@@ -6,7 +6,7 @@
 
 ### [Classifiction of Crash Severities & Pre/Post COVID Analytics](/nyc_crash_project)
 
-<p><a href="https://zenjen-devs.github.io/nyc_crash_project"><img src="https://www.flir.com/globalassets/industrial/instruments/public-safety/industrial-safety-hero.jpg" title="Source: Flir"/></a></p>
+<p><a href="https://zenjen-devs.github.io/nyc_crash_project"><img src="https://www.flir.com/globalassets/industrial/instruments/public-safety/industrial-safety-hero.jpg" height="100" width="100" title="Source: Flir"/></a></p>
 
 Random forest classifier model predicts crash severities in NYC and full report of insights from analytics deep-dive.
 
@@ -50,11 +50,9 @@ In-depth research study examining AVs within the automotive/mobility industry.
 <p><a href="https://zenjen-devs.github.io/analytics-python"><img src="images/civilizationfiction.jpg?raw=true" title="Source: Cyberpunk 2077"/></a></p>
 
 Trend Analysis in Python using Plotly visualizations. Analyzing historical waste/recycling trends.
-  
 <br>
 
 ---
-
   
 ### [Statisical Data Analysis](/statisticaldataanalysis)
 
