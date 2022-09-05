@@ -29,7 +29,7 @@ For model selection, I employed *VotingClassifier* to assess various classificat
 
 ![nyc_classification_precisionRecall](https://user-images.githubusercontent.com/84609216/188345020-a640e655-2f19-4d2b-9a0c-b050485515d4.png)
 
-<p align="center"> Precision/Recall <p>
+<p align="center"> Precision/Recall </p>
 
 ![nyc_classification_confusionMatrix](https://user-images.githubusercontent.com/84609216/188345227-a8f6b86e-a364-4e87-bb76-7b2eaf752d23.png)
 
