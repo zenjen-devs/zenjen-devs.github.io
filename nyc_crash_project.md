@@ -10,7 +10,7 @@ The dataset contains approximately 1.2 million records, each representing a moto
 
 ## Classification Summary & Model Performance 
 
-Analysis of the model performance revealed that the *contributing factors* and *vehicle types* invovled of significant importance with regard to predicting severity classification, respectively. This is consistent with previous studies concluding that point of impact and/or vehicle size are highly relevant factors in crash severities. Additionally, model performance results indicated that off-streets and hour of day in which an accident occurred also have relatively higher importance in predicting severity.
+Model performance analysis revealed that the *contributing factors* and *vehicle types* involved have significant importance with regard to predicting severity classification, respectively. This is consistent with previous studies concluding that point of impact and/or vehicle size are highly relevant factors in crash severities. Additionally, results indicated that off-street and hour of day in which an accident occurred also have relatively higher importance in predicting severity.
 
 For model selection, I employed *VotingClassifier* to assess various classification algorithms. The below visualizations depict the performance results macro averages. The Random Forest Classifier returned the best model performance metrics.
 
@@ -21,19 +21,20 @@ For model selection, I employed *VotingClassifier* to assess various classificat
     accuracy                           0.71    246683
     macro avg      0.72      0.71
 
-Classification Report
+<p align="center"> Classification Report </p>
 
 ![nyc_classification_auc](https://user-images.githubusercontent.com/84609216/188344894-83f3537b-b76f-4021-bbcc-f59fe39c7543.png)
 
-AUC
+<p align="center"> Area Under Curve </p>
 
 ![nyc_classification_precisionRecall](https://user-images.githubusercontent.com/84609216/188345020-a640e655-2f19-4d2b-9a0c-b050485515d4.png)
 
-Precision/Recall
+<p align="center"> Precision/Recall <p>
 
 ![nyc_classification_confusionMatrix](https://user-images.githubusercontent.com/84609216/188345227-a8f6b86e-a364-4e87-bb76-7b2eaf752d23.png)
 
-Confusion Matrix
+<p align="center"> Confusion Matrix </p>
+
 
 ## Methodology
 
