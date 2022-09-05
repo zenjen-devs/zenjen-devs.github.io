@@ -5,7 +5,7 @@
 ![NYC_CRASH_DATA_Banner](https://user-images.githubusercontent.com/84609216/188340988-20821f45-23d3-45b9-bdb2-b7f8b9c4a9cd.png)
 
 
-Based on the historical data available with respect to NYC crash data, I developed a model to classify whether an accident is deemed severe/not severe. The model is a **binary classifier** in which target variable *serious_accident* is either *True/False* dependent on whether at least one (>1) injury was reported. 
+Based on the historical data available with respect to NYC crash data, I developed a model to classify whether an accident is deemed severe/not severe. The model is a **binary classifier** in which target variable *serious accident* is either *True/False* dependent on whether at least one injury was reported. 
 
 The dataset contains approximately 1.2 million records, each representing a motor vehicle accident that occurred within the 5 boroughs of NYC between April 2012 and August 2022. This is the entirety of the crash data available as of August 2022, accessed directly from NYC OpenData and downloaded to a CSV dataset.
 
@@ -21,14 +21,22 @@ For model selection, I employed VotingClassifier to assess various classificatio
 
        False       0.69      0.78      0.73    123286
         True       0.75      0.65      0.69    123397
-
     accuracy                           0.71    246683
     macro avg      0.72      0.71
 
 <p align="center">Classification Report</p>
 
-![My project](https://user-images.githubusercontent.com/84609216/188349317-60f7bb71-ad4b-4abc-a726-692a9c07ecd9.png)
+![nyc_classification_auc](https://user-images.githubusercontent.com/84609216/188344894-83f3537b-b76f-4021-bbcc-f59fe39c7543.png)
 
+<p align="center">AUC</p>
+
+![nyc_classification_precisionRecall](https://user-images.githubusercontent.com/84609216/188345020-a640e655-2f19-4d2b-9a0c-b050485515d4.png)
+
+<p align="center">Precision/Recall</p>
+
+![nyc_classification_confusionMatrix](https://user-images.githubusercontent.com/84609216/188345227-a8f6b86e-a364-4e87-bb76-7b2eaf752d23.png)
+
+<p align="center">Confusion Matrix</p>
 
 ### Methodology
 
