@@ -22,20 +22,21 @@ For model selection, I employed *VotingClassifier* to assess various classificat
         True       0.75      0.65      0.69    123397
     accuracy                           0.71    246683
     macro avg      0.72      0.71
+Classification Report
 
-<p align="center">Classification Report</p>
+
 
 ![nyc_classification_auc](https://user-images.githubusercontent.com/84609216/188344894-83f3537b-b76f-4021-bbcc-f59fe39c7543.png)
 
-<p align="center">AUC</p>
+AUC
 
 ![nyc_classification_precisionRecall](https://user-images.githubusercontent.com/84609216/188345020-a640e655-2f19-4d2b-9a0c-b050485515d4.png)
 
-<p align="center">Precision/Recall</p>
+Precision/Recall
 
 ![nyc_classification_confusionMatrix](https://user-images.githubusercontent.com/84609216/188345227-a8f6b86e-a364-4e87-bb76-7b2eaf752d23.png)
 
-<p align="center">Confusion Matrix</p>
+Confusion Matrix
 
 ### Methodology
 
