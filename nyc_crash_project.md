@@ -8,11 +8,9 @@ Based on historical data available with respect to NYC crash data, I developed a
 
 The dataset contains approximately 1.2 million records, each representing a motor vehicle accident that occurred within the 5 boroughs of NYC between April 2012 and August 2022. This is the entirety of the crash data available as of August 2022, accessed directly from NYC OpenData.
 
-### Classification Summary & Model Performance 
+## Classification Summary & Model Performance 
 
-Analysis of the model performance revealed that the *contributing factors* and *type of vehicles* invovled in the crash are the most important features with regard to predicting severity classification, respectively. This is consistent with previous studies concluding that point of impact and/or vehicle size are highly relevant factors in accident severities. 
-
-Moreover, model performance results indicated that off-streets and hour of day in which an accident occurred also have relatively higher importance in predicting severity.
+Analysis of the model performance revealed that the *contributing factors* and *vehicle types* invovled of significant importance with regard to predicting severity classification, respectively. This is consistent with previous studies concluding that point of impact and/or vehicle size are highly relevant factors in crash severities. Additionally, model performance results indicated that off-streets and hour of day in which an accident occurred also have relatively higher importance in predicting severity.
 
 For model selection, I employed *VotingClassifier* to assess various classification algorithms. The below visualizations depict the performance results macro averages. The Random Forest Classifier returned the best model performance metrics.
 
@@ -22,9 +20,8 @@ For model selection, I employed *VotingClassifier* to assess various classificat
         True       0.75      0.65      0.69    123397
     accuracy                           0.71    246683
     macro avg      0.72      0.71
+
 Classification Report
-
-
 
 ![nyc_classification_auc](https://user-images.githubusercontent.com/84609216/188344894-83f3537b-b76f-4021-bbcc-f59fe39c7543.png)
 
@@ -38,7 +35,7 @@ Precision/Recall
 
 Confusion Matrix
 
-### Methodology
+## Methodology
 
 To handle imbalances in the data (such as over-representation of "fender bender" accidents), data pre-processing involved a down-sampling technique which restored balance ahead of training the models. While the dataset is mostly complete, any missing values were handled through interpolation of mean values. 
 
@@ -46,7 +43,7 @@ To handle imbalances in the data (such as over-representation of "fender bender"
 
 This exploratory analysis further examined data for patterns and  points of interest pertaining to car accidents in the NYC boroughs. Results are useful for development of technology and to inform programs that can mitigate the ecnonic impacts and loss of life due to traffic accidents. This project was completed using mainly Python libraries and Tableau. <a href="pdfs/NYC_CrashData_EDA_2019-2022_JenArriaza.pdf" class="image fit"><b>View the full report here </b> <img style="vertical-align:middle" src="https://cdn-icons-png.flaticon.com/512/376/376007.png" height="12" width="12"/></a>
 
-#### Insights
+## Insights
 
 ![image](https://user-images.githubusercontent.com/84609216/178160896-f2e439e0-2677-4d1b-96b6-56f35c1d574a.png)
 
