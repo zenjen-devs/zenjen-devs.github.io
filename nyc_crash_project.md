@@ -15,6 +15,16 @@ Analysis of the model performance revealed that the *contributing factors* and *
 
 For model selection, I employed VotingClassifier to assess various classification algorithms. The below visualizations depict the performance results macro averages. The Random Forest Classifier returned the best model performance metrics.
 
+              precision    recall  f1-score   support
+
+       False       0.69      0.78      0.73    123286
+        True       0.75      0.65      0.69    123397
+
+    accuracy                           0.71    246683
+    macro avg      0.72      0.71
+
+<p align="center">Classification Report</p>
+
 ![My project](https://user-images.githubusercontent.com/84609216/188349317-60f7bb71-ad4b-4abc-a726-692a9c07ecd9.png)
 
 
