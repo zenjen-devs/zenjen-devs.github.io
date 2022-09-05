@@ -4,10 +4,9 @@
 
 ![NYC_CRASH_DATA_Banner](https://user-images.githubusercontent.com/84609216/188340988-20821f45-23d3-45b9-bdb2-b7f8b9c4a9cd.png)
 
+Based on historical data available with respect to NYC crash data, I developed a model to classify whether an accident is deemed severe/not severe. The model is a **binary classifier** in which target variable *serious accident* is either *True/False* dependent on whether at least one injury was reported. 
 
-Based on the historical data available with respect to NYC crash data, I developed a model to classify whether an accident is deemed severe/not severe. The model is a **binary classifier** in which target variable *serious accident* is either *True/False* dependent on whether at least one injury was reported. 
-
-The dataset contains approximately 1.2 million records, each representing a motor vehicle accident that occurred within the 5 boroughs of NYC between April 2012 and August 2022. This is the entirety of the crash data available as of August 2022, accessed directly from NYC OpenData and downloaded to a CSV dataset.
+The dataset contains approximately 1.2 million records, each representing a motor vehicle accident that occurred within the 5 boroughs of NYC between April 2012 and August 2022. This is the entirety of the crash data available as of August 2022, accessed directly from NYC OpenData.
 
 ### Classification Summary & Model Performance 
 
@@ -15,7 +14,7 @@ Analysis of the model performance revealed that the *contributing factors* and *
 
 Moreover, model performance results indicated that off-streets and hour of day in which an accident occurred also have relatively higher importance in predicting severity.
 
-For model selection, I employed VotingClassifier to assess various classification algorithms. The below visualizations depict the performance results macro averages. The Random Forest Classifier returned the best model performance metrics.
+For model selection, I employed *VotingClassifier* to assess various classification algorithms. The below visualizations depict the performance results macro averages. The Random Forest Classifier returned the best model performance metrics.
 
               precision    recall  f1-score   support
 
@@ -40,7 +39,7 @@ For model selection, I employed VotingClassifier to assess various classificatio
 
 ### Methodology
 
-To handle imbalances in the dataset (such as overrepresentation of "fender-bender" type accidents), I employed a down-sampling technique which restored balance ahead of data pre-processing for training the model. While the dataset was mostly complete, missing data was handled through extrapolation of mean values. 
+To handle imbalances in the data (such as over-representation of "fender bender" accidents), data pre-processing involved a down-sampling technique which restored balance ahead of training the models. While the dataset is mostly complete, any missing values were handled through interpolation of mean values. 
 
 # Deep-Dive Data Mining: Analyzing Pre & Post-COVID Car Crash Data
 
