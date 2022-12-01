@@ -14,7 +14,7 @@ Random forest classifier model predicts crash severities in NYC and full report 
 
 <p><a href="https://zenjen-devs.github.io/internship2021"><img src="images/BMW-Intel.jpg?raw=true" title="Source: Body Shop Business"/></a></p>
 
-Large-scale data analysis and applied machine learning to improving testing and implementation of autonomous driving features.
+Large-scale data analysis and applied machine learning to improve testing and implementation of autonomous driving features.
 
 
 ---
