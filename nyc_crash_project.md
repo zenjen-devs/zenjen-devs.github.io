@@ -42,7 +42,8 @@ To handle imbalances in the data (such as over-representation of "fender bender"
 
 # Deep-Dive Data Mining: Analyzing Pre & Post-COVID Car Crash Data
 
-This exploratory analysis further examined data for patterns and  points of interest pertaining to car accidents in the NYC boroughs. Results are useful for development of technology and to inform programs that can mitigate the economic impacts and loss of life due to traffic accidents. This project was completed using mainly Python libraries and Tableau. <a href="pdfs/NYC_CrashData_EDA_2019-2022_JenArriaza.pdf" class="image fit"><b>View the full report here </b> <img style="vertical-align:middle" src="https://cdn-icons-png.flaticon.com/512/376/376007.png" height="12" width="12"/></a>
+This exploratory analysis further examined data for patterns and  points of interest pertaining to car accidents in the NYC boroughs. Results are useful for development of technology and to inform programs that can mitigate the economic impacts and loss of life due to traffic accidents. This project was completed using mainly Python libraries and Tableau. <br>
+<a href="pdfs/NYC_CrashData_EDA_2019-2022_JenArriaza.pdf" class="image fit"><b>View the full report here </b> <img style="vertical-align:middle" src="https://cdn-icons-png.flaticon.com/512/376/376007.png" height="12" width="12"/></a>
 
 ## Insights
 
