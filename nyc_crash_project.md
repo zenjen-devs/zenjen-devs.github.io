@@ -4,7 +4,7 @@
 
 ![NYC_CRASH_DATA_Banner](https://user-images.githubusercontent.com/84609216/188340988-20821f45-23d3-45b9-bdb2-b7f8b9c4a9cd.png)
 
-Based on historical data available with respect to NYC crash data, I developed a model to classify whether an accident is deemed severe/not severe. The model is a **binary classifier** in which target variable *serious accident* is either *True/False* dependent on whether at least one injury was reported. 
+Based on historical data available with respect to NYC crash incidents, I developed a model to classify whether an accident is deemed severe/not severe. The model is a **binary classifier** in which target variable *serious accident* is either *True/False* dependent on whether at least one injury was reported. 
 
 The dataset contains approximately 1.2 million records, each representing a motor vehicle accident that occurred within the 5 boroughs of NYC between April 2012 and August 2022. This is the entirety of the crash data available as of August 2022, accessed directly from NYC OpenData.
 
@@ -42,7 +42,7 @@ To handle imbalances in the data (such as over-representation of "fender bender"
 
 # Deep-Dive Data Mining: Analyzing Pre & Post-COVID Car Crash Data
 
-This exploratory analysis further examined data for patterns and  points of interest pertaining to car accidents in the NYC boroughs. Results are useful for development of technology and to inform programs that can mitigate the ecnonic impacts and loss of life due to traffic accidents. This project was completed using mainly Python libraries and Tableau. <a href="pdfs/NYC_CrashData_EDA_2019-2022_JenArriaza.pdf" class="image fit"><b>View the full report here </b> <img style="vertical-align:middle" src="https://cdn-icons-png.flaticon.com/512/376/376007.png" height="12" width="12"/></a>
+This exploratory analysis further examined data for patterns and  points of interest pertaining to car accidents in the NYC boroughs. Results are useful for development of technology and to inform programs that can mitigate the economic impacts and loss of life due to traffic accidents. This project was completed using mainly Python libraries and Tableau. <a href="pdfs/NYC_CrashData_EDA_2019-2022_JenArriaza.pdf" class="image fit"><b>View the full report here </b> <img style="vertical-align:middle" src="https://cdn-icons-png.flaticon.com/512/376/376007.png" height="12" width="12"/></a>
 
 ## Insights
 
