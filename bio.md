@@ -6,12 +6,12 @@
 Jen is motivated by the belief that data can be used to solve critical problems and make better decisions. She strives to contribute to data-driven innovation and engineering. Jen primarily uses Python, and is proficient in several programming languages across big data platforms.
   <br>
   <br>
-Through 5 years experience as a data professional, Jen has contributed to published academic work in human-computer interaction research and development of intelligent data-powered systems.
+Through 5 years experience as a data professional, Jen has contributed to published academic work in human-computer interaction research, applied data science, and development of intelligent data-powered systems.
 <br>
   <br>
-Jen currently attends her final year at the School of Professional Studies at New York University where she explores various facets of applied data science, analytics engineering, and research methods. She completed her final year internship as a student data scientist for BMW's Autonomous Driver team in Summer 2022.<br><br>
+  
+In completion of her degree from New York University, Jen joined BMW as a student data scientist supporting AI-based vehicle features. As of Fall 2022, Jen is a Data Engineer at Rolls-Royce specializing in applied analytics in aerospace defense <br><br>
 
-As of October 2022, Jen joined Rolls-Royce as a Data Engineer within their defense sector's Informatics team.
   </p>
 
 
