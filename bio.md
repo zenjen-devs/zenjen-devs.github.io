@@ -10,7 +10,10 @@ Through 5 years experience as a data professional, Jen has contributed to publis
 <br>
   <br>
   
-In completion of her degree from New York University, Jen joined BMW as a student data scientist supporting AI-based vehicle features. As of Fall 2022, Jen is a data engineer at Rolls-Royce specializing in applied analytics in aerospace defense <br><br>
+In completion of her degree from New York University, Jen joined BMW as a student data scientist supporting AI-based features. As of Fall 2022, Jen is a data engineer at Rolls-Royce where she specializes in applied analytics in aerospace defense.
+  <br><br>
+  
+  
 
   </p>
 
