@@ -3,8 +3,8 @@ logo: "/images/headshot.png?raw=true" # your photo (or logo) here
 plugins:
   - jemoji
 description: > # text below
-  <b><h4>Hello! I'm Jen</b></h4>
-  <p><b>Welcome to my portfolio :computer:</b><br>
+  <b>Hello! I'm Jen :seedling:</b><br>
+  <p><b>Welcome to my portfolio.</b><br>
   I apply data science to engineering complexities and build impactful machine learning models.<br>
   <br>
   <img style="vertical-align:middle" src="https://cdn-icons-png.flaticon.com/512/1001/1001031.png" height="20" width="20" class="center"/> Greater NYC<br>
