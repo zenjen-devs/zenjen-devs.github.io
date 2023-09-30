@@ -3,7 +3,7 @@ logo: "/images/headshot.png?raw=true" # your photo (or logo) here
 plugins:
   - jemoji
 description: > # text below
-  <b><h1>Hello! I'm Jen</b></h1>
+  <b><h4>Hello! I'm Jen</b></h4>
   <p><b>Welcome to my portfolio :computer:</b><br>
   I apply data science to engineering complexities and build impactful machine learning models.<br>
   <br>
