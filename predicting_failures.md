@@ -2,7 +2,7 @@
 
 # Predicting Failures in High-Risk Production: Aircraft Engines
 
-![NYC_CRASH_DATA_Banner](https://www.adsadvance.co.uk/media/images/2022%20SUMMER/AircraftTechConnectivity-ByGoldenDayz-CpyrtSS1774733423.jpg)
+<p><a href="https://zenjen-devs.github.io/predicting_failures"><img src="https://www.adsadvance.co.uk/media/images/2022%20SUMMER/AircraftTechConnectivity-ByGoldenDayz-CpyrtSS1774733423.jpg" title="Source: Adobe"/></a></p>
 
 
 [View Repository](https://github.com/zenjen-dev/deep-learning_predicting-failures/blob/main/DeepLearning_PredictiveMaintenance.ipynb) <br>
