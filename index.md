@@ -8,7 +8,7 @@
 
 <p><a href="https://zenjen-devs.github.io/predicting_failures"><img src="https://t3.ftcdn.net/jpg/03/64/34/04/360_F_364340472_Vf46lZib2mxWnT452XlgVgd3TnN1YcDt.jpg" title="Source: Adobe"/></a></p>
 
-Random forest classifier model predicts crash severities in NYC and full report of insights from analytics deep-dive.
+Evaluating deep learning models to predict failures in high risk production scenarios.
 
 ### [Classifiction of Crash Severities & Pre/Post COVID Analytics](/nyc_crash_project)
 
@@ -80,7 +80,7 @@ Supervised machine learning in Python to find the cleanest eateries in NYC using
 
 ### [View Archive](/archive)
 
-Follow my <a href="https://www.instagram.com/zenjen.dev">Instagram</a> for updates! 🔮
+Please follow my <a href="https://www.instagram.com/zenjen.dev">Instagram</a> for updates 🔮
 
 
 
