@@ -16,7 +16,7 @@ Gathered extensive sensor data from high-risk production environments, anonymizi
 <br>
 
   ![image](https://github.com/zenjen-devs/zenjen-devs.github.io/assets/84609216/30ac2eb0-e2f6-4480-a3e7-e258b0bf476b)
-<sup><center>Data source: data.nasa.gov</sup></center>
+<sup><right>Data source: data.nasa.gov</sup></right>
 
 **A Novel Approach to Feature Engineering from Standard Practice:**
 The benefit of applying deep learning in the predictive maintenance domain is that these networks can automatically extract the most impactful features from the data, eliminating the need for manual feature engineering. The idea of using LSTMs is to let the model extract abstract features out of the sequence of sensor values in the window, rather than engineering those manually. The expectation is that if there is a pattern in these sensor values within the window prior to failure, the pattern should be encoded by the LSTM.
@@ -36,9 +36,10 @@ Model performance was assessed using precision, recall, and F1-score to scrutini
 
    ![image](https://github.com/zenjen-devs/zenjen-devs.github.io/assets/84609216/ae2445e8-c165-4166-8039-ece055c91823)
      <br><center>
+     <b>
 precision = 0.976319350473613 <br>
 recall = 0.901875 <br>
-F1-Score = 0.9376218323586745 <br></center>
+F1-Score = 0.9376218323586745 <br></center></b>
 
 **Real-time Monitoring System:**
 To integrate the model into the production process, we will implement a real-time monitoring system that provisions immediate alerts when potential engine failures are predicted.
