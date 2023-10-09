@@ -17,12 +17,7 @@ Gathered extensive sensor data from high-risk production environments, anonymizi
 
   ![image](https://github.com/zenjen-devs/zenjen-devs.github.io/assets/84609216/30ac2eb0-e2f6-4480-a3e7-e258b0bf476b)
   
-<p align="center">
-
-
 Data Source: [NASA](https://data.nasa.gov)
-  
-</p>
 
 <br>
 
