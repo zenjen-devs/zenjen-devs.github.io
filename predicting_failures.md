@@ -46,5 +46,5 @@ Aircraft engine production environments demand a rigorous approach to quality co
 
 By leveraging deep learning with LSTM networks, this project contributes to the enhanced safety and operational efficiency of high-risk aircraft engine production environments. Early detection of anomalies and potential failures minimizes downtime, reduces operational risks, and reinforces the commitment to safety in the aerospace industry.
 
-*Note*: This section is under construction.
-**References:** [See Reposistory]
+*Note*: This section is under construction. <br>
+9. **References:** [See Reposistory]
