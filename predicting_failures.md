@@ -36,9 +36,9 @@ In the high-stakes world of defense aerospace manufacturing, ensuring the reliab
 
    ![image](https://github.com/zenjen-devs/zenjen-devs.github.io/assets/84609216/ae2445e8-c165-4166-8039-ece055c91823)
      <br>
-precision = 0.976319350473613
-recall = 0.901875
-F1-Score = 0.9376218323586745
+precision = 0.976319350473613 <br>
+recall = 0.901875 <br>
+F1-Score = 0.9376218323586745 <br>
 
 7. **Real-time Monitoring System:**
    - To integrate the model into the production process, we will implement a real-time monitoring system that provisions immediate alerts when potential engine failures are predicted.
