@@ -14,7 +14,7 @@
 
 Evaluating deep learning models to predict failures in high risk production environments.
 
-### [Classifiction of Crash Severities & Pre/Post COVID Analytics](/nyc_crash_project)
+### [Classification of Crash Severities & Pre/Post COVID Analytics](/nyc_crash_project)
 
 <p><a href="https://zenjen-devs.github.io/nyc_crash_project"><img src="https://www.flir.com/globalassets/industrial/instruments/public-safety/industrial-safety-hero.jpg" title="Source: Flir"/></a></p>
 
