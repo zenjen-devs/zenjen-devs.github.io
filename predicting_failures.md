@@ -9,8 +9,6 @@
 
 *Note: This section is currently under construction. Please see the project repository linked above for current work.*
 
-**Project Summary: Deep Learning for Aircraft Engine Failure Prediction in High-Risk Production Environment**
-
 **Project Overview:**
 In the high-stakes world of defense aerospace manufacturing, ensuring the reliability and safety of engine production is paramount. This deep learning project employs Long Short-Term Memory (LSTM) networks, implemented using Python libraries, to predict engine failures in a high-risk production environment. The aim is to proactively identify potential issues, reduce downtime, and enhance safety.
 
