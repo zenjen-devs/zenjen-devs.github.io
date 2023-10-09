@@ -6,11 +6,7 @@
 
 ### [Predicting Failures in High-Risk Production: Aircraft Engines](/predicting_failures)
 
-<p><a href="https://zenjen-devs.github.io/predicting_failures">
-
 ![image](https://github.com/zenjen-devs/zenjen-devs.github.io/assets/84609216/cf5fd874-a00e-4945-b597-8f0729683e5d)
-
-</a></p>
 
 Evaluating deep learning models to predict failures in high risk production environments.
 
