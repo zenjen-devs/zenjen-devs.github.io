@@ -34,6 +34,8 @@ Aircraft engine production environments demand a rigorous approach to quality co
    - Assessed the model's performance using metrics like precision, recall, F1-score to ensure reliable predictions. <br>
    ![image](https://github.com/zenjen-devs/zenjen-devs.github.io/assets/84609216/d776bfe9-22d8-49f1-b4b7-5c14802e0a27)
    <br>
+
+
    ![image](https://github.com/zenjen-devs/zenjen-devs.github.io/assets/84609216/ae2445e8-c165-4166-8039-ece055c91823)
      <br>
 
