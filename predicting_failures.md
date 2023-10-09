@@ -17,9 +17,9 @@ Gathered extensive sensor data from high-risk production environments, anonymizi
 
   ![image](https://github.com/zenjen-devs/zenjen-devs.github.io/assets/84609216/30ac2eb0-e2f6-4480-a3e7-e258b0bf476b)
   
-<right>Data source: data.nasa.gov</right>
+Data source: data.nasa.gov<br>
 
-**A Novel Approach to Feature Engineering from Standard Practice:**
+**A Novel Approach to Feature Engineering:**
 The benefit of applying deep learning in the predictive maintenance domain is that these networks can automatically extract the most impactful features from the data, eliminating the need for manual feature engineering. The idea of using LSTMs is to let the model extract abstract features out of the sequence of sensor values in the window, rather than engineering those manually. The expectation is that if there is a pattern in these sensor values within the window prior to failure, the pattern should be encoded by the LSTM.
 
 **LSTM Model Architecture & Model Training/Validation:** In this phase, we performed the following:
