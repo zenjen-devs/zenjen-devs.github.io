@@ -4,7 +4,7 @@
 
 ![NYC_CRASH_DATA_Banner](https://user-images.githubusercontent.com/84609216/188340988-20821f45-23d3-45b9-bdb2-b7f8b9c4a9cd.png)
 
-[View Repository]([https://zenjen-devs.github.io](https://github.com/zenjen-dev/100-days-of-data-science/blob/main/NYC_CrashData_Severity_Classifier.ipynb))
+[View Repository]([https://zenjen-devs.github.io](https://github.com/zenjen-dev/100-days-of-data-science/blob/main/NYC_CrashData_Severity_Classifier.ipynb)
 
 Based on historical data available with respect to NYC crash incidents, I developed a model to classify whether an accident is deemed severe/not severe. The model is a **binary classifier** in which target variable *serious accident* is either *True/False* dependent on whether at least one injury was reported. 
 
