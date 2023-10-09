@@ -12,11 +12,11 @@
 In the high-stakes world of defense aerospace manufacturing, ensuring the reliability and safety of engine production is paramount. This deep learning project employs Long Short-Term Memory (LSTM) networks (Tensorflow/Keras libraries for Python) to predict failures in a high-risk production environment. The aim is to proactively identify potential issues, reduce downtime, and model reliability.
 
 1. **Data Collection and Preprocessing:**
-   - Gathered extensive sensor data from high-risk production environments, anonymizing sensitive information to maintain confidentiality. The sensor data was cleaned, normalized, and preprocessed the dataset to ensure data integrity.
+   - Gathered extensive sensor data from high-risk production environments, anonymizing sensitive information to maintain confidentiality. The sensor data was cleaned, normalized, and preprocessed to ensure data integrity. A sample of the visualized sensor data is shown below.
 <br>
 
   ![image](https://github.com/zenjen-devs/zenjen-devs.github.io/assets/84609216/30ac2eb0-e2f6-4480-a3e7-e258b0bf476b)
-
+<sup>Data source: NASA Turbofan Sensor Data / NASA Open Data</sup>
 
 2. **A Novel Approach to Feature Engineering from Standard Practice:**
    - The benefit of applying deep learning in the predictive maintenance domain is that these networks can automatically extract the most impactful features from the data, eliminating the need for manual feature engineering. The idea of using LSTMs is to let the model extract abstract features out of the sequence of sensor values in the window, rather than engineering those manually. The expectation is that if there is a pattern in these sensor values within the window prior to failure, the pattern should be encoded by the LSTM.
