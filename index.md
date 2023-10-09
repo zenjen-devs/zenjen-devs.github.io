@@ -6,7 +6,7 @@
 
 ### [Predicting Failures in High-Risk Production: Aircraft Engines](/predicting_failures)
 
-<p><a href="https://zenjen-devs.github.io/predicting_failures"><img src="https://datascience.aero/wp-content/uploads/2019/07/autopilot-plane-90.jpg" title="Source: Data Science Aero"/></a></p>
+<p><a href="https://zenjen-devs.github.io/predicting_failures"><img src="https://dmd.solutions/wp-content/uploads/2021/07/Predictive_Maintenance_Deep_Learning.jpg" title="Source: DMD"/></a></p>
 
 Evaluating deep learning models to predict failures in high risk production environments.
 
