@@ -4,6 +4,12 @@
 
 <h2 id="currentprojects" style="color:DarkSlateGray;">Featured Projects</h2>
 
+### [Predicting Failures in High-Risk Production: Aircraft Engines](/predicting_failures)
+
+<p><a href="https://zenjen-devs.github.io/predicting_failures"><img src="https://t3.ftcdn.net/jpg/03/64/34/04/360_F_364340472_Vf46lZib2mxWnT452XlgVgd3TnN1YcDt.jpg" title="Source: Adobe"/></a></p>
+
+Random forest classifier model predicts crash severities in NYC and full report of insights from analytics deep-dive.
+
 ### [Classifiction of Crash Severities & Pre/Post COVID Analytics](/nyc_crash_project)
 
 <p><a href="https://zenjen-devs.github.io/nyc_crash_project"><img src="https://www.flir.com/globalassets/industrial/instruments/public-safety/industrial-safety-hero.jpg" title="Source: Flir"/></a></p>
