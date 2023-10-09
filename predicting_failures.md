@@ -16,6 +16,8 @@ Aircraft engine production environments demand a rigorous approach to quality co
 
 1. **Data Collection and Preprocessing:**
    - Gathered extensive sensor data from high-risk production environments, anonymizing sensitive information to maintain confidentiality. The sensor data was cleaned, normalized, and preprocessed the dataset to ensure data integrity.
+<br>
+
   ![image](https://github.com/zenjen-devs/zenjen-devs.github.io/assets/84609216/30ac2eb0-e2f6-4480-a3e7-e258b0bf476b)
 
 
@@ -29,7 +31,7 @@ Aircraft engine production environments demand a rigorous approach to quality co
    - Employed techniques such as early stopping and dropout to mitigate overfitting.
 
 5. **Performance Evaluation:**
-   - Assessed the model's performance using metrics like precision, recall, F1-score to ensure reliable predictions.
+   - Assessed the model's performance using metrics like precision, recall, F1-score to ensure reliable predictions. <br>
    ![image](https://github.com/zenjen-devs/zenjen-devs.github.io/assets/84609216/d776bfe9-22d8-49f1-b4b7-5c14802e0a27)
    <br>
    ![image](https://github.com/zenjen-devs/zenjen-devs.github.io/assets/84609216/ae2445e8-c165-4166-8039-ece055c91823)
