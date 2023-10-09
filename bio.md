@@ -2,7 +2,7 @@
 
 ### About
 
-<p align="left"> faith
+<p align="left">
 Jen's dedication to harnessing data to tackle critical industry challenges drives her work. Proficient in several programming languages across platforms, Jen brings a depth of experience in dealing with complex engineering problems and excelling in high-stakes industries.
 
   <br>
