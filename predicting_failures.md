@@ -8,11 +8,14 @@
 
 *Note: This portfolio section is currently in progress. Please see the project repository linked above for current work status.*
 
-**Project Overview:**
-In the high-stakes world of defense aerospace manufacturing, ensuring the reliability and safety of engine production is paramount. This deep learning project employs Long Short-Term Memory (LSTM) networks (Tensorflow/Keras libraries for Python) to predict failures in a high-risk production environment where maintenance windows are dynamic, thus requiring robust modelling and hyper-parameter tuning. The aim is to proactively identify potential issues, reduce downtime, and model reliability.
+<h3> Project Summary </h3>
+
+In the high-stakes world of defense aerospace manufacturing, ensuring the reliability and safety is paramount. This deep learning project employs Long Short-Term Memory (LSTM) networks (Tensorflow/Keras libraries for Python) to predict failures in a high-risk production environment where maintenance windows are dynamic, thus requiring robust modelling and hyper-parameter tuning. The aim is to proactively identify potential issues, reduce downtime costs, and increase servicability of assets.
+
+<h3> Project Details </h3>
 
 **Data Collection and Preprocessing:**
-Gathered extensive sensor data from high-risk production environments, anonymizing sensitive information to maintain confidentiality. The sensor data was cleaned, normalized, and preprocessed to ensure data integrity. A sample of the visualized sensor data is shown below.
+For this project, the data source is imported NASA sensor readings from mission-critical asset production. The sensor data was cleaned, normalized, and preprocessed to ensure data integrity. A sample of the visualized sensor data is shown below:
 <br>
 
   ![image](https://github.com/zenjen-devs/zenjen-devs.github.io/assets/84609216/30ac2eb0-e2f6-4480-a3e7-e258b0bf476b)
