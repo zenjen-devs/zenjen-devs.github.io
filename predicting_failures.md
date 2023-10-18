@@ -12,6 +12,8 @@
 
 In the high-stakes world of defense aerospace manufacturing, ensuring the reliability and safety is paramount. This deep learning project employs Long Short-Term Memory (LSTM) networks (Tensorflow/Keras libraries for Python) to predict failures in a high-risk production environment where maintenance windows are dynamic, thus requiring robust modelling and hyper-parameter tuning. The aim is to proactively identify potential issues, reduce downtime costs, and increase servicability of assets.
 
+**Results**: The model performance metrics indicate that the LSTM algorithm correctly identifies failures within dynamic operational windows.
+
 <h3> Project Details </h3>
 
 **Data Collection and Preprocessing:**
@@ -42,9 +44,18 @@ Model performance was assessed using precision, recall, and F1-score to scrutini
    ![image](https://github.com/zenjen-devs/zenjen-devs.github.io/assets/84609216/ae2445e8-c165-4166-8039-ece055c91823)
      <br>
      
-precision = 0.976319350473613 <br>
-recall = 0.901875 <br>
-F1-Score = 0.9376218323586745 <br>
+
+* Precision = 0.97 *<br>
+When the LSTM model predicted an engine failure, it was correct 97% of the time.
+<br>
+<br>
+*Recall = 0.91 *<br>
+The LSTM model correctly identified 91% of all engine failures.
+<br>
+<br>
+* F1-Score = 0.94 *<br>
+Considering that our specific goal is high precision in predicting failures, false negatives are more costly than false positives.
+<br>
 
 **Real-time Monitoring System:**
 To integrate the model into the production process, we will implement a real-time monitoring system that provisions immediate alerts when potential engine failures are predicted.
