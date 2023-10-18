@@ -44,16 +44,20 @@ Model performance was assessed using precision, recall, and F1-score to scrutini
    ![image](https://github.com/zenjen-devs/zenjen-devs.github.io/assets/84609216/ae2445e8-c165-4166-8039-ece055c91823)
      <br>
      
+<br>
 
-*Precision = 0.97* <br>
+*Precision = 0.97*
+<br>
 When the LSTM model predicted an engine failure, it was correct 97% of the time.
 <br>
 <br>
-*Recall = 0.91* <br>
+*Recall = 0.91*
+<br>
 The LSTM model correctly identified 91% of all engine failures.
 <br>
 <br>
-*F1-Score = 0.94* <br>
+*F1-Score = 0.94*
+<br> 
 Considering that our specific goal is high precision in predicting failures, false negatives are more costly than false positives.
 <br>
 <br>
