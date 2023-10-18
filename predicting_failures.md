@@ -12,7 +12,7 @@
 
 In the high-stakes world of defense aerospace manufacturing, ensuring the reliability and safety is paramount. This deep learning project employs Long Short-Term Memory (LSTM) networks (Tensorflow/Keras libraries for Python) to predict failures in a high-risk production environment where maintenance windows are dynamic, thus requiring robust modelling and hyper-parameter tuning. The aim is to proactively identify potential issues, reduce downtime costs, and increase servicability of assets.
 
-**Results**: The model performance metrics indicate that the LSTM algorithm correctly identifies failures within dynamic operational windows.
+**Results**: The model performance metrics indicate that the LSTM algorithm correctly identifies failures within dynamic operational windows 97.6% of the time.
 
 <h3> Project Details </h3>
 
