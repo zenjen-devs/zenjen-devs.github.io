@@ -40,7 +40,7 @@ Data Source: [NASA](https://data.nasa.gov)
 
 **Correlation Matrix of Sensor Readings and Settings:** The heatmap indicates some sensors are highly correlated with each other, which could be due to underlying physical relationships or redundancies in what is being measured. Strongly correlated sensors may provide overlapping information and could be candidates for dimensionality reduction techniques.
 
-#### Predictive Modeling with LSTM Network
+### Predictive Modeling with LSTM Network
 
 **A Novel Approach to Feature Engineering:**
 The benefit of applying deep learning in the predictive maintenance domain is that these networks can automatically extract the most impactful features from the data, eliminating the need for manual feature engineering. The idea of using LSTMs is to let the model extract abstract features out of the sequence of sensor values in the window, rather than engineering those manually. The expectation is that if there is a pattern in these sensor values within the window prior to failure, the pattern should be encoded by the LSTM.
