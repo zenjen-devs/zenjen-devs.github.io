@@ -14,19 +14,40 @@ In the high-stakes world of defense aerospace manufacturing, ensuring the reliab
 
 **Results**: The model performance metrics indicate that the LSTM algorithm correctly identifies failures within dynamic operational windows 97.6% of the time.
 
-<h3> Project Details </h3>
+<h3> Project Details: Exploratory Data Analysis </h3>
 
 **Data Collection and Preprocessing:**
 For this project, the data source is imported NASA sensor readings from mission-critical asset production. The sensor data was cleaned, normalized, and preprocessed to ensure data integrity. A sample of the visualized sensor data is shown below:
 <br>
 
-  ![image](https://github.com/zenjen-devs/zenjen-devs.github.io/assets/84609216/30ac2eb0-e2f6-4480-a3e7-e258b0bf476b)
+![Sensors_EDA](https://github.com/zenjen-devs/zenjen-devs.github.io/assets/84609216/d4d91dc9-d2bf-4426-ad6f-99ec2ab864c7)
   
 Data Source: [NASA](https://data.nasa.gov)
 
 <br><br>
+
+#### Insights from EDA
+
+**Variability Across Engines:** There is variability in sensor readings across different engines, even for the same sensor. This could be due to different operating conditions, usage patterns, or inherent differences between engines.
+
+**Sensor Behavior:** The behavior of each sensor can be quite different. Some sensors may show a lot of noise (frequent up and down fluctuations), while others may have a smoother trend.
+
+**Early Warning Signs:** Some sensors may provide signs of a potential failure, evident in changes in their readings that precede a failure. This would be valuable for predictive maintenance.
+
+**Operational Baselines:** It's possible to identify a baseline of normal operation for each sensor, against which deviations can be compared to detect anomalies. This is valuable to adjust maintenance tailored for each operators needs, and sustainment efforts to maintain servicability of hardware.
+<br>
+
+![PredictiveMaint_CorrMatrix](https://github.com/zenjen-devs/zenjen-devs.github.io/assets/84609216/54d47003-d9e1-4071-b0c6-607009987a42)
+
+**Correlation Matrix of Sensor Readings and Settings:** The heatmap indicates some sensors are highly correlated with each other, which could be due to underlying physical relationships or redundancies in what is being measured. Strongly correlated sensors may provide overlapping information and could be candidates for dimensionality reduction techniques.
+
+#### Predictive Modeling with LSTM Network
+
 **A Novel Approach to Feature Engineering:**
 The benefit of applying deep learning in the predictive maintenance domain is that these networks can automatically extract the most impactful features from the data, eliminating the need for manual feature engineering. The idea of using LSTMs is to let the model extract abstract features out of the sequence of sensor values in the window, rather than engineering those manually. The expectation is that if there is a pattern in these sensor values within the window prior to failure, the pattern should be encoded by the LSTM.
+
+![LSTM_SensorReadings](https://github.com/zenjen-devs/zenjen-devs.github.io/assets/84609216/f550ed65-f9fc-4827-89b3-c1df4b83f4d8)
+
 
 **LSTM Model Architecture & Model Training/Validation:** In this phase, we performed the following:
    - Designed LSTM-based neural networks to capture temporal dependencies and patterns in the sensor data.
