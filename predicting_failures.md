@@ -24,9 +24,8 @@ For this project, the data source is imported NASA sensor readings from mission-
   
 Data Source: [NASA](https://data.nasa.gov)
 
-<br><br>
 
-#### Insights from EDA
+### Insights from EDA
 
 **Variability Across Engines:** There is variability in sensor readings across different engines, even for the same sensor. This could be due to different operating conditions, usage patterns, or inherent differences between engines.
 
