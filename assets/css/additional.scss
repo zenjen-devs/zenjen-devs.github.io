@@ -1,26 +1,29 @@
 ---
 ---
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Roboto+Slab:wght@300&display=swap');
 
-@import url('https://fonts.googleapis.com/css?family=Urbanist:wght@300&display=swap');
-
-p { 
-  font-family: 'Urbanist', sans-serif;
+/* Set a specific font for all headings */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Lato Bold', sans-serif; /* Replace 'HeadingFont' with your desired font for headings */
 }
+
+/* Set a different font for the body, which affects all text not otherwise specified */
 body {
-  font-family: 'Urbanist', sans-serif;
-}  
-p{
+  font-family: 'Roboto Slab', serif; /* Replace 'BodyFont' with your desired font for body text */
+}
+
+/* Additional styling for paragraphs */
+p {
   color: black;
+  font-family: inherit; /* This ensures paragraphs use the body's font */
 }
-h1{
+
+/* Styling for h1 and h2 if you want to keep the color settings */
+h1, h2 {
   color: dimgray;
 }
-h2{
-  color: dimgray;
-}
-h3{
-  color: dimgray;
-}
+
 
 /* unvisited link */
 a:link {
