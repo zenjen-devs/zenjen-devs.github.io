@@ -1,16 +1,16 @@
 ---
 ---
-@import url('https://fonts.googleapis.com/css2?family=Lato:wght@700&display=swap');
-@import url('https://fonts.googleapis.com/css?family=Roboto+Slab:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Gelasio&display=swap');
 
 /* Set a specific font for all headings */
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Lato', sans-serif; /* Replace 'HeadingFont' with your desired font for headings */
+  font-family: 'Poppins', sans-serif; /* Replace 'HeadingFont' with your desired font for headings */
 }
 
 /* Set a different font for the body, which affects all text not otherwise specified */
 body {
-  font-family: 'Roboto Slab', serif; /* Replace 'BodyFont' with your desired font for body text */
+  font-family: 'Gelasio', serif; /* Replace 'BodyFont' with your desired font for body text */
 }
 
 /* Additional styling for paragraphs */
