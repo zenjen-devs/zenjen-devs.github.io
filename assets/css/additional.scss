@@ -1,11 +1,11 @@
 ---
 ---
-@import url('https://fonts.googleapis.com/css2?family=Albert+Sans:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@300&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Gelasio&display=swap');
 
 /* Set a specific font for all headings */
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Albert Sans', sans-serif; /* Replace 'HeadingFont' with your desired font for headings */
+  font-family: 'Manrope', sans-serif; /* Replace 'HeadingFont' with your desired font for headings */
 }
 
 /* Set a different font for the body, which affects all text not otherwise specified */
@@ -28,23 +28,23 @@ h1, h2 {
 /* unvisited link */
 a:link {
   color: darkslateblue;
-  font-family: 'Albert Sans', sans-serif;
+  font-family: 'Manrope', sans-serif;
 }
 
 /* visited link */
 a:visited {
   color: darkslateblue;
-  font-family: 'Albert Sans', sans-serif;
+  font-family: 'Manrope', sans-serif;
 }
 
 /* mouse over link */
 a:hover {
   color: darkslateblue;
-  font-family: 'Albert Sans', sans-serif;
+  font-family: 'Manrope', sans-serif;
 }
 
 /* selected link */
 a:active {
   color: darkslateblue;
-  font-family: 'Albert Sans', sans-serif;
+  font-family: 'Manrope', sans-serif;
 }
