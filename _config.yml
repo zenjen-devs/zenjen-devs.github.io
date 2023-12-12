@@ -4,7 +4,7 @@ plugins:
   - jemoji
 description: > # text below
   <h3> Data Engineer at Rolls-Royce <br>
-  <img style="vertical-align:middle" src="https://cdn3.iconfinder.com/data/icons/google-material-design-icons/48/ic_location_on_48px-1024.png" height="20" width="20" class="center"/> New York</h><br>
+  <img style="vertical-align:middle" src="https://cdn3.iconfinder.com/data/icons/google-material-design-icons/48/ic_location_on_48px-1024.png" height="20" width="20" class="center"/> New York</h3><br>
   <br>
   I build analytic tools to understand critical industry problems and digital product strategies, suggesting improvements based on quantitative insights.<br>
   <br>
