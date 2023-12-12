@@ -1,4 +1,4 @@
-<sup> <h4>Navigate to:</h> <a href="#currentprojects">Current Projects</a> <b>|</b> <a href="#publications">Publications </a><b>|</b> <a href="#pastprojects">Past Projects </a><b>|</b> <a href="https://zenjen-devs.github.io/bio">About </a><b>|</b> <a href="mailto:hello@jenarriaza.com">Contact</a></b>
+<h4> Navigate to:</h> <a href="#currentprojects">Current Projects</a> <b>|</b> <a href="#publications">Publications </a><b>|</b> <a href="#pastprojects">Past Projects </a><b>|</b> <a href="https://zenjen-devs.github.io/bio">About </a><b>|</b> <a href="mailto:hello@jenarriaza.com">Contact</a></b>
 
 ---
 
