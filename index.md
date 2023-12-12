@@ -16,7 +16,7 @@ Evaluating deep learning models to predict failures in high risk production envi
 
 Random forest classifier model predicts crash severities in NYC and full report of insights from analytics deep-dive.
 
-### [Data Science Internship 2022: BMW's Autonomous Driver Team](/internship2021)
+### [Data Science Internship at BMW's Autonomous Driver Team](/internship2021)
 
 <p><a href="https://zenjen-devs.github.io/internship2021"><img src="images/BMW-Intel.jpg?raw=true" title="Source: Body Shop Business"/></a></p>
 
