@@ -3,10 +3,10 @@ logo: "/images/headshot.png?raw=true" # your photo (or logo) here
 plugins:
   - jemoji
 description: > # text below
-  <h4> Data Engineer at Rolls-Royce <br>
-  <img style="vertical-align:middle" src="https://cdn3.iconfinder.com/data/icons/google-material-design-icons/48/ic_location_on_48px-1024.png" height="20" width="20" class="center"/> New York<br>
+  <h3> Data Engineer at Rolls-Royce <br>
+  <img style="vertical-align:middle" src="https://cdn3.iconfinder.com/data/icons/google-material-design-icons/48/ic_location_on_48px-1024.png" height="20" width="20" class="center"/> New York</h><br>
   <br>
-  I build analytic tools to understand critical industry problems and digital product strategies, suggesting improvements based on quantitative insights.</h><br>
+  I build analytic tools to understand critical industry problems and digital product strategies, suggesting improvements based on quantitative insights.<br>
   <br>
     <a href="mailto:jenarriaz@gmail.com"><img style="vertical-align:middle" src="https://cdn-icons-png.flaticon.com/512/2991/2991144.png" height="20" width="20" class="center"/><b> hello@jenarriaza.com</b></a><br>
   <a href="https://github.com/zenjen-dev"><img style="vertical-align:middle" src="https://cdn.iconscout.com/icon/free/png-256/github-113-438180.png" height="22" width="22" class="center"/> Github</a><br> 
