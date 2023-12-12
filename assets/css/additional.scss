@@ -1,16 +1,16 @@
 ---
 ---
 @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
-@import url('https://fonts.googleapis.com/css?family=Gelasio&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Lora&display=swap');
 
 /* Set a specific font for all headings */
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Poppins', sans-serif; /* Replace 'HeadingFont' with your desired font for headings */
+  font-family: 'Poppins', sans-serif; 
 }
 
 /* Set a different font for the body, which affects all text not otherwise specified */
 body {
-  font-family: 'Gelasio', serif; /* Replace 'BodyFont' with your desired font for body text */
+  font-family: 'Lora', serif; 
 }
 
 /* Additional styling for paragraphs */
