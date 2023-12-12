@@ -1,16 +1,16 @@
 ---
 ---
-@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
-@import url('https://fonts.googleapis.com/css?family=PT+Serif&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Source+Serif+4&display=swap');
 
 /* Set a specific font for all headings */
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Montserrat', sans-serif; 
+  font-family: 'Lato', sans-serif; 
 }
 
 /* Set a different font for the body, which affects all text not otherwise specified */
 body {
-  font-family: 'PT Serif', serif; 
+  font-family: 'Source Serif 4', serif; 
 }
 
 /* Additional styling for paragraphs */
@@ -28,23 +28,23 @@ h1, h2, h3, h4 {
 /* unvisited link */
 a:link {
   color: darkslateblue;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Lato', sans-serif;
 }
 
 /* visited link */
 a:visited {
   color: darkslateblue;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Lato', sans-serif;
 }
 
 /* mouse over link */
 a:hover {
   color: darkslateblue;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Lato', sans-serif;
 }
 
 /* selected link */
 a:active {
   color: darkslateblue;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Lato', sans-serif;
 }
