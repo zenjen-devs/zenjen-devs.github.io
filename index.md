@@ -60,7 +60,7 @@ Trend Analysis in Python using Plotly visualizations. Analyzing historical waste
 
 ---
   
-### [Statisical Data Analysis](/statisticaldataanalysis)
+### [Statistical Data Analysis](/statisticaldataanalysis)
 
 <p><a href="https://zenjen-devs.github.io/statisticaldataanalysis"><img src="images/dataprofessionals.JPG?raw=true" title="Source: SAS"/></a></p>
 
