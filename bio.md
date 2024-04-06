@@ -3,7 +3,7 @@
 ### About
 
 <p align="left">
-Jen is motivated by the belief that data is key for conquering the most critical and interesting problems across industries. Proficient in Python, SQL, and several programming tools across platforms, she brings significant experience in dealing with complex engineering problems and excelling in high-stakes industries.
+Jen is motivated by the belief that data is key for conquering the most critical and interesting problems across industries. Proficient in Python, SQL, and several programming tools across platforms, she brings significant experience with complex engineering problems and excelling in safety critical applications.
 
   <br>
   <br>
