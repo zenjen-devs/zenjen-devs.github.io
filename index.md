@@ -1,4 +1,4 @@
-Navigate to: <a href="#currentprojects">Current Projects</a> <b>|</b> <a href="#publications">Publications </a><b>|</b> <a href="#pastprojects">Past Projects </a><b>|</b> <a href="https://zenjen-devs.github.io/bio">About </a>
+Navigate to: <a href="#currentprojects">Current Projects</a> <b>|</b> <a href="#publications">Publications </a><b>|</b> <a href="#pastprojects">Past Projects </a><b>|</b> <a href="https://zenjen-devs.github.io/bio">About </a><b>|</b> <a href="mailto:jenarriaz@gmail.com">Contact </a>
 
 ---
 
@@ -80,7 +80,6 @@ Supervised machine learning in Python to find the cleanest eateries in NYC using
 
 ### [View Archive](/archive)
 
-Please follow my <a href="https://www.instagram.com/zenjen.dev">Instagram</a> for updates 🔮
 
 
 
