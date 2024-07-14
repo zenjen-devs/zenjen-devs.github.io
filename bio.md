@@ -3,11 +3,11 @@
 ### About
 
 <p align="left">
-Jen is motivated by the belief that data is key for conquering the most critical and interesting problems across industries. Proficient in Python, SQL, and several programming tools across platforms, she brings significant experience with complex engineering problems and excelling in safety critical applications.
+Jen believes in the power of data to solve critical industry challenges. Proficient in Python, SQL, and multi-platform programming tools, she has significant experience with complex engineering problems and excels in safety-critical applications.
 
   <br>
   <br>
-With 5+ years experience as a data professional, Jen has contributed to published academic work in human-computer interaction research, applied data science, and development of AI-powered engineering systems.
+With 7 years experience as a data science professional, Jen has contributed to published academic work in human-computer interaction research, applied statistical methodologies, and development of AI-powered engineering systems and analytics platforms.
 <br>
   <br>
   
