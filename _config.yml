@@ -3,7 +3,7 @@ logo: "/images/headshot.png?raw=true" # your photo (or logo) here
 plugins:
   - jemoji
 description: > # text below
-  <h4> Data Engineer<br>
+  <h4> Data Scientist<br>
   <img style="vertical-align:middle" src="https://cdn3.iconfinder.com/data/icons/google-material-design-icons/48/ic_location_on_48px-1024.png" height="20" width="20" class="center"/> NYC Metro</h4>
   
   <p>I build analytic tools to understand critical industry problems, and develop strategies based on quantitative insights.</p><br>
