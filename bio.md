@@ -3,7 +3,7 @@
 ### About
 
 <p align="left">
-Jen believes in the power of data to solve critical industry challenges. Proficient in Python, SQL, and multi-platform programming tools, she has significant experience with complex engineering problems and excels in safety-critical applications.
+Jen believes in the power of data to solve critical industry challenges. Proficient in Python, SQL, and multi-platform programming tools, she has significant experience with complex engineering problems and industry applications.
 
   <br>
   <br>
