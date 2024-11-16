@@ -11,7 +11,7 @@ With 7 years experience as a data science professional, Jen has contributed to p
 <br>
   <br>
   
-Jen is a graduate of New York University, where she began her journey at BMW developing AI-based features, and then at Rolls-Royce specializing in predictive analytics. As of 2024, Jen is a Principal Data Scientist at Raytheon.
+Jen is a graduate of New York University, where she began her journey at BMW developing automation features, and then at Rolls-Royce specializing in predictive analytics. As of 2024, Jen is a Data Scientist at Raytheon Technologies.
   <br><br>
 
 
