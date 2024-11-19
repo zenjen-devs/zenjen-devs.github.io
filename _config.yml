@@ -6,7 +6,7 @@ description: > # text below
   <h4> Data Scientist<br>
   <img style="vertical-align:middle" src="https://cdn3.iconfinder.com/data/icons/google-material-design-icons/48/ic_location_on_48px-1024.png" height="20" width="20" class="center"/> NY Metro</h4>
   
-  <p>I develop analytical tools to solve critical industry challenges and create strategies based on quantitative insights.</p><br>
+  <p>I develop analytical tools to solve industry challenges and create strategies based on quantitative insights.</p><br>
   <br>
   </p>
 theme: jekyll-theme-minimal
