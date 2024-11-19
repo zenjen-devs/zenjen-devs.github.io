@@ -2,7 +2,8 @@
 
 # Predicting Failures in High-Risk Production: Aircraft Engines
 
-![image](https://github.com/zenjen-devs/zenjen-devs.github.io/assets/84609216/c4bb9213-a0f0-495a-bade-8b65391429ca)
+![image](https://github.com/user-attachments/assets/2e6c663b-3b38-4538-a1b3-87aadfe5ec4c)
+
 
 [View Repository](https://github.com/zenjen-dev/deep-learning_predicting-failures/blob/main/DeepLearning_PredictiveMaintenance.ipynb) <br>
 
