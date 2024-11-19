@@ -3,7 +3,9 @@
 ### About
 
 <p align="left">
-Jen specializes in applying data science to critical industry challenges. Proficient in Python, SQL, and statistical methodologies, she has seven years of experience developing analytics platforms spanning automation, predictive modeling, and operations optimization.
+Jen specializes in applying data science to critical industry challenges. 
+  <br>
+  Proficient in Python, SQL, and statistical methodologies, she has seven years of experience developing analytics platforms spanning automation, predictive modeling, and operations optimization.
 
   <br>
   <br>
