@@ -8,7 +8,7 @@ Jen specializes in applying data science and analytics to complex industry chall
   <br>
   <br>
   
-Jen is a graduate of New York University, where she began her career at BMW developing autonomous features, and then at Rolls-Royce specializing in predictive analytics. Jen is currently a Data Scientist at Raytheon Technologies where she leads development of AI-based forecasting models. 
+Jen is a graduate of New York University, where she began her career at BMW developing autonomous features, and then at Rolls-Royce specializing in predictive analytics. Jen is currently a Data Scientist at Raytheon Technologies where she leads development of machine learning and forecasting models. 
 
 
 
