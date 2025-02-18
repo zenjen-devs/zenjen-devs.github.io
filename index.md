@@ -6,7 +6,7 @@ Navigate to: <a href="#currentprojects">Current Projects</a> <b>|</b> <a href="#
 
 ### [Predicting Failures in High-Risk Production: Aircraft Engines](/predicting_failures)
 
-<p><a href="https://zenjen-devs.github.io/predicting_failures"><img src="https://dmd.solutions/wp-content/uploads/2021/07/Predictive_Maintenance_Deep_Learning.jpg" title="Source: DMD"/></a></p>
+<p><a href="https://zenjen-devs.github.io/predicting_failures"><img src="https://github.com/user-attachments/assets/eddbc74a-a405-44ad-9ccb-a18213be4077" title="Source: Shutterstock"/></a></p>
 
 Evaluating deep learning models to predict failures in high risk production environments.
 
