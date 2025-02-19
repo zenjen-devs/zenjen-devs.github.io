@@ -6,7 +6,7 @@ Navigate to: <a href="#currentprojects">Current Projects</a> <b>|</b> <a href="#
 
 ### [Forecasting Demand & Cost Fluctuations in Supply Chains](/demand_forecasting_algorithms)
 
-<p><a href="demand_forecasting_algorithms"><img src="https://github.com/user-attachments/assets/212fd137-d486-41b4-a15f-b2baec1886bb" title="Source: Shutterstock"/></a></p>
+<p><a href="https://zenjen-devs.github.io/demand_forecasting_algorithms"><img src="https://github.com/user-attachments/assets/212fd137-d486-41b4-a15f-b2baec1886bb" title="Source: Shutterstock"/></a></p>
 
 Time series modeling with Prophet to forecast chaotic supply chains.
 
