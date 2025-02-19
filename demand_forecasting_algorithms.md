@@ -2,7 +2,7 @@
 
 # Predicting Demand Fluctuation in Supply Chains
 
-![image](https://github.com/zenjen-devs/zenjen-devs.github.io/blob/master/images/demand_forecasting_banner.png)
+<img src="https://github.com/zenjen-devs/zenjen-devs.github.io/blob/master/images/demand_forecasting_banner.png">
 
 [View Repository](https://github.com/zenjen-dev/deep-learning_predicting-failures/blob/main/DeepLearning_PredictiveMaintenance.ipynb) <br>
 
@@ -20,7 +20,7 @@ In the dynamic and cost-sensitive world of manufacturing, accurately forecasting
 The dataset used in this project consists of historical production and cost data, including metrics such as production hours, workforce size, machine efficiency, and raw materials costs. The data was sourced from a manufacturing facility and underwent rigorous cleaning, normalization, and preprocessing to ensure accuracy and consistency. Below is a sample visualization of the raw materials cost vs. inflation rate trends over time:
 <br>
 
-![EDA](https://github.com/zenjen-devs/zenjen-devs.github.io/blob/master/images/rawmat_v_inflation.png)
+<img src="https://github.com/zenjen-devs/zenjen-devs.github.io/blob/master/images/rawmat_v_inflation.png">
   
 Data Source: [Federal Reserve Economic Data](https://fred.stlouisfed.org/)
 
@@ -39,7 +39,7 @@ Data Source: [Federal Reserve Economic Data](https://fred.stlouisfed.org/)
 
 ### Predictive Modeling with Prophet
 
-![Propet Forecast](https://github.com/zenjen-devs/zenjen-devs.github.io/blob/master/images/prophet_fc.png)
+<img src="https://github.com/zenjen-devs/zenjen-devs.github.io/blob/master/images/prophet_fc.png">
 <br>
 The forecast reflects the seasonal decomposition results that indicate raw materials cost has trended down, with weekly seasonal peaks observed in the last year.
 
@@ -60,7 +60,7 @@ Cross-Validation Period: 30 days
 Forecast Horizon: 30 days
 <br> 
 <br> 
-![Prophet Decomp](https://github.com/zenjen-devs/zenjen-devs.github.io/blob/master/images/prophet_decomp.png)
+<img src="https://github.com/zenjen-devs/zenjen-devs.github.io/blob/master/images/prophet_decomp.png">
 
 **Performance Evaluation:**
 
