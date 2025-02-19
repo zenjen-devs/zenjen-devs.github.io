@@ -4,6 +4,15 @@ Navigate to: <a href="#currentprojects">Current Projects</a> <b>|</b> <a href="#
 
 <h2 id="currentprojects" style="color:DarkSlateGray;">Featured Projects</h2>
 
+### [Forecasting Demand & Cost Fluctuations in Supply Chains](/demand_forecasting_algorithms)
+
+<p><a href="demand_forecasting_algorithms"><img src="[https://github.com/user-attachments/assets/eddbc74a-a405-44ad-9ccb-a18213be4077](https://github.com/user-attachments/assets/879d6e30-c5b9-4fd1-83c2-139dc38cca5e)"/></a></p>
+
+![image](https://github.com/user-attachments/assets/879d6e30-c5b9-4fd1-83c2-139dc38cca5e)
+
+
+Time series modeling with Prophet to forecast chaotic supply chain behaviors.
+
 ### [Predicting Failures in High-Risk Production: Aircraft Engines](/predicting_failures)
 
 <p><a href="https://zenjen-devs.github.io/predicting_failures"><img src="https://github.com/user-attachments/assets/eddbc74a-a405-44ad-9ccb-a18213be4077" title="Source: Shutterstock"/></a></p>
