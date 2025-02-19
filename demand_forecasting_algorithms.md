@@ -39,6 +39,10 @@ Data Source: [Federal Reserve Economic Data](https://fred.stlouisfed.org/)
 
 ### Predictive Modeling with Prophet
 
+![Propet Forecast](https://github.com/zenjen-devs/zenjen-devs.github.io/blob/master/images/prophet_fc.png)
+<br>
+The forecast reflects the seasonal decomposition results that indicate raw materials cost has trended down, with weekly seasonal peaks observed in the last year.
+
 **Model Configuration:**
 <br>
 Yearly Seasonality: Auto
@@ -54,16 +58,15 @@ Initial Training Period: 90 days
 Cross-Validation Period: 30 days
 <br>
 Forecast Horizon: 30 days
-
+<br> 
+<br> 
+![Prophet Decomp](https://github.com/zenjen-devs/zenjen-devs.github.io/blob/master/images/prophet_decomp.png)
 
 **Performance Evaluation:**
-MAE (Mean Absolute Error): 0.72
-<br>
 
-<br>
-RMSE (Root Mean Squared Error): 0.92
+- MAE (Mean Absolute Error): 0.72
 
-<br>
+- RMSE (Root Mean Squared Error): 0.92
 <br>
 
 **Real-time Monitoring System:**
