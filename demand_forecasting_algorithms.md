@@ -2,7 +2,7 @@
 
 # Predicting Demand Fluctuation in Supply Chains
 
-<img src="https://github.com/zenjen-devs/zenjen-devs.github.io/blob/master/images/demand_forecasting_banner.png">
+<img src="https://raw.githubusercontent.com/zenjen-devs/zenjen-devs.github.io/master/images/demand_forecasting_banner.png">
 
 [View Repository](https://github.com/zenjen-dev/deep-learning_predicting-failures/blob/main/DeepLearning_PredictiveMaintenance.ipynb) <br>
 
