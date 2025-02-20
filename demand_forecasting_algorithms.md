@@ -5,9 +5,10 @@
 <img src="https://raw.githubusercontent.com/zenjen-devs/zenjen-devs.github.io/master/images/demand_forecasting_banner.png">
 
 
-[View Repository](https://github.com/zenjen-dev/deep-learning_predicting-failures/blob/main/DeepLearning_PredictiveMaintenance.ipynb) <br>
+[View Repository](https://github.com/zenjen-dev/ml-projects/blob/main/prophet_supplychain.ipynb) <br>
 
-*Note: This portfolio section is currently in progress. Please see the project repository linked above for current work status.*
+
+*Note: This portfolio section is currently in progress. Please see the project repository linked above for current  status.*
 
 <h3> Project Summary </h3>
 
