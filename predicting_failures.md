@@ -5,7 +5,7 @@
 ![image](https://github.com/user-attachments/assets/2e6c663b-3b38-4538-a1b3-87aadfe5ec4c)
 
 
-[View Repository](https://github.com/zenjen-dev/deep-learning_predicting-failures/blob/main/DeepLearning_PredictiveMaintenance.ipynb) <br>
+[View Repository](https://github.com/zenjen-dev/deep-learning_predicting-failures) <br>
 
 *Note: This portfolio section is currently in progress. Please see the project repository linked above for current work status.*
 
