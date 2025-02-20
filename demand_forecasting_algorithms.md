@@ -1,6 +1,6 @@
 [Back](https://zenjen-devs.github.io)
 
-# Predicting Demand Fluctuation in Supply Chains
+# Predicting Cost & Demand Fluctuation in Supply Chains
 
 <img src="https://raw.githubusercontent.com/zenjen-devs/zenjen-devs.github.io/master/images/demand_forecasting_banner.png">
 
