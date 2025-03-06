@@ -3,7 +3,7 @@
 ### About
 
 <p align="left">
-Jen specializes in applying data science and analytics to complex industry challenges. Proficient in Python, SQL, and statistical methodologies, she has seven years of experience developing analytics platforms spanning automation, predictive modeling, and operational optimization.
+Jen specializes in applied data science & AI for complex challenges in engineering and manufacturing. With expertise in Python, SQL, and statistical modeling, she has built analytics platforms that drive automation, predictive insights, and strategic operational efficiency across automotive and aerospace industries.
 
   <br>
   <br>
