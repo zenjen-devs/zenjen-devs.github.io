@@ -3,12 +3,12 @@
 ### About
 
 <p align="left">
-Jen specializes in applied data science & AI for complex challenges in engineering and manufacturing. With expertise in Python, SQL, and statistical modeling, she has built analytics platforms that drive automation, predictive insights, and strategic operational efficiency across automotive and aerospace industries.
+Jen is a Senior Data Scientist specializing in complex challenges in engineering and manufacturing. She specializes in machine learning, predictive modeling, and automation, developing tools that enhance forecasting, efficiency, and operational strategy in aerospace and automotive industries.
 
   <br>
   <br>
   
-Jen is a graduate of New York University, where she began her career at BMW developing autonomous features, and then at Rolls-Royce specializing in predictive analytics. Jen is currently a Data Scientist at Raytheon Technologies where she leads development of machine learning and forecasting models. 
+A graduate of New York University, Jen began her career at BMW, working on vehicle analytics for autonomous systems, and later at Rolls-Royce where she built predictive models for aerospace operations. She now leads  development of forecasting models and automation frameworks at Raytheon Technologies.
 
 
 
