@@ -19,9 +19,10 @@ The convergence of language models and industrial analytics is redefining how we
 In modern industrial environments, stakeholders often encounter complex, high-volume datasets/ Dashboards offer static slices, but asking follow-up questions often requires more technical depth or assistance. Language models now allow non-technical users to explore data via natural language—without leaving the analytics environment--as demonstrated in the below preview:
 <br>
 
-
-https://github.com/user-attachments/assets/38657731-1082-49ce-844e-d2e05104ad1d
-
+<video width="720" height="auto" controls>
+  <source src="/38657731-1082-49ce-844e-d2e05104ad1d" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 Data Source: [Kaggle](https://www.kaggle.com/datasets?tags=12026-Manufacturing/)
 
