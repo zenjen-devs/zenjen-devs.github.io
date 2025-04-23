@@ -2,7 +2,7 @@
 
 # Visual Analytics Meets Language Models: Interactive AI for Industrial Intelligence
 
-<img src="https://raw.githubusercontent.com/zenjen-devs/zenjen-devs.github.io/master/images/demand_forecasting_banner.png">
+<img src="images/llm_manufacturing_banner.jpeg?raw=true" title="Source: Adobe Images"/>
 
 
 [View Repository](https://github.com/zenjen-dev/ml-projects) <br>
