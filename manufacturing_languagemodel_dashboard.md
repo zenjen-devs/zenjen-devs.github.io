@@ -8,79 +8,80 @@
 [View Repository](https://github.com/zenjen-dev/ml-projects) <br>
 
 
-*Note: This portfolio section is currently in progress. Please see the project repository linked above for current  status.*
+*Note: This portfolio section is currently in progress. Please see the project repository linked above for current status.*
 
 <h3> Project Summary </h3>
 
-In the dynamic and cost-sensitive world of manufacturing, accurately forecasting raw materials costs is critical for maintaining profitability and operational efficiency. This project leverages Facebook's Prophet time series forecasting model to predict raw materials costs, incorporating inflation rate as an exogenous regressor. By analyzing historical production and cost data, the model aims to provide actionable insights for budgeting, procurement, and cost management.
+The convergence of language models and industrial analytics is redefining how we interact with data. Traditional dashboards served their purpose, but we’re now moving into a phase where conversational interfaces, powered by LLMs (Large Language Models), can deliver both insight and interactivity. In this project, I demonstrate how integrating an LLM with visual analytics tools—such as Power BI or Plotly Dash—can augment supply chain decision-making and streamline exploratory analysis.
 
-**Results**: The Prophet model achieved a Mean Absolute Error (MAE) of 0.72 and a Root Mean Squared Error (RMSE) of 0.92, indicating moderate predictive accuracy. However, critical model performance metrics Mean Absolute Percentage Error (MAPE) and R² of 0.02 suggest significant challenges in model performance. Current results highlight the need for model refinement and additional feature engineering to maintain model robustness in the future.
+<h3> Context: From Static Dashboards to Interactive Intelligence</h3>
 
-<h3> Project Details: Exploratory Data Analysis </h3>
-
-**Data Collection and Preprocessing:**
-The dataset used in this project consists of historical production and cost data, including metrics such as production hours, workforce size, machine efficiency, and raw materials costs. The data was sourced from a manufacturing facility and underwent rigorous cleaning, normalization, and preprocessing to ensure accuracy and consistency. Below is a sample visualization of the raw materials cost vs. inflation rate trends over time:
-<br>
-
-<img src="https://raw.githubusercontent.com/zenjen-devs/zenjen-devs.github.io/master/images/rawmat_v_inflation.png">
-  
-Data Source: [Federal Reserve Economic Data](https://fred.stlouisfed.org/)
-
-
-### Insights from EDA
-
-**Cost Variability:** Raw materials costs exhibit significant variability, with fluctuations driven by factors such as supplier pricing, production volume, and inflation rates.
-
-**Inflation Impact:** The inflation rate shows a strong correlation with raw materials costs, indicating its importance as an exogenous regressor in the forecasting model.
-
-**Production Efficiency:** Metrics such as machine efficiency and production volume per hour show potential relationships with raw materials costs, suggesting opportunities for further feature engineering.
-
-**Seasonal Trends:** While the dataset does not explicitly capture seasonal trends, the inclusion of time-based features (e.g., timestamp hour) may help uncover hidden patterns.
+In modern industrial environments, stakeholders often encounter complex, high-volume datasets/ Dashboards offer static slices, but asking follow-up questions often requires more technical depth or assistance. Language models now allow non-technical users to explore data via natural language—without leaving the analytics environment--as demonstrated in the below preview:
 <br>
 
 
-### Predictive Modeling with Prophet
+https://github.com/user-attachments/assets/38657731-1082-49ce-844e-d2e05104ad1d
 
-<img src="https://raw.githubusercontent.com/zenjen-devs/zenjen-devs.github.io/master/images/prophet_fc.png">
+
+Data Source: [Kaggle](https://www.kaggle.com/datasets?tags=12026-Manufacturing/)
+
+### The System: How LLMs Integrate with Visual Analytics
+
+We implemented a basic architecture using OpenAI’s GPT API with a Dash/Streamlit front-end. The goal: Allow users to upload a CSV or query a database, then interact with the results visually and conversationally.
+
+```python
+# Callback for chat input
+@app.callback(
+    Output('chat-response', 'children'),
+    Input('submit-chat', 'n_clicks'),
+    State('chat-input', 'value')
+)
+def generate_response(n_clicks, user_input):
+    if n_clicks == 0 or not user_input:
+        return ""
+# ...Query handling specifications, GPT message debug, etc...
+    return
+
+# Run the chat app
+if __name__ == '__main__':
+    app.run(debug=True)
+```
+
+The model parses user input, determines the intent (e.g., “Show monthly trend for delayed shipments in Asia-Pacific”), and returns a brief narrative explanation summarizing trends, anomalies, or comparisons.
+
 <br>
-The forecast reflects the seasonal decomposition results that indicate raw materials cost has trended down, with weekly seasonal peaks observed in the last year.
 
-**Model Configuration:**
-<br>
-Yearly Seasonality: Auto
-<br>
-Weekly Seasonality: Auto
-<br>
-Daily Seasonality: Auto
-<br>
-Exogenous Regressor: Inflation Rate
-<br>
-Initial Training Period: 90 days
-<br>
-Cross-Validation Period: 30 days
-<br>
-Forecast Horizon: 30 days
-<br> 
-<br> 
-<img src="https://raw.githubusercontent.com/zenjen-devs/zenjen-devs.github.io/master/images/prophet_decomp.png">
+### Industrial Use Case Scenario: Supplier Analytics & Risk Forecasting
 
-**Performance Evaluation:**
+Real-time supplier analytics are invaluable in an increasingly volatile market. AI-powered dashboards can provide insights instantly with clarity and without technical blocks. 
 
-- MAE (Mean Absolute Error): 0.72
+![Screenshot 2025-04-23 at 6 18 07 PM](https://github.com/user-attachments/assets/30c574de-8070-4ed9-a6d1-f0de6e2867bb)
 
-- RMSE (Root Mean Squared Error): 0.92
+The project also expands to advanced predictive analytics; In a case where a manufacturer wants to assess supplier delivery risk across multiple locations and overlay that risk with maintenance bulletin timelines. A user asks:
+
+	“Which suppliers are linked to parts with overdue service bulletins?”
+
+The model:
+	- 1.	Filters the dataset to service bulletins marked “Open” and past the effective date.
+	- 2.	Cross-references supplier names tied to those part numbers.
+	- 3.	Renders a Gantt-style timeline alongside a sortable table of risk rankings.
+
+This kind of interactive querying drastically reduces the time it takes for an engineer or program manager to surface critical information.
+
+### Design Considerations and Challenges
+
+- Data privacy: All prompts and outputs are contained within a secure local environment.
+- Explainability: LLMs provide both visual and textual responses for transparency.
+- Error handling: Prompts are validated, and fallback responses guide users when queries are ambiguous.
 <br>
 
-**Real-time Monitoring System:**
-To operationalize the model, we developed a real-time monitoring dashboard that provides early warnings of potential cost fluctuations. The dashboard integrates with existing procurement and budgeting systems, enabling stakeholders to take proactive measures such as adjusting procurement strategies or renegotiating supplier contracts.
+### How This Project Contributes to Industrial Intelligence
 
-**Integration with Maintenance Protocols:**
-Upon successful validation, the model was integrated into the company's procurement and budgeting protocols. Key outcomes include:
+In complex domains—like aerospace, energy, or manufacturing—decision-makers must navigate fragmented data across systems. By embedding natural language interfaces into analytics platforms, we:
+	•	Enable faster and deeper exploration.
+	•	Make analysis more accessible to non-technical users.
+	•	Reduce dependency on data teams for ad hoc insights.
 
-- Proactive Cost Management: Early detection of potential cost fluctuations allows for timely interventions, reducing the likelihood of budget overruns.
+LLM-based analytics are not a replacement for dashboards—they’re an extension of what dashboards could be in a more intelligent, more interactive future.
 
-- Optimized Procurement Strategies: By forecasting raw materials costs, the model helps optimize procurement strategies, ensuring cost-effective sourcing.
-
-- Enhanced Supplier Negotiations: Cost forecasts enable more effective negotiations with suppliers, ensuring favorable terms and pricing.
-
-**References:** [See Repository](https://github.com/zenjen-dev/deep-learning_predicting-failures/blob/main/DeepLearning_PredictiveMaintenance.ipynb) 
+**References:** [View Repository](https://github.com/zenjen-dev/ml-projects) <br>
