@@ -4,11 +4,11 @@ Navigate to: <a href="#currentprojects">Current Projects</a> <b>|</b> <a href="#
 
 <h2 id="currentprojects" style="color:DarkSlateGray;">Featured Projects</h2>
 
-### [Forecasting Demand & Cost Fluctuations in Supply Chains](/demand_forecasting_algorithms)
+### [Visual Anaytics Meets Language Models: Interactive AI for Industrial Intelligence](/manufacturing_languagemodel_dashboard)
 
-<p><a href="https://zenjen-devs.github.io/demand_forecasting_algorithms"><img src="https://github.com/user-attachments/assets/212fd137-d486-41b4-a15f-b2baec1886bb" title="Source: Shutterstock"/></a></p>
+<p><a href="https://zenjen-devs.github.io/manufacturing_languagemodel_dashboard"><img src="images/llm_manufacturing_banner.jpeg?raw=true" title="Source: Adobe Images"/></a></p>
 
-Time series modeling with Prophet to forecast chaotic supply chains.
+An LLM-powered dashboard tool to explore and automate insights for production and engineering teams.
 
 ### [Predicting Failures in High-Risk Production: Aircraft Engines](/predicting_failures)
 
