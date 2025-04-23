@@ -1,6 +1,6 @@
 [Back](https://zenjen-devs.github.io)
 
-# Predicting Cost & Demand Fluctuation in Supply Chains
+# Visual Analytics Meets Language Models: Interactive AI for Industrial Intelligence
 
 <img src="https://raw.githubusercontent.com/zenjen-devs/zenjen-devs.github.io/master/images/demand_forecasting_banner.png">
 
