@@ -2,7 +2,7 @@
 
 # Predicting Failures in High-Risk Production: Aircraft Engines
 
-![image](https://github.com/user-attachments/assets/2e6c663b-3b38-4538-a1b3-87aadfe5ec4c)
+<img src="https://github.com/user-attachments/assets/eddbc74a-a405-44ad-9ccb-a18213be4077" title="Source: Shutterstock"/>
 
 
 [View Repository](https://github.com/zenjen-dev/deep-learning_predicting-failures) <br>
