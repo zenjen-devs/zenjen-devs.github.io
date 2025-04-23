@@ -24,7 +24,7 @@ Random forest classifier model predicts crash severities in NYC and full report 
 
 ### [Data Science Internship at BMW's Autonomous Driver Team](/internship2021)
 
-<p><a href="https://zenjen-devs.github.io/internship2021"><img src="images/BMW-Intel.jpg?raw=true" title="Source: Body Shop Business"/></a></p>
+<p><a href="https://zenjen-devs.github.io/internship2021"><img align="center" src="images/bmw-ix-adas.png?raw=true"/></a></p>  
 
 Large-scale data analysis and applied machine learning to improve testing and implementation of autonomous driving features.
 
