@@ -60,3 +60,13 @@ h1, h2, h3, h4, h5, h6 {
   -moz-osx-font-smoothing: grayscale;
   text-rendering: optimizeLegibility;
 }
+
+
+.site-logo {
+  border: none !important;
+  display: block;
+  margin: 0 auto 0.5em auto;
+  max-width: 100%;
+  height: auto;
+  image-rendering: auto;
+}
