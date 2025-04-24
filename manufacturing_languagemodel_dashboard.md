@@ -23,6 +23,7 @@ In modern industrial environments, stakeholders often encounter complex, high-vo
   <div style="max-width: 100%; height: auto;">
     <video style="width: 100%; height: auto;" controls>
       <source src="images/llm_dash.mp4" type="video/mp4">
+      Your browser does not support the video tag.
     </video>
   </div>
 </section>
