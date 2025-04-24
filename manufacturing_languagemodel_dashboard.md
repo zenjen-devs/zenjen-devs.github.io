@@ -52,7 +52,7 @@ if __name__ == '__main__':
     app.run(debug=True)
 ```
 
-The model parses user input, determines the intent (e.g., “Show monthly trend for delayed shipments in Asia-Pacific”), and returns a brief narrative explanation summarizing trends, anomalies, or comparisons.
+The model parses user input, determines the intent, and returns a brief narrative explanation summarizing trends, anomalies, or comparisons.
 
 <br>
 
