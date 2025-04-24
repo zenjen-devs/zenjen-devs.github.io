@@ -80,10 +80,10 @@ This kind of interactive querying drastically reduces the time it takes for an e
 
 ### How This Project Contributes to Industrial Intelligence
 
-In complex domains—like aerospace, energy, or manufacturing—decision-makers must navigate fragmented data across systems. By embedding natural language interfaces into analytics platforms, we:
-	•	Enable faster and deeper exploration.
-	•	Make analysis more accessible to non-technical users.
-	•	Reduce dependency on data teams for ad hoc insights.
+In complex domains—like aerospace, energy, or manufacturing—decision-makers must navigate fragmented data across systems. By embedding natural language interfaces into analytics platforms, we can address several strategic goals:
+- Enable faster and deeper exploration.
+- Make analysis more accessible to non-technical users.
+- Reduce dependency on data teams for ad hoc insights.
 
 LLM-based analytics are not a replacement for dashboards—they’re an extension of what dashboards could be in a more intelligent, more interactive future.
 
