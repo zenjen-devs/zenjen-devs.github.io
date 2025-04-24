@@ -58,9 +58,7 @@ Real-time supplier analytics are invaluable in an increasingly volatile market. 
 
 ![Screenshot 2025-04-23 at 6 18 07 PM](https://github.com/user-attachments/assets/30c574de-8070-4ed9-a6d1-f0de6e2867bb)
 
-The project also expands to advanced predictive analytics; In a case where a manufacturer wants to assess supplier delivery risk across multiple locations and overlay that risk with maintenance bulletin timelines. A user asks:
-
-	“Which suppliers are linked to parts with overdue service bulletins?”
+The project also expands to advanced predictive analytics; In a case where a manufacturer wants to assess supplier delivery risk across multiple locations and overlay that risk with maintenance bulletin timelines. A user asks: “Which suppliers are linked to parts with overdue service bulletins?”
 
 The model:
 	- 1.	Filters the dataset to service bulletins marked “Open” and past the effective date.
