@@ -16,7 +16,7 @@ The convergence of language models and industrial analytics is redefining how we
 
 <h3> Context: From Static Dashboards to Interactive Intelligence</h3>
 
-In modern industrial environments, stakeholders often encounter complex, high-volume datasets/ Dashboards offer static slices, but asking follow-up questions often requires more technical depth or assistance. Language models now allow non-technical users to explore data via natural language—without leaving the analytics environment--as demonstrated in the below preview:
+In modern industrial environments, stakeholders often encounter complex, high-volume datasets/ Dashboards offer static slices, but asking follow-up questions often requires more technical depth or assistance. Language models now allow non-technical users to explore data via natural language without leaving the analytics environment—as demonstrated in the below preview:
 <br>
 
 <video width="720" height="auto" controls>
