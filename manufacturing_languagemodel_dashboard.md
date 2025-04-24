@@ -65,9 +65,9 @@ Real-time supplier analytics are invaluable in an increasingly volatile market. 
 The project also expands to advanced predictive analytics; In a case where a manufacturer wants to assess supplier delivery risk across multiple locations and overlay that risk with maintenance bulletin timelines. A user asks: “Which suppliers are linked to parts with overdue service bulletins?”
 
 The model:
-	- 1.	Filters the dataset to service bulletins marked “Open” and past the effective date.
-	- 2.	Cross-references supplier names tied to those part numbers.
-	- 3.	Renders a Gantt-style timeline alongside a sortable table of risk rankings.
+1. Filters the dataset to service bulletins marked “Open” and past the effective date.
+2. Cross-references supplier names tied to those part numbers.
+3. Renders a Gantt-style timeline alongside a sortable table of risk rankings.
 
 This kind of interactive querying drastically reduces the time it takes for an engineer or program manager to surface critical information.
 
