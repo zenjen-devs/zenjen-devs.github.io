@@ -20,7 +20,7 @@ In modern industrial environments, stakeholders often encounter complex, high-vo
 <br>
 
 <video width="720" height="auto" controls>
-  <source src="images/llm_dash.mov" type="video/mov">
+  <source src="images/llm_dash.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
