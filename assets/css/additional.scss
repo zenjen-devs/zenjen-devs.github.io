@@ -48,3 +48,14 @@ a:active {
   color: darkslateblue;
   font-family: 'Poppins', sans-serif;
 }
+
+.site-logo {
+  border: none !important;
+  margin-bottom: 0 !important;
+}
+
+.video-section h1, .video-section h2 {
+  all: unset; // removes inherited styles if leaking
+  font-weight: 600;
+  font-size: 1.8rem;
+}
