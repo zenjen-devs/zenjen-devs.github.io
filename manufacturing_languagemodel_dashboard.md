@@ -12,11 +12,11 @@
 
 <h3> Project Summary </h3>
 
-The convergence of language models and industrial analytics is redefining how we interact with data. Traditional dashboards served their purpose, but we’re now moving into a phase where conversational interfaces, powered by LLMs (Large Language Models), can deliver both insight and interactivity. In this project, I demonstrate how integrating an LLM with visual analytics tools—such as Power BI or Plotly Dash—can augment supply chain decision-making and streamline exploratory analysis.
+The emergence of language models and industrial analytics is transforming how we interact with data. Traditional dashboards served their purpose, and we've now moved to a phase where conversational interfaces are powered by LLMs (Large Language Models) and deliver both insight and interactivity. In this project, I demonstrate how integrating an LLM with visual analytics tools—such as Power BI or Plotly Dash—can augment supply chain decision-making and streamline exploratory analysis.
 
 <h3> Context: From Static Dashboards to Interactive Intelligence</h3>
 
-In modern industrial environments, stakeholders often encounter complex, high-volume datasets/ Dashboards offer static slices, but asking follow-up questions often requires more technical depth or assistance. Language models now allow non-technical users to explore data via natural language without leaving the analytics environment—as demonstrated in the below preview:
+In modern industrial environments, we often encounter complex, high-volume datasets. Dashboards offer static slices, but asking follow-up questions often requires more technical depth or assistance. Language models now allow non-technical users to explore data via natural language without leaving the analytics environment—as demonstrated in the below preview:
 <br>
 
 <section class="video-section">
