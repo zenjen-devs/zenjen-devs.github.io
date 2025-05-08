@@ -3,10 +3,10 @@
 ### About
 
 <p align="left">
-Jen leads data science work that drives forecasting, automation, and decision-making in complex operational settings. In her current role at Raytheoon Technologies, she focuses on building and scaling machine learning models to support long-range planning and execution.
+Jen leads data science initiatives that enhance forecasting, automation, and strategic decision-making in complex operational environments. As a Data Scientist at Collins Aerospace (RTX), she develops and scales machine learning models to support long-term planning and operational execution
 <br>
   <br>
-Her previous experience includes developing autonomous analytics at BMW and leading predictive modeling initiatives at Rolls-Royce and Raytheon Technologies. Jen holds a data science degree from NYU and has worked across aerospace, automotive, and communications sectors.
+Her previous experience includes developing autonomous driving and engineering analytics at BMW and leading predictive modeling initiatives at Rolls-Royce. Jen holds a data science degree from NYU and has worked across aerospace, automotive, and communications sectors.
 
 
 
