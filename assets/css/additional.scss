@@ -75,8 +75,7 @@ h1, h2, h3, h4, h5, h6 {
   background-color: white;
 }
 
-.site-logo img {
-  border: none !important;
-  outline: none !important;
-  box-shadow: none !important;
+.site-logo {
+  image-rendering: -webkit-optimize-contrast;
+  image-rendering: crisp-edges;
 }
