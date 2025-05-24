@@ -2,11 +2,13 @@
 
 ### About
 
-<p align="left">
-Jen works at the intersection of data science and operations. She builds models that improve forecasting, automation, and decision-making in complex environments. Her work spans long-term strategy, predictive maintenance, and engineering analytics. She has applied these tools across the aerospace, automotive, and communications industries. Her experience includes roles at Raytheon Technologies, BMW, and Rolls-Royce.
-<br>
-    <br>
-Originally drawn to data through a background in engineering and a curiosity about complex industries, she now applies that curiosity to modeling large-scale operations. Jen holds a degree in Data Science from New York University.
+<p align="left">  
+Jen is a Data Science Manager at Optimum (Altice USA), where she leads machine learning and analytics initiatives that shape strategy across large-scale consumer tech operations. Her work spans long-range forecasting, intelligent automation, and applied modeling in complex systems. She previously contributed to  data science initiatives in roles at at Raytheon Technologies, Rolls-Royce, and BMW.
+<br>  
+<br>  
+Originally drawn to data through a background in engineering and a curiosity about how systems work, she now applies that mindset to modeling operations at scale. Her tech stack includes Python, SQL, and cloud-native tools to build models, pipelines, and interactive analytics. Jen holds a degree in Data Science from New York University.
+</p>
+
 
 
 
