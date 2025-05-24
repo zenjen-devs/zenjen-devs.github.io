@@ -12,8 +12,5 @@ Originally drawn to data through a background in engineering and a curiosity abo
 
 
 
-  
-
-  </p>
 
 
