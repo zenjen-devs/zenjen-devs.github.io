@@ -78,7 +78,13 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .site-logo {
-  background-color: transparent;
+  background-color: transparent !important;
+}
+
+.site-logo {
+  border: none !important;
+  outline: none !important;
+  box-shadow: none !important;
 }
 
 .site-logo {
