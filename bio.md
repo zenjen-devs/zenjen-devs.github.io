@@ -2,7 +2,7 @@
 
 ### About
 
-<p align="left">  
+<p align="center">  
 Jen is a principal machine learning engineer specializing in production ML systems and strategic AI/ML implementation across enterprise operations. As a seasoned leader with extensive advanced analytics experience, she architects end-to-end ML solutions that transform complex operational challenges into predictive intelligence at scale. Her expertise spans forecasting systems, intelligent automation pipelines, and MLOps infrastructure in high-risk industrial environments. <br>
 Jen has led ML engineering initiatives at Raytheon Technologies, Rolls-Royce, and BMW, building and scalable pipelines into production that optimize mission-critical operations.
 <br>
