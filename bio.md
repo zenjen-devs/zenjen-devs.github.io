@@ -3,10 +3,12 @@
 ### About
 
 <p align="left">  
-Jen is a machine learning engineer specializing in predictive analytics tools development, and experienced leader in AI/ML initiatives that shape strategy across large-scale operations. Her work spans long-range forecasting, intelligent automation, and applied modeling in complex systems. She previously contributed to data science and ML initiatives in roles at Raytheon Technologies, Rolls-Royce, and BMW. Jen is currently a Data Science Manager at Altice USA, where she leads model development for key operational domains.
-<br>  
-<br>  
-Originally drawn to data through a background in engineering and a curiosity about how systems work, she now applies that mindset to modeling operations at scale. Her tech stack includes Python, SQL, and cloud-native AI/ML tools to build models, real-time pipelines, and interactive analytics. Jen holds a degree in Data Science from New York University.
+Jen is a principal machine learning engineer specializing in production ML systems and strategic AI/ML implementation across enterprise operations. As a seasoned leader with extensive predictive analytics experience, she architects end-to-end ML solutions that transform complex operational challenges into predictive intelligence at scale. Her expertise spans forecasting systems, intelligent automation pipelines, and MLOps infrastructure in high-risk industrial environments. 
+Jen has led ML engineering initiatives at Raytheon Technologies, Rolls-Royce, and BMW, building production-ready models and scalable data pipelines that optimize mission-critical operations.
+<br>
+  <br>
+Originally drawn to data through an engineering background and curiosity about how complex systems work, she now applies herself to designing robust ML infrastructure and production pipelines. Her tech stack includes Python, cloud-native ML platforms, and distributed computing frameworks to build real-time inference systems, automated model monitoring, and strategic analytics tools. Jen holds a degree in Data Science from New York University.
+
 </p>
 
 
