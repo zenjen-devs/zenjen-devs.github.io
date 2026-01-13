@@ -85,9 +85,7 @@ Supervised machine learning in Python to find the cleanest eateries in NYC using
 
 ---
 
-### [View Archive](/archive)
 
 
 
-
-<!-- Remove above link if you don't want to attibute -->
+<!-- Archive section removed -->

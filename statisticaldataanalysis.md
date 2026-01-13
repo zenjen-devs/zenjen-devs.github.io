@@ -185,7 +185,7 @@ mod      2  8       0.0523
 ```
 Conclusively, both programs achieve the same results--there may be some evidence that the juice suppliers are different. 
 
-[View Programs in Github](https//github.com/jenarriaz/mixed-models)
+[View Programs in Github](https://github.com/jenarriaz/mixed-models)
 ###### Credits: [Ben Bolker/Rpubs](https://rpubs.com/bbolker/66298), [Ken Kleinmen/SASandR](https://www.amazon.com/gp/product/1466584491/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1466584491&linkCode=as2&tag=sasandrblog-20)
 
 <br>
