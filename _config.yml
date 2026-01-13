@@ -1,6 +1,6 @@
 title: Jen Arriaza # your name (or website title) here
 logo: "/images/pfp2025_v7b.png" # your photo (or logo) here
-eplugins:
+plugins:
   - jemoji
 description: > # text below
 
