@@ -4,7 +4,7 @@ Navigate to: <a href="#currentprojects">Current Projects</a> <b>|</b> <a href="#
 
 <h2 id="currentprojects" style="color:DarkSlateGray;">Featured Projects</h2>
 
-### [Visual Anaytics Meets Language Models: Interactive AI for Industrial Intelligence](/manufacturing_languagemodel_dashboard)
+### [Visual Analytics Meets Language Models: Interactive AI for Industrial Intelligence](/manufacturing_languagemodel_dashboard)
 
 <p><a href="https://zenjen-devs.github.io/manufacturing_languagemodel_dashboard"><img src="images/llm_manufacturing_banner.jpeg?raw=true" title="Source: Adobe Images"/></a></p>
 
