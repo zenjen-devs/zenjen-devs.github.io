@@ -4,7 +4,7 @@ Navigate to: <a href="#currentprojects">Current Projects</a> <b>|</b> <a href="#
 
 <h2 id="currentprojects" style="color:DarkSlateGray;">Featured Projects</h2>
 
-### [Machine Learning for Grid Operations: Day-Ahead Load Forecasting for NYC Energy Markets](/load_forecasting_ml)
+### [Machine Learning for Grid Operations: Day-Ahead Load Forecasting for NYC Energy Market](/load_forecasting_ml)
 
 <p><a href="https://zenjen-devs.github.io/load_forecasting_ml"><img src="images/extrawide_3x1.jpg?raw=true" title="Source: Shutterstock"/></a></p>
 
