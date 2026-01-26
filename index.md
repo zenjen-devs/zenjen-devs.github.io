@@ -6,7 +6,7 @@ Navigate to: <a href="#currentprojects">Current Projects</a> <b>|</b> <a href="#
 
 ### [Machine Learning for Grid Operations: Day-Ahead Load Forecasting for NYC Energy Markets](/load_forecasting_ml)
 
-<p><a href="https://zenjen-devs.github.io/load_forecasting_ml"><img src="images/extrawide_3x1.jpg?raw=true" title="Source: Adobe Images"/></a></p>
+<p><a href="https://zenjen-devs.github.io/load_forecasting_ml"><img src="images/extrawide_3x1.jpg?raw=true" title="Source: Shutterstock"/></a></p>
 
 Ensemble forecasting model achieves low error rates on NYISO hourly demand data, enabling capacity planning and unit commitment with high confidence.
 
