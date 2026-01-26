@@ -8,7 +8,7 @@ Navigate to: <a href="#currentprojects">Current Projects</a> <b>|</b> <a href="#
 
 <p><a href="https://zenjen-devs.github.io/load_forecasting_ml"><img src="images/extrawide_3x1.jpg?raw=true" title="Source: Shutterstock"/></a></p>
 
-Ensemble forecasting model achieves low error rates on NYISO hourly demand data, enabling capacity planning and unit commitment with high confidence.
+Forecasting model fine-tuned with XGBoost achieves low error rates on NYISO hourly demand data, enabling capacity planning and unit commitment with high confidence.
 
 ### [Predicting Engine Failures in High-Risk Ops Using Synthetic Anomaly Injections: Aircraft Engines](/predicting_failures)
 
