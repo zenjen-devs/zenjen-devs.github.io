@@ -4,17 +4,24 @@ Navigate to: <a href="#currentprojects">Current Projects</a> <b>|</b> <a href="#
 
 <h2 id="currentprojects" style="color:DarkSlateGray;">Featured Projects</h2>
 
+### [Machine Learning for Grid Operations: Day-Ahead Load Forecasting for NYC Energy Markets](/load_forecasting_ml)
+
+<p><a href="https://zenjen-devs.github.io/predicting_failures"><img src="https://github.com/user-attachments/assets/eddbc74a-a405-44ad-9ccb-a18213be4077" title="Source: Shutterstock"/></a></p>
+
+Ensemble forecasting model achieves low error rates on NYISO hourly demand data, enabling capacity planning and unit commitment with high confidence.
+
+### [Predicting Engine Failures in High-Risk Ops Using Synthetic Anomaly Injections: Aircraft Engines](/predicting_failures)
+
+<p><a href="https://zenjen-devs.github.io/predicting_failures"><img src="https://github.com/user-attachments/assets/eddbc74a-a405-44ad-9ccb-a18213be4077" title="Source: Shutterstock"/></a></p>
+
+Evaluating deep learning models augmented with synthetic sensor anomalies to improve prediction of failures in high risk operations.
+
 ### [Visual Anaytics Meets Language Models: Interactive AI for Industrial Intelligence](/manufacturing_languagemodel_dashboard)
 
 <p><a href="https://zenjen-devs.github.io/manufacturing_languagemodel_dashboard"><img src="images/llm_manufacturing_banner.jpeg?raw=true" title="Source: Adobe Images"/></a></p>
 
 An LLM-powered dashboard tool to explore and automate insights for production and engineering teams.
 
-### [Predicting Failures in High-Risk Production: Aircraft Engines](/predicting_failures)
-
-<p><a href="https://zenjen-devs.github.io/predicting_failures"><img src="https://github.com/user-attachments/assets/eddbc74a-a405-44ad-9ccb-a18213be4077" title="Source: Shutterstock"/></a></p>
-
-Evaluating deep learning models to predict failures in high risk production environments.
 
 ### [Classification of Crash Severities & Pre/Post COVID Analytics](/nyc_crash_project)
 
