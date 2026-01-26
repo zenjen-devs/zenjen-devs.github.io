@@ -1,4 +1,4 @@
-# Predicting Failures in High-Risk Production: Aircraft Engines2
+# Machine Learning for Grid Operations: Day-Ahead Load Forecasting for NYC Energy Market
 
 <img src="https://github.com/user-attachments/assets/eddbc74a-a405-44ad-9ccb-a18213be4077" title="Source: Shutterstock"/>
 
