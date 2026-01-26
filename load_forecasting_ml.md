@@ -1,7 +1,6 @@
 # Machine Learning for Grid Operations: Day-Ahead Load Forecasting for NYC Energy Market
 
-<img src="https://github.com/user-attachments/assets/eddbc74a-a405-44ad-9ccb-a18213be4077" title="Source: Shutterstock"/>
-
+><img src="images/extrawide_3x1.jpg?raw=true" title="Source: Shutterstock"/>
 
 [View Repository](https://github.com/zenjen-dev/deep-learning_predicting-failures) <br>
 
