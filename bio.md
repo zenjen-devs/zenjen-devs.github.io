@@ -7,7 +7,7 @@ Jen is a senior data scientist and engineer specializing in advanced analytics a
 <br>
     <br>
         
-She has led projects at Raytheon, Rolls-Royce, and BMW, including initiatives in autonomous vehicles and defense aerospace, with focus on operational intelligencr and strategic oversight of deployed predictive models. Jen obtained a degree in Applied Data Science from New York University, and will complete her Masters in Systems Engineering from Georgia Tech.
+She has led projects at Raytheon, Rolls-Royce, and BMW, including initiatives in autonomous vehicles and defense aerospace, with focus on operational intelligence and strategic oversight of deployed predictive models. Jen obtained a degree in Applied Data Science from New York University, and will complete her Masters in Systems Engineering from Georgia Tech.
 </p>
 
 
